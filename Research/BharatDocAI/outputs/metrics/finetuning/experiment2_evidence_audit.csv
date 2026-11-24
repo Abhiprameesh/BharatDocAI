@@ -1,0 +1,10091 @@
+document_id,language,category,ocr_engine,field,expected,ocr_text,exact_match,similarity_score,evidence_category
+english_invoice_001,english,invoice,tesseract,name,Kiran Rao,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Rao
+
+01/01/2026
+
+INV-0001
+
+Bengaluru
+
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,tesseract,date,01/01/2026,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Rao
+
+01/01/2026
+
+INV-0001
+
+Bengaluru
+
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,tesseract,document_id,INV-0001,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Rao
+
+01/01/2026
+
+INV-0001
+
+Bengaluru
+
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,tesseract,address,Bengaluru,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Rao
+
+01/01/2026
+
+INV-0001
+
+Bengaluru
+
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,tesseract,amount,1637,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Rao
+
+01/01/2026
+
+INV-0001
+
+Bengaluru
+
+1637",True,1.0,exact_match
+english_invoice_002,english,invoice,tesseract,name,Kiran Sharma,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Sharma
+
+02/01/2026
+
+INV-0002
+
+Mysuru
+
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,tesseract,date,02/01/2026,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Sharma
+
+02/01/2026
+
+INV-0002
+
+Mysuru
+
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,tesseract,document_id,INV-0002,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Sharma
+
+02/01/2026
+
+INV-0002
+
+Mysuru
+
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,tesseract,address,Mysuru,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Sharma
+
+02/01/2026
+
+INV-0002
+
+Mysuru
+
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,tesseract,amount,1774,"INVOICE
+
+Customer Name:
+
+Invoice Date:
+
+Invoice Number:
+
+Address:
+
+Total Amount:
+
+Kiran Sharma
+
+02/01/2026
+
+INV-0002
+
+Mysuru
+
+1774",True,1.0,exact_match
+english_invoice_003,english,invoice,tesseract,name,Divya Sharma,"INVOICE
+
+Customer Name Divya Sharma
+Invoice Date 03/01/2026
+Invoice Number INV-0003
+Address Mangaluru
+Total Amount 1911",True,1.0,exact_match
+english_invoice_003,english,invoice,tesseract,date,03/01/2026,"INVOICE
+
+Customer Name Divya Sharma
+Invoice Date 03/01/2026
+Invoice Number INV-0003
+Address Mangaluru
+Total Amount 1911",True,1.0,exact_match
+english_invoice_003,english,invoice,tesseract,document_id,INV-0003,"INVOICE
+
+Customer Name Divya Sharma
+Invoice Date 03/01/2026
+Invoice Number INV-0003
+Address Mangaluru
+Total Amount 1911",True,1.0,exact_match
+english_invoice_003,english,invoice,tesseract,address,Mangaluru,"INVOICE
+
+Customer Name Divya Sharma
+Invoice Date 03/01/2026
+Invoice Number INV-0003
+Address Mangaluru
+Total Amount 1911",True,1.0,exact_match
+english_invoice_003,english,invoice,tesseract,amount,1911,"INVOICE
+
+Customer Name Divya Sharma
+Invoice Date 03/01/2026
+Invoice Number INV-0003
+Address Mangaluru
+Total Amount 1911",True,1.0,exact_match
+english_invoice_004,english,invoice,tesseract,name,Ravi Menon,"INVOICE
+
+Customer Name Ravi Menon
+Invoice Date 04/01/2026
+Invoice Number INV-0004
+Address Hubballi
+Total Amount 2048",True,1.0,exact_match
+english_invoice_004,english,invoice,tesseract,date,04/01/2026,"INVOICE
+
+Customer Name Ravi Menon
+Invoice Date 04/01/2026
+Invoice Number INV-0004
+Address Hubballi
+Total Amount 2048",True,1.0,exact_match
+english_invoice_004,english,invoice,tesseract,document_id,INV-0004,"INVOICE
+
+Customer Name Ravi Menon
+Invoice Date 04/01/2026
+Invoice Number INV-0004
+Address Hubballi
+Total Amount 2048",True,1.0,exact_match
+english_invoice_004,english,invoice,tesseract,address,Hubballi,"INVOICE
+
+Customer Name Ravi Menon
+Invoice Date 04/01/2026
+Invoice Number INV-0004
+Address Hubballi
+Total Amount 2048",True,1.0,exact_match
+english_invoice_004,english,invoice,tesseract,amount,2048,"INVOICE
+
+Customer Name Ravi Menon
+Invoice Date 04/01/2026
+Invoice Number INV-0004
+Address Hubballi
+Total Amount 2048",True,1.0,exact_match
+english_invoice_005,english,invoice,tesseract,name,Rahul Joshi,"INVOICE
+
+Customer Name
+Rahul Joshi
+
+Invoice Date
+05/01/2026
+
+Invoice Number
+INV-0005
+
+Address
+Belagavi
+
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,tesseract,date,05/01/2026,"INVOICE
+
+Customer Name
+Rahul Joshi
+
+Invoice Date
+05/01/2026
+
+Invoice Number
+INV-0005
+
+Address
+Belagavi
+
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,tesseract,document_id,INV-0005,"INVOICE
+
+Customer Name
+Rahul Joshi
+
+Invoice Date
+05/01/2026
+
+Invoice Number
+INV-0005
+
+Address
+Belagavi
+
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,tesseract,address,Belagavi,"INVOICE
+
+Customer Name
+Rahul Joshi
+
+Invoice Date
+05/01/2026
+
+Invoice Number
+INV-0005
+
+Address
+Belagavi
+
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,tesseract,amount,2185,"INVOICE
+
+Customer Name
+Rahul Joshi
+
+Invoice Date
+05/01/2026
+
+Invoice Number
+INV-0005
+
+Address
+Belagavi
+
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_006,english,invoice,tesseract,name,Meera Kumar,"INVOICE
+
+1. Customer Name:
+
+2. Invoice Date:
+
+3. Invoice Number:
+
+4. Address:
+
+5. Total Amount:
+
+Meera Kumar
+
+06/01/2026
+
+INV-0006
+
+Shivamogga
+
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,tesseract,date,06/01/2026,"INVOICE
+
+1. Customer Name:
+
+2. Invoice Date:
+
+3. Invoice Number:
+
+4. Address:
+
+5. Total Amount:
+
+Meera Kumar
+
+06/01/2026
+
+INV-0006
+
+Shivamogga
+
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,tesseract,document_id,INV-0006,"INVOICE
+
+1. Customer Name:
+
+2. Invoice Date:
+
+3. Invoice Number:
+
+4. Address:
+
+5. Total Amount:
+
+Meera Kumar
+
+06/01/2026
+
+INV-0006
+
+Shivamogga
+
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,tesseract,address,Shivamogga,"INVOICE
+
+1. Customer Name:
+
+2. Invoice Date:
+
+3. Invoice Number:
+
+4. Address:
+
+5. Total Amount:
+
+Meera Kumar
+
+06/01/2026
+
+INV-0006
+
+Shivamogga
+
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,tesseract,amount,2322,"INVOICE
+
+1. Customer Name:
+
+2. Invoice Date:
+
+3. Invoice Number:
+
+4. Address:
+
+5. Total Amount:
+
+Meera Kumar
+
+06/01/2026
+
+INV-0006
+
+Shivamogga
+
+2322",True,1.0,exact_match
+english_application_011,english,application,tesseract,name,Sneha Nair,"APPLICATION FORM
+
+Applicant Name:
+
+Application Date:
+
+Application ID:
+
+Address:
+
+Phone Number:
+
+Sneha Nair
+
+11/01/2026
+
+APP-0011
+
+Bengaluru
+
+9000001507",True,1.0,exact_match
+english_application_011,english,application,tesseract,date,11/01/2026,"APPLICATION FORM
+
+Applicant Name:
+
+Application Date:
+
+Application ID:
+
+Address:
+
+Phone Number:
+
+Sneha Nair
+
+11/01/2026
+
+APP-0011
+
+Bengaluru
+
+9000001507",True,1.0,exact_match
+english_application_011,english,application,tesseract,document_id,APP-0011,"APPLICATION FORM
+
+Applicant Name:
+
+Application Date:
+
+Application ID:
+
+Address:
+
+Phone Number:
+
+Sneha Nair
+
+11/01/2026
+
+APP-0011
+
+Bengaluru
+
+9000001507",True,1.0,exact_match
+english_application_011,english,application,tesseract,address,Bengaluru,"APPLICATION FORM
+
+Applicant Name:
+
+Application Date:
+
+Application ID:
+
+Address:
+
+Phone Number:
+
+Sneha Nair
+
+11/01/2026
+
+APP-0011
+
+Bengaluru
+
+9000001507",True,1.0,exact_match
+english_application_011,english,application,tesseract,phone,9000001507,"APPLICATION FORM
+
+Applicant Name:
+
+Application Date:
+
+Application ID:
+
+Address:
+
+Phone Number:
+
+Sneha Nair
+
+11/01/2026
+
+APP-0011
+
+Bengaluru
+
+9000001507",True,1.0,exact_match
+english_application_012,english,application,tesseract,name,Ananya Kumar,"APPLICATION FORM
+
+Applicant Name: Ananya Kumar
+Application Date: 12/01/2026
+Application ID: APP-0012
+Address: Mysuru
+
+Phone Number: 9000001644",True,1.0,exact_match
+english_application_012,english,application,tesseract,date,12/01/2026,"APPLICATION FORM
+
+Applicant Name: Ananya Kumar
+Application Date: 12/01/2026
+Application ID: APP-0012
+Address: Mysuru
+
+Phone Number: 9000001644",True,1.0,exact_match
+english_application_012,english,application,tesseract,document_id,APP-0012,"APPLICATION FORM
+
+Applicant Name: Ananya Kumar
+Application Date: 12/01/2026
+Application ID: APP-0012
+Address: Mysuru
+
+Phone Number: 9000001644",True,1.0,exact_match
+english_application_012,english,application,tesseract,address,Mysuru,"APPLICATION FORM
+
+Applicant Name: Ananya Kumar
+Application Date: 12/01/2026
+Application ID: APP-0012
+Address: Mysuru
+
+Phone Number: 9000001644",True,1.0,exact_match
+english_application_012,english,application,tesseract,phone,9000001644,"APPLICATION FORM
+
+Applicant Name: Ananya Kumar
+Application Date: 12/01/2026
+Application ID: APP-0012
+Address: Mysuru
+
+Phone Number: 9000001644",True,1.0,exact_match
+english_application_013,english,application,tesseract,name,Meera Joshi,"APPLICATION FORM
+
+Applicant Name Meera Joshi
+Application Date 13/01/2026
+Application ID APP-0013
+Address Mangaluru
+Phone Number 9000001781",True,1.0,exact_match
+english_application_013,english,application,tesseract,date,13/01/2026,"APPLICATION FORM
+
+Applicant Name Meera Joshi
+Application Date 13/01/2026
+Application ID APP-0013
+Address Mangaluru
+Phone Number 9000001781",True,1.0,exact_match
+english_application_013,english,application,tesseract,document_id,APP-0013,"APPLICATION FORM
+
+Applicant Name Meera Joshi
+Application Date 13/01/2026
+Application ID APP-0013
+Address Mangaluru
+Phone Number 9000001781",True,1.0,exact_match
+english_application_013,english,application,tesseract,address,Mangaluru,"APPLICATION FORM
+
+Applicant Name Meera Joshi
+Application Date 13/01/2026
+Application ID APP-0013
+Address Mangaluru
+Phone Number 9000001781",True,1.0,exact_match
+english_application_013,english,application,tesseract,phone,9000001781,"APPLICATION FORM
+
+Applicant Name Meera Joshi
+Application Date 13/01/2026
+Application ID APP-0013
+Address Mangaluru
+Phone Number 9000001781",True,1.0,exact_match
+english_application_014,english,application,tesseract,name,Meera Verma,"APPLICATION FORM
+
+Applicant Name
+
+Meera Verma
+
+Application Date 14/01/2026
+Application ID APP-0014
+Address Hubballi
+Phone Number 9000001918",True,1.0,exact_match
+english_application_014,english,application,tesseract,date,14/01/2026,"APPLICATION FORM
+
+Applicant Name
+
+Meera Verma
+
+Application Date 14/01/2026
+Application ID APP-0014
+Address Hubballi
+Phone Number 9000001918",True,1.0,exact_match
+english_application_014,english,application,tesseract,document_id,APP-0014,"APPLICATION FORM
+
+Applicant Name
+
+Meera Verma
+
+Application Date 14/01/2026
+Application ID APP-0014
+Address Hubballi
+Phone Number 9000001918",True,1.0,exact_match
+english_application_014,english,application,tesseract,address,Hubballi,"APPLICATION FORM
+
+Applicant Name
+
+Meera Verma
+
+Application Date 14/01/2026
+Application ID APP-0014
+Address Hubballi
+Phone Number 9000001918",True,1.0,exact_match
+english_application_014,english,application,tesseract,phone,9000001918,"APPLICATION FORM
+
+Applicant Name
+
+Meera Verma
+
+Application Date 14/01/2026
+Application ID APP-0014
+Address Hubballi
+Phone Number 9000001918",True,1.0,exact_match
+english_application_015,english,application,tesseract,name,Sneha Rao,"APPLICATION FORM
+
+Applicant Name
+Sneha Rao
+
+Application Date
+15/01/2026
+
+Application ID
+APP-0015
+
+Address
+Belagavi
+
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,tesseract,date,15/01/2026,"APPLICATION FORM
+
+Applicant Name
+Sneha Rao
+
+Application Date
+15/01/2026
+
+Application ID
+APP-0015
+
+Address
+Belagavi
+
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,tesseract,document_id,APP-0015,"APPLICATION FORM
+
+Applicant Name
+Sneha Rao
+
+Application Date
+15/01/2026
+
+Application ID
+APP-0015
+
+Address
+Belagavi
+
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,tesseract,address,Belagavi,"APPLICATION FORM
+
+Applicant Name
+Sneha Rao
+
+Application Date
+15/01/2026
+
+Application ID
+APP-0015
+
+Address
+Belagavi
+
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,tesseract,phone,9000002055,"APPLICATION FORM
+
+Applicant Name
+Sneha Rao
+
+Application Date
+15/01/2026
+
+Application ID
+APP-0015
+
+Address
+Belagavi
+
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_016,english,application,tesseract,name,Kiran Joshi,"APPLICATION FORM
+
+1. Applicant Name: Kiran Joshi
+2. Application Date: 16/01/2026
+3. Application ID: APP-0016
+
+4. Address: Shivamogga
+
+5. Phone Number: 9000002192",True,1.0,exact_match
+english_application_016,english,application,tesseract,date,16/01/2026,"APPLICATION FORM
+
+1. Applicant Name: Kiran Joshi
+2. Application Date: 16/01/2026
+3. Application ID: APP-0016
+
+4. Address: Shivamogga
+
+5. Phone Number: 9000002192",True,1.0,exact_match
+english_application_016,english,application,tesseract,document_id,APP-0016,"APPLICATION FORM
+
+1. Applicant Name: Kiran Joshi
+2. Application Date: 16/01/2026
+3. Application ID: APP-0016
+
+4. Address: Shivamogga
+
+5. Phone Number: 9000002192",True,1.0,exact_match
+english_application_016,english,application,tesseract,address,Shivamogga,"APPLICATION FORM
+
+1. Applicant Name: Kiran Joshi
+2. Application Date: 16/01/2026
+3. Application ID: APP-0016
+
+4. Address: Shivamogga
+
+5. Phone Number: 9000002192",True,1.0,exact_match
+english_application_016,english,application,tesseract,phone,9000002192,"APPLICATION FORM
+
+1. Applicant Name: Kiran Joshi
+2. Application Date: 16/01/2026
+3. Application ID: APP-0016
+
+4. Address: Shivamogga
+
+5. Phone Number: 9000002192",True,1.0,exact_match
+english_certificate_021,english,certificate,tesseract,name,Priya Kumar,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Priya Kumar
+
+21/01/2026
+
+CERT-0021
+
+National Institute of Technology",True,1.0,exact_match
+english_certificate_021,english,certificate,tesseract,date,21/01/2026,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Priya Kumar
+
+21/01/2026
+
+CERT-0021
+
+National Institute of Technology",True,1.0,exact_match
+english_certificate_021,english,certificate,tesseract,document_id,CERT-0021,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Priya Kumar
+
+21/01/2026
+
+CERT-0021
+
+National Institute of Technology",True,1.0,exact_match
+english_certificate_021,english,certificate,tesseract,institution,National Institute of Technology,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Priya Kumar
+
+21/01/2026
+
+CERT-0021
+
+National Institute of Technology",True,1.0,exact_match
+english_certificate_021,english,certificate,tesseract,grade,A,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Priya Kumar
+
+21/01/2026
+
+CERT-0021
+
+National Institute of Technology",True,1.0,exact_match
+english_certificate_022,english,certificate,tesseract,name,Arjun Sharma,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Arjun Sharma
+
+22/01/2026
+
+CERT-0022
+
+Government Science College",True,1.0,exact_match
+english_certificate_022,english,certificate,tesseract,date,22/01/2026,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Arjun Sharma
+
+22/01/2026
+
+CERT-0022
+
+Government Science College",True,1.0,exact_match
+english_certificate_022,english,certificate,tesseract,document_id,CERT-0022,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Arjun Sharma
+
+22/01/2026
+
+CERT-0022
+
+Government Science College",True,1.0,exact_match
+english_certificate_022,english,certificate,tesseract,institution,Government Science College,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Arjun Sharma
+
+22/01/2026
+
+CERT-0022
+
+Government Science College",True,1.0,exact_match
+english_certificate_022,english,certificate,tesseract,grade,A+,"CERTIFICATE
+
+Recipient Name:
+
+Issue Date:
+
+Certificate Number:
+
+Institution:
+
+Grade:
+
+Arjun Sharma
+
+22/01/2026
+
+CERT-0022
+
+Government Science College",False,0.6666666666666666,unavailable_or_uncertain
+english_certificate_023,english,certificate,tesseract,name,Priya Rao,"CERTIFICATE
+
+Recipient Name Priya Rao
+Issue Date 23/01/2026
+Certificate Number CERT-0023
+
+Institution
+
+Karnataka Technical University
+
+Grade",True,1.0,exact_match
+english_certificate_023,english,certificate,tesseract,date,23/01/2026,"CERTIFICATE
+
+Recipient Name Priya Rao
+Issue Date 23/01/2026
+Certificate Number CERT-0023
+
+Institution
+
+Karnataka Technical University
+
+Grade",True,1.0,exact_match
+english_certificate_023,english,certificate,tesseract,document_id,CERT-0023,"CERTIFICATE
+
+Recipient Name Priya Rao
+Issue Date 23/01/2026
+Certificate Number CERT-0023
+
+Institution
+
+Karnataka Technical University
+
+Grade",True,1.0,exact_match
+english_certificate_023,english,certificate,tesseract,institution,Karnataka Technical University,"CERTIFICATE
+
+Recipient Name Priya Rao
+Issue Date 23/01/2026
+Certificate Number CERT-0023
+
+Institution
+
+Karnataka Technical University
+
+Grade",True,1.0,exact_match
+english_certificate_023,english,certificate,tesseract,grade,B+,"CERTIFICATE
+
+Recipient Name Priya Rao
+Issue Date 23/01/2026
+Certificate Number CERT-0023
+
+Institution
+
+Karnataka Technical University
+
+Grade",False,0.6666666666666666,unavailable_or_uncertain
+english_certificate_024,english,certificate,tesseract,name,Divya Verma,"CERTIFICATE
+
+Recipient Name Divya Verma
+Issue Date 24/01/2026
+Certificate Number CERT-0024
+
+Institution
+
+City Education Board
+
+Grade",True,1.0,exact_match
+english_certificate_024,english,certificate,tesseract,date,24/01/2026,"CERTIFICATE
+
+Recipient Name Divya Verma
+Issue Date 24/01/2026
+Certificate Number CERT-0024
+
+Institution
+
+City Education Board
+
+Grade",True,1.0,exact_match
+english_certificate_024,english,certificate,tesseract,document_id,CERT-0024,"CERTIFICATE
+
+Recipient Name Divya Verma
+Issue Date 24/01/2026
+Certificate Number CERT-0024
+
+Institution
+
+City Education Board
+
+Grade",True,1.0,exact_match
+english_certificate_024,english,certificate,tesseract,institution,City Education Board,"CERTIFICATE
+
+Recipient Name Divya Verma
+Issue Date 24/01/2026
+Certificate Number CERT-0024
+
+Institution
+
+City Education Board
+
+Grade",True,1.0,exact_match
+english_certificate_024,english,certificate,tesseract,grade,B,"CERTIFICATE
+
+Recipient Name Divya Verma
+Issue Date 24/01/2026
+Certificate Number CERT-0024
+
+Institution
+
+City Education Board
+
+Grade",True,1.0,exact_match
+english_certificate_025,english,certificate,tesseract,name,Vikram Kumar,"CERTIFICATE
+
+Recipient Name
+Vikram Kumar
+
+Issue Date
+25/01/2026
+
+Certificate Number
+CERT-0025
+
+Institution
+National Institute of Technology
+
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,tesseract,date,25/01/2026,"CERTIFICATE
+
+Recipient Name
+Vikram Kumar
+
+Issue Date
+25/01/2026
+
+Certificate Number
+CERT-0025
+
+Institution
+National Institute of Technology
+
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,tesseract,document_id,CERT-0025,"CERTIFICATE
+
+Recipient Name
+Vikram Kumar
+
+Issue Date
+25/01/2026
+
+Certificate Number
+CERT-0025
+
+Institution
+National Institute of Technology
+
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,tesseract,institution,National Institute of Technology,"CERTIFICATE
+
+Recipient Name
+Vikram Kumar
+
+Issue Date
+25/01/2026
+
+Certificate Number
+CERT-0025
+
+Institution
+National Institute of Technology
+
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,tesseract,grade,Distinction,"CERTIFICATE
+
+Recipient Name
+Vikram Kumar
+
+Issue Date
+25/01/2026
+
+Certificate Number
+CERT-0025
+
+Institution
+National Institute of Technology
+
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_026,english,certificate,tesseract,name,Kiran Menon,"CERTIFICATE
+
+1. Recipient Name:
+
+2. Issue Date:
+
+3. Certificate Number:
+
+4. Institution:
+
+5. Grade:
+
+Kiran Menon
+
+26/01/2026
+
+CERT-0026
+
+Government Science College",True,1.0,exact_match
+english_certificate_026,english,certificate,tesseract,date,26/01/2026,"CERTIFICATE
+
+1. Recipient Name:
+
+2. Issue Date:
+
+3. Certificate Number:
+
+4. Institution:
+
+5. Grade:
+
+Kiran Menon
+
+26/01/2026
+
+CERT-0026
+
+Government Science College",True,1.0,exact_match
+english_certificate_026,english,certificate,tesseract,document_id,CERT-0026,"CERTIFICATE
+
+1. Recipient Name:
+
+2. Issue Date:
+
+3. Certificate Number:
+
+4. Institution:
+
+5. Grade:
+
+Kiran Menon
+
+26/01/2026
+
+CERT-0026
+
+Government Science College",True,1.0,exact_match
+english_certificate_026,english,certificate,tesseract,institution,Government Science College,"CERTIFICATE
+
+1. Recipient Name:
+
+2. Issue Date:
+
+3. Certificate Number:
+
+4. Institution:
+
+5. Grade:
+
+Kiran Menon
+
+26/01/2026
+
+CERT-0026
+
+Government Science College",True,1.0,exact_match
+english_certificate_026,english,certificate,tesseract,grade,A,"CERTIFICATE
+
+1. Recipient Name:
+
+2. Issue Date:
+
+3. Certificate Number:
+
+4. Institution:
+
+5. Grade:
+
+Kiran Menon
+
+26/01/2026
+
+CERT-0026
+
+Government Science College",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,tesseract,name,मीरा रेड्डी,"चालान
+
+ग्राहक का नाम: मीरा रेड्डी
+चालान दिनांक: 34/04/2026
+चालान संख्या: ]9४-003॥
+पता: बेंगलुरु
+
+कुल राशि: 5747",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,tesseract,date,31/01/2026,"चालान
+
+ग्राहक का नाम: मीरा रेड्डी
+चालान दिनांक: 34/04/2026
+चालान संख्या: ]9४-003॥
+पता: बेंगलुरु
+
+कुल राशि: 5747",False,0.75,possible_recoverable
+hindi_invoice_031,hindi,invoice,tesseract,document_id,INV-0031,"चालान
+
+ग्राहक का नाम: मीरा रेड्डी
+चालान दिनांक: 34/04/2026
+चालान संख्या: ]9४-003॥
+पता: बेंगलुरु
+
+कुल राशि: 5747",False,0.5454545454545454,unavailable_or_uncertain
+hindi_invoice_031,hindi,invoice,tesseract,address,बेंगलुरु,"चालान
+
+ग्राहक का नाम: मीरा रेड्डी
+चालान दिनांक: 34/04/2026
+चालान संख्या: ]9४-003॥
+पता: बेंगलुरु
+
+कुल राशि: 5747",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,tesseract,amount,5747,"चालान
+
+ग्राहक का नाम: मीरा रेड्डी
+चालान दिनांक: 34/04/2026
+चालान संख्या: ]9४-003॥
+पता: बेंगलुरु
+
+कुल राशि: 5747",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,tesseract,name,अर्जुन वर्मा,"चालान
+
+ग्राहक का नाम: अर्जुन वर्मा
+चालान दिनांक: 04/02/2026
+चालान संख्या: ]9५४-0032
+पता: मैसूर
+
+कुल राशि: 5884",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,tesseract,date,01/02/2026,"चालान
+
+ग्राहक का नाम: अर्जुन वर्मा
+चालान दिनांक: 04/02/2026
+चालान संख्या: ]9५४-0032
+पता: मैसूर
+
+कुल राशि: 5884",False,0.875,possible_recoverable
+hindi_invoice_032,hindi,invoice,tesseract,document_id,INV-0032,"चालान
+
+ग्राहक का नाम: अर्जुन वर्मा
+चालान दिनांक: 04/02/2026
+चालान संख्या: ]9५४-0032
+पता: मैसूर
+
+कुल राशि: 5884",False,0.7272727272727273,unavailable_or_uncertain
+hindi_invoice_032,hindi,invoice,tesseract,address,मैसूर,"चालान
+
+ग्राहक का नाम: अर्जुन वर्मा
+चालान दिनांक: 04/02/2026
+चालान संख्या: ]9५४-0032
+पता: मैसूर
+
+कुल राशि: 5884",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,tesseract,amount,5884,"चालान
+
+ग्राहक का नाम: अर्जुन वर्मा
+चालान दिनांक: 04/02/2026
+चालान संख्या: ]9५४-0032
+पता: मैसूर
+
+कुल राशि: 5884",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,tesseract,name,रवि जोशी,"चालान
+
+ग्राहक का नाम रवि जोशी
+चालान दिनांक 02/02/2026
+चालान संख्या ]9४-0033
+पता मंगलुरु
+
+कुल राशि 602॥",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,tesseract,date,02/02/2026,"चालान
+
+ग्राहक का नाम रवि जोशी
+चालान दिनांक 02/02/2026
+चालान संख्या ]9४-0033
+पता मंगलुरु
+
+कुल राशि 602॥",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,tesseract,document_id,INV-0033,"चालान
+
+ग्राहक का नाम रवि जोशी
+चालान दिनांक 02/02/2026
+चालान संख्या ]9४-0033
+पता मंगलुरु
+
+कुल राशि 602॥",False,0.7272727272727273,unavailable_or_uncertain
+hindi_invoice_033,hindi,invoice,tesseract,address,मंगलुरु,"चालान
+
+ग्राहक का नाम रवि जोशी
+चालान दिनांक 02/02/2026
+चालान संख्या ]9४-0033
+पता मंगलुरु
+
+कुल राशि 602॥",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,tesseract,amount,6021,"चालान
+
+ग्राहक का नाम रवि जोशी
+चालान दिनांक 02/02/2026
+चालान संख्या ]9४-0033
+पता मंगलुरु
+
+कुल राशि 602॥",False,0.8571428571428571,possible_recoverable
+hindi_invoice_034,hindi,invoice,tesseract,name,अनन्या नायर,"चालान
+
+ग्राहक का नाम अनन्या नायर
+चालान दिनांक 03/02/2026
+चालान संख्या ॥9५४-0034
+पता हुबली
+
+कुल राशि 658",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,tesseract,date,03/02/2026,"चालान
+
+ग्राहक का नाम अनन्या नायर
+चालान दिनांक 03/02/2026
+चालान संख्या ॥9५४-0034
+पता हुबली
+
+कुल राशि 658",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,tesseract,document_id,INV-0034,"चालान
+
+ग्राहक का नाम अनन्या नायर
+चालान दिनांक 03/02/2026
+चालान संख्या ॥9५४-0034
+पता हुबली
+
+कुल राशि 658",False,0.7272727272727273,unavailable_or_uncertain
+hindi_invoice_034,hindi,invoice,tesseract,address,हुबली,"चालान
+
+ग्राहक का नाम अनन्या नायर
+चालान दिनांक 03/02/2026
+चालान संख्या ॥9५४-0034
+पता हुबली
+
+कुल राशि 658",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,tesseract,amount,6158,"चालान
+
+ग्राहक का नाम अनन्या नायर
+चालान दिनांक 03/02/2026
+चालान संख्या ॥9५४-0034
+पता हुबली
+
+कुल राशि 658",False,0.8571428571428571,possible_recoverable
+hindi_invoice_035,hindi,invoice,tesseract,name,राहुल शर्मा,"चालान
+
+ग्राहक का नाम
+राहुल शर्मा
+
+चालान दिनांक
+04/02/2026
+
+चालान संख्या
+क्‍9५५४-0035
+
+पता
+बेलगावी
+
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,tesseract,date,04/02/2026,"चालान
+
+ग्राहक का नाम
+राहुल शर्मा
+
+चालान दिनांक
+04/02/2026
+
+चालान संख्या
+क्‍9५५४-0035
+
+पता
+बेलगावी
+
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,tesseract,document_id,INV-0035,"चालान
+
+ग्राहक का नाम
+राहुल शर्मा
+
+चालान दिनांक
+04/02/2026
+
+चालान संख्या
+क्‍9५५४-0035
+
+पता
+बेलगावी
+
+कुल राशि
+6295",False,0.7272727272727273,unavailable_or_uncertain
+hindi_invoice_035,hindi,invoice,tesseract,address,बेलगावी,"चालान
+
+ग्राहक का नाम
+राहुल शर्मा
+
+चालान दिनांक
+04/02/2026
+
+चालान संख्या
+क्‍9५५४-0035
+
+पता
+बेलगावी
+
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,tesseract,amount,6295,"चालान
+
+ग्राहक का नाम
+राहुल शर्मा
+
+चालान दिनांक
+04/02/2026
+
+चालान संख्या
+क्‍9५५४-0035
+
+पता
+बेलगावी
+
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,tesseract,name,अर्जुन पटेल,"चालान
+
+. ग्राहक का नाम:
+
+2. चालान दिनांक:
+
+3. चालान संख्या:
+
+4... पता:
+
+5. कुल राशि:
+
+अर्जुन पटेल
+
+05/02/2026
+
+क्‍॥३४-0036
+
+शिवमोग्गा
+
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,tesseract,date,05/02/2026,"चालान
+
+. ग्राहक का नाम:
+
+2. चालान दिनांक:
+
+3. चालान संख्या:
+
+4... पता:
+
+5. कुल राशि:
+
+अर्जुन पटेल
+
+05/02/2026
+
+क्‍॥३४-0036
+
+शिवमोग्गा
+
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,tesseract,document_id,INV-0036,"चालान
+
+. ग्राहक का नाम:
+
+2. चालान दिनांक:
+
+3. चालान संख्या:
+
+4... पता:
+
+5. कुल राशि:
+
+अर्जुन पटेल
+
+05/02/2026
+
+क्‍॥३४-0036
+
+शिवमोग्गा
+
+6432",False,0.7272727272727273,unavailable_or_uncertain
+hindi_invoice_036,hindi,invoice,tesseract,address,शिवमोग्गा,"चालान
+
+. ग्राहक का नाम:
+
+2. चालान दिनांक:
+
+3. चालान संख्या:
+
+4... पता:
+
+5. कुल राशि:
+
+अर्जुन पटेल
+
+05/02/2026
+
+क्‍॥३४-0036
+
+शिवमोग्गा
+
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,tesseract,amount,6432,"चालान
+
+. ग्राहक का नाम:
+
+2. चालान दिनांक:
+
+3. चालान संख्या:
+
+4... पता:
+
+5. कुल राशि:
+
+अर्जुन पटेल
+
+05/02/2026
+
+क्‍॥३४-0036
+
+शिवमोग्गा
+
+6432",True,1.0,exact_match
+hindi_application_041,hindi,application,tesseract,name,विक्रम जोशी,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+विक्रम जोशी
+
+0/02/2026
+
+2077-0044
+
+बेंगलुरु
+
+9000005647",True,1.0,exact_match
+hindi_application_041,hindi,application,tesseract,date,10/02/2026,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+विक्रम जोशी
+
+0/02/2026
+
+2077-0044
+
+बेंगलुरु
+
+9000005647",False,0.9333333333333333,possible_recoverable
+hindi_application_041,hindi,application,tesseract,document_id,APP-0041,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+विक्रम जोशी
+
+0/02/2026
+
+2077-0044
+
+बेंगलुरु
+
+9000005647",False,0.5454545454545454,unavailable_or_uncertain
+hindi_application_041,hindi,application,tesseract,address,बेंगलुरु,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+विक्रम जोशी
+
+0/02/2026
+
+2077-0044
+
+बेंगलुरु
+
+9000005647",True,1.0,exact_match
+hindi_application_041,hindi,application,tesseract,phone,9000005617,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+विक्रम जोशी
+
+0/02/2026
+
+2077-0044
+
+बेंगलुरु
+
+9000005647",False,0.9,possible_recoverable
+hindi_application_042,hindi,application,tesseract,name,राहुल रेड्डी,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+राहुल रेड्डी
+
+4/02/2026
+
+277-0042
+
+मैसूर
+
+9000005754",True,1.0,exact_match
+hindi_application_042,hindi,application,tesseract,date,11/02/2026,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+राहुल रेड्डी
+
+4/02/2026
+
+277-0042
+
+मैसूर
+
+9000005754",False,0.8571428571428571,possible_recoverable
+hindi_application_042,hindi,application,tesseract,document_id,APP-0042,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+राहुल रेड्डी
+
+4/02/2026
+
+277-0042
+
+मैसूर
+
+9000005754",False,0.7272727272727273,unavailable_or_uncertain
+hindi_application_042,hindi,application,tesseract,address,मैसूर,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+राहुल रेड्डी
+
+4/02/2026
+
+277-0042
+
+मैसूर
+
+9000005754",True,1.0,exact_match
+hindi_application_042,hindi,application,tesseract,phone,9000005754,"आवेदन पत्र
+
+आवेदक का नाम:
+
+आवेदन दिनांक:
+
+आवेदन संख्या:
+
+पता:
+
+फोन नंबरः
+
+राहुल रेड्डी
+
+4/02/2026
+
+277-0042
+
+मैसूर
+
+9000005754",True,1.0,exact_match
+hindi_application_043,hindi,application,tesseract,name,स्नेहा मेनन,"आवेदन पत्र
+
+आवेदक का नाम स्नेहा मेनन
+आवेदन दिनांक 2/02/2026
+आवेदन संख्या /77?-0043
+पता मंगलुरु
+
+फोन नंबर 900000589|",True,1.0,exact_match
+hindi_application_043,hindi,application,tesseract,date,12/02/2026,"आवेदन पत्र
+
+आवेदक का नाम स्नेहा मेनन
+आवेदन दिनांक 2/02/2026
+आवेदन संख्या /77?-0043
+पता मंगलुरु
+
+फोन नंबर 900000589|",False,0.9333333333333333,possible_recoverable
+hindi_application_043,hindi,application,tesseract,document_id,APP-0043,"आवेदन पत्र
+
+आवेदक का नाम स्नेहा मेनन
+आवेदन दिनांक 2/02/2026
+आवेदन संख्या /77?-0043
+पता मंगलुरु
+
+फोन नंबर 900000589|",False,0.7272727272727273,unavailable_or_uncertain
+hindi_application_043,hindi,application,tesseract,address,मंगलुरु,"आवेदन पत्र
+
+आवेदक का नाम स्नेहा मेनन
+आवेदन दिनांक 2/02/2026
+आवेदन संख्या /77?-0043
+पता मंगलुरु
+
+फोन नंबर 900000589|",True,1.0,exact_match
+hindi_application_043,hindi,application,tesseract,phone,9000005891,"आवेदन पत्र
+
+आवेदक का नाम स्नेहा मेनन
+आवेदन दिनांक 2/02/2026
+आवेदन संख्या /77?-0043
+पता मंगलुरु
+
+फोन नंबर 900000589|",False,0.9473684210526315,possible_recoverable
+hindi_application_044,hindi,application,tesseract,name,किरण पटेल,"आवेदन पत्र
+
+आवेदक का नाम किरण पटेल
+आवेदन दिनांक 3/02/2026
+आवेदन संख्या #77?-0044
+पता हुबली
+
+फोन नंबर 9000006028",True,1.0,exact_match
+hindi_application_044,hindi,application,tesseract,date,13/02/2026,"आवेदन पत्र
+
+आवेदक का नाम किरण पटेल
+आवेदन दिनांक 3/02/2026
+आवेदन संख्या #77?-0044
+पता हुबली
+
+फोन नंबर 9000006028",False,0.9333333333333333,possible_recoverable
+hindi_application_044,hindi,application,tesseract,document_id,APP-0044,"आवेदन पत्र
+
+आवेदक का नाम किरण पटेल
+आवेदन दिनांक 3/02/2026
+आवेदन संख्या #77?-0044
+पता हुबली
+
+फोन नंबर 9000006028",False,0.7272727272727273,unavailable_or_uncertain
+hindi_application_044,hindi,application,tesseract,address,हुबली,"आवेदन पत्र
+
+आवेदक का नाम किरण पटेल
+आवेदन दिनांक 3/02/2026
+आवेदन संख्या #77?-0044
+पता हुबली
+
+फोन नंबर 9000006028",True,1.0,exact_match
+hindi_application_044,hindi,application,tesseract,phone,9000006028,"आवेदन पत्र
+
+आवेदक का नाम किरण पटेल
+आवेदन दिनांक 3/02/2026
+आवेदन संख्या #77?-0044
+पता हुबली
+
+फोन नंबर 9000006028",True,1.0,exact_match
+hindi_application_045,hindi,application,tesseract,name,किरण राव,"आवेदन पत्र
+
+आवेदक का नाम
+किरण राव
+
+आवेदन दिनांक
+4/02/2026
+
+आवेदन संख्या
++727?-0045
+
+पता
+बेलगावी
+
+फोन नंबर
+9000006465",True,1.0,exact_match
+hindi_application_045,hindi,application,tesseract,date,14/02/2026,"आवेदन पत्र
+
+आवेदक का नाम
+किरण राव
+
+आवेदन दिनांक
+4/02/2026
+
+आवेदन संख्या
++727?-0045
+
+पता
+बेलगावी
+
+फोन नंबर
+9000006465",False,0.9333333333333333,possible_recoverable
+hindi_application_045,hindi,application,tesseract,document_id,APP-0045,"आवेदन पत्र
+
+आवेदक का नाम
+किरण राव
+
+आवेदन दिनांक
+4/02/2026
+
+आवेदन संख्या
++727?-0045
+
+पता
+बेलगावी
+
+फोन नंबर
+9000006465",False,0.7272727272727273,unavailable_or_uncertain
+hindi_application_045,hindi,application,tesseract,address,बेलगावी,"आवेदन पत्र
+
+आवेदक का नाम
+किरण राव
+
+आवेदन दिनांक
+4/02/2026
+
+आवेदन संख्या
++727?-0045
+
+पता
+बेलगावी
+
+फोन नंबर
+9000006465",True,1.0,exact_match
+hindi_application_045,hindi,application,tesseract,phone,9000006165,"आवेदन पत्र
+
+आवेदक का नाम
+किरण राव
+
+आवेदन दिनांक
+4/02/2026
+
+आवेदन संख्या
++727?-0045
+
+पता
+बेलगावी
+
+फोन नंबर
+9000006465",False,0.9,possible_recoverable
+hindi_application_046,hindi,application,tesseract,name,रवि पटेल,"आवेदन पत्र
+
+. आवेदक का नाम: रवि पटेल
+
+2. आवेदन दिनांक: 5/02/2026
+3. आवेदन संख्या: /77?-0046
+4... पता: शिवमोग्गा
+
+5. फोन नंबर: 9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,tesseract,date,15/02/2026,"आवेदन पत्र
+
+. आवेदक का नाम: रवि पटेल
+
+2. आवेदन दिनांक: 5/02/2026
+3. आवेदन संख्या: /77?-0046
+4... पता: शिवमोग्गा
+
+5. फोन नंबर: 9000006302",False,0.9333333333333333,possible_recoverable
+hindi_application_046,hindi,application,tesseract,document_id,APP-0046,"आवेदन पत्र
+
+. आवेदक का नाम: रवि पटेल
+
+2. आवेदन दिनांक: 5/02/2026
+3. आवेदन संख्या: /77?-0046
+4... पता: शिवमोग्गा
+
+5. फोन नंबर: 9000006302",False,0.7272727272727273,unavailable_or_uncertain
+hindi_application_046,hindi,application,tesseract,address,शिवमोग्गा,"आवेदन पत्र
+
+. आवेदक का नाम: रवि पटेल
+
+2. आवेदन दिनांक: 5/02/2026
+3. आवेदन संख्या: /77?-0046
+4... पता: शिवमोग्गा
+
+5. फोन नंबर: 9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,tesseract,phone,9000006302,"आवेदन पत्र
+
+. आवेदक का नाम: रवि पटेल
+
+2. आवेदन दिनांक: 5/02/2026
+3. आवेदन संख्या: /77?-0046
+4... पता: शिवमोग्गा
+
+5. फोन नंबर: 9000006302",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,tesseract,name,किरण रेड्डी,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+किरण रेड्डी
+
+20/02/2026
+
+(छारशा-0054
+
+राष्ट्रीय प्रौद्योगिकी संस्थान",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,tesseract,date,20/02/2026,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+किरण रेड्डी
+
+20/02/2026
+
+(छारशा-0054
+
+राष्ट्रीय प्रौद्योगिकी संस्थान",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,tesseract,document_id,CERT-0051,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+किरण रेड्डी
+
+20/02/2026
+
+(छारशा-0054
+
+राष्ट्रीय प्रौद्योगिकी संस्थान",False,0.46153846153846156,unavailable_or_uncertain
+hindi_certificate_051,hindi,certificate,tesseract,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+किरण रेड्डी
+
+20/02/2026
+
+(छारशा-0054
+
+राष्ट्रीय प्रौद्योगिकी संस्थान",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,tesseract,grade,A,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+किरण रेड्डी
+
+20/02/2026
+
+(छारशा-0054
+
+राष्ट्रीय प्रौद्योगिकी संस्थान",False,0.0,unavailable_or_uncertain
+hindi_certificate_052,hindi,certificate,tesseract,name,दिव्या पटेल,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+दिव्या पटेल
+
+2/02/2026
+
+(छ&ारशा-0052
+
+सरकारी विज्ञान महाविद्यालय",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,tesseract,date,21/02/2026,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+दिव्या पटेल
+
+2/02/2026
+
+(छ&ारशा-0052
+
+सरकारी विज्ञान महाविद्यालय",False,0.9333333333333333,possible_recoverable
+hindi_certificate_052,hindi,certificate,tesseract,document_id,CERT-0052,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+दिव्या पटेल
+
+2/02/2026
+
+(छ&ारशा-0052
+
+सरकारी विज्ञान महाविद्यालय",False,0.6153846153846154,unavailable_or_uncertain
+hindi_certificate_052,hindi,certificate,tesseract,institution,सरकारी विज्ञान महाविद्यालय,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+दिव्या पटेल
+
+2/02/2026
+
+(छ&ारशा-0052
+
+सरकारी विज्ञान महाविद्यालय",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,tesseract,grade,A+,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम:
+
+जारी करने की तारीख:
+
+प्रमाण पत्र संख्या:
+
+संस्थान:
+
+श्रेणी:
+
+दिव्या पटेल
+
+2/02/2026
+
+(छ&ारशा-0052
+
+सरकारी विज्ञान महाविद्यालय",False,0.0,unavailable_or_uncertain
+hindi_certificate_053,hindi,certificate,tesseract,name,रवि शर्मा,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम रवि शर्मा
+
+जारी करने की तारीख 22/02/2026
+
+प्रमाण पत्र संख्या (छारा-0053
+
+संस्थान कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी 8+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,tesseract,date,22/02/2026,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम रवि शर्मा
+
+जारी करने की तारीख 22/02/2026
+
+प्रमाण पत्र संख्या (छारा-0053
+
+संस्थान कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी 8+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,tesseract,document_id,CERT-0053,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम रवि शर्मा
+
+जारी करने की तारीख 22/02/2026
+
+प्रमाण पत्र संख्या (छारा-0053
+
+संस्थान कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी 8+",False,0.6153846153846154,unavailable_or_uncertain
+hindi_certificate_053,hindi,certificate,tesseract,institution,कर्नाटक तकनीकी विश्वविद्यालय,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम रवि शर्मा
+
+जारी करने की तारीख 22/02/2026
+
+प्रमाण पत्र संख्या (छारा-0053
+
+संस्थान कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी 8+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,tesseract,grade,B+,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम रवि शर्मा
+
+जारी करने की तारीख 22/02/2026
+
+प्रमाण पत्र संख्या (छारा-0053
+
+संस्थान कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी 8+",False,0.6666666666666666,unavailable_or_uncertain
+hindi_certificate_054,hindi,certificate,tesseract,name,मीरा नायर,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम मीरा नायर
+जारी करने की तारीख 23/02/2026
+प्रमाण पत्र संख्या (छारा-0054
+संस्थान शहर शिक्षा बोर्ड
+श्रेणी 8",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,tesseract,date,23/02/2026,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम मीरा नायर
+जारी करने की तारीख 23/02/2026
+प्रमाण पत्र संख्या (छारा-0054
+संस्थान शहर शिक्षा बोर्ड
+श्रेणी 8",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,tesseract,document_id,CERT-0054,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम मीरा नायर
+जारी करने की तारीख 23/02/2026
+प्रमाण पत्र संख्या (छारा-0054
+संस्थान शहर शिक्षा बोर्ड
+श्रेणी 8",False,0.6153846153846154,unavailable_or_uncertain
+hindi_certificate_054,hindi,certificate,tesseract,institution,शहर शिक्षा बोर्ड,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम मीरा नायर
+जारी करने की तारीख 23/02/2026
+प्रमाण पत्र संख्या (छारा-0054
+संस्थान शहर शिक्षा बोर्ड
+श्रेणी 8",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,tesseract,grade,B,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम मीरा नायर
+जारी करने की तारीख 23/02/2026
+प्रमाण पत्र संख्या (छारा-0054
+संस्थान शहर शिक्षा बोर्ड
+श्रेणी 8",False,0.0,unavailable_or_uncertain
+hindi_certificate_055,hindi,certificate,tesseract,name,विक्रम पटेल,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+
+जारी करने की तारीख
+24/02/2026
+
+प्रमाण पत्र संख्या
+(६ाश-0055
+
+संस्थान
+
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+
+छा तांणा",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,tesseract,date,24/02/2026,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+
+जारी करने की तारीख
+24/02/2026
+
+प्रमाण पत्र संख्या
+(६ाश-0055
+
+संस्थान
+
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+
+छा तांणा",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,tesseract,document_id,CERT-0055,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+
+जारी करने की तारीख
+24/02/2026
+
+प्रमाण पत्र संख्या
+(६ाश-0055
+
+संस्थान
+
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+
+छा तांणा",False,0.6153846153846154,unavailable_or_uncertain
+hindi_certificate_055,hindi,certificate,tesseract,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+
+जारी करने की तारीख
+24/02/2026
+
+प्रमाण पत्र संख्या
+(६ाश-0055
+
+संस्थान
+
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+
+छा तांणा",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,tesseract,grade,Distinction,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+
+जारी करने की तारीख
+24/02/2026
+
+प्रमाण पत्र संख्या
+(६ाश-0055
+
+संस्थान
+
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+
+छा तांणा",False,0.0,unavailable_or_uncertain
+hindi_certificate_056,hindi,certificate,tesseract,name,दिव्या वर्मा,"प्रमाण पत्र
+
+. प्राप्तकर्ता का नाम: दिव्या वर्मा
+
+2. जारी करने की तारीख: 25/02/2026
+
+3. प्रमाण पत्र संख्या: (छारा-0056
+
+4. संस्थान: सरकारी विज्ञान महाविद्यालय
+
+5, श्रेणी: 4",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,tesseract,date,25/02/2026,"प्रमाण पत्र
+
+. प्राप्तकर्ता का नाम: दिव्या वर्मा
+
+2. जारी करने की तारीख: 25/02/2026
+
+3. प्रमाण पत्र संख्या: (छारा-0056
+
+4. संस्थान: सरकारी विज्ञान महाविद्यालय
+
+5, श्रेणी: 4",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,tesseract,document_id,CERT-0056,"प्रमाण पत्र
+
+. प्राप्तकर्ता का नाम: दिव्या वर्मा
+
+2. जारी करने की तारीख: 25/02/2026
+
+3. प्रमाण पत्र संख्या: (छारा-0056
+
+4. संस्थान: सरकारी विज्ञान महाविद्यालय
+
+5, श्रेणी: 4",False,0.6153846153846154,unavailable_or_uncertain
+hindi_certificate_056,hindi,certificate,tesseract,institution,सरकारी विज्ञान महाविद्यालय,"प्रमाण पत्र
+
+. प्राप्तकर्ता का नाम: दिव्या वर्मा
+
+2. जारी करने की तारीख: 25/02/2026
+
+3. प्रमाण पत्र संख्या: (छारा-0056
+
+4. संस्थान: सरकारी विज्ञान महाविद्यालय
+
+5, श्रेणी: 4",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,tesseract,grade,A,"प्रमाण पत्र
+
+. प्राप्तकर्ता का नाम: दिव्या वर्मा
+
+2. जारी करने की तारीख: 25/02/2026
+
+3. प्रमाण पत्र संख्या: (छारा-0056
+
+4. संस्थान: सरकारी विज्ञान महाविद्यालय
+
+5, श्रेणी: 4",False,0.0,unavailable_or_uncertain
+kannada_invoice_061,kannada,invoice,tesseract,name,ಕಿರಣ್ ಮೆನನ್,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಕಿರಣ್‌ ಮೆನನ್‌
+
+02/03/2026
+
+11/-0061
+
+ಬೆಂಗಳೂರು
+
+9857",True,1.0,exact_match
+kannada_invoice_061,kannada,invoice,tesseract,date,02/03/2026,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಕಿರಣ್‌ ಮೆನನ್‌
+
+02/03/2026
+
+11/-0061
+
+ಬೆಂಗಳೂರು
+
+9857",True,1.0,exact_match
+kannada_invoice_061,kannada,invoice,tesseract,document_id,INV-0061,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಕಿರಣ್‌ ಮೆನನ್‌
+
+02/03/2026
+
+11/-0061
+
+ಬೆಂಗಳೂರು
+
+9857",False,0.7272727272727273,unavailable_or_uncertain
+kannada_invoice_061,kannada,invoice,tesseract,address,ಬೆಂಗಳೂರು,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಕಿರಣ್‌ ಮೆನನ್‌
+
+02/03/2026
+
+11/-0061
+
+ಬೆಂಗಳೂರು
+
+9857",True,1.0,exact_match
+kannada_invoice_061,kannada,invoice,tesseract,amount,9857,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಕಿರಣ್‌ ಮೆನನ್‌
+
+02/03/2026
+
+11/-0061
+
+ಬೆಂಗಳೂರು
+
+9857",True,1.0,exact_match
+kannada_invoice_062,kannada,invoice,tesseract,name,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ದ್‌
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+
+03/03/2026
+
+111-0062
+
+ಮೈಸೂರು
+
+9994",True,1.0,exact_match
+kannada_invoice_062,kannada,invoice,tesseract,date,03/03/2026,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ದ್‌
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+
+03/03/2026
+
+111-0062
+
+ಮೈಸೂರು
+
+9994",True,1.0,exact_match
+kannada_invoice_062,kannada,invoice,tesseract,document_id,INV-0062,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ದ್‌
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+
+03/03/2026
+
+111-0062
+
+ಮೈಸೂರು
+
+9994",False,0.7272727272727273,unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,tesseract,address,ಮೈಸೂರು,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ದ್‌
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+
+03/03/2026
+
+111-0062
+
+ಮೈಸೂರು
+
+9994",True,1.0,exact_match
+kannada_invoice_062,kannada,invoice,tesseract,amount,9994,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು:
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ದ್‌
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+
+03/03/2026
+
+111-0062
+
+ಮೈಸೂರು
+
+9994",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,tesseract,name,ಕಿರಣ್ ರೆಡ್ಡಿ,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಕಿರಣ್‌ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 04/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 111-0063
+ವಿಳಾಸ ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ 10131",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,tesseract,date,04/03/2026,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಕಿರಣ್‌ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 04/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 111-0063
+ವಿಳಾಸ ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ 10131",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,tesseract,document_id,INV-0063,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಕಿರಣ್‌ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 04/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 111-0063
+ವಿಳಾಸ ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ 10131",False,0.7272727272727273,unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,tesseract,address,ಮಂಗಳೂರು,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಕಿರಣ್‌ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 04/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 111-0063
+ವಿಳಾಸ ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ 10131",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,tesseract,amount,10131,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಕಿರಣ್‌ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 04/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 111-0063
+ವಿಳಾಸ ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ 10131",True,1.0,exact_match
+kannada_invoice_064,kannada,invoice,tesseract,name,ಅನನ್ಯಾ ಮೆನನ್,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಅನನ್ಯಾ ಮೆನನ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 05/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 1/-0064
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+
+ಒಟ್ಟು ಮೊತ್ತ 10268",True,1.0,exact_match
+kannada_invoice_064,kannada,invoice,tesseract,date,05/03/2026,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಅನನ್ಯಾ ಮೆನನ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 05/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 1/-0064
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+
+ಒಟ್ಟು ಮೊತ್ತ 10268",True,1.0,exact_match
+kannada_invoice_064,kannada,invoice,tesseract,document_id,INV-0064,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಅನನ್ಯಾ ಮೆನನ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 05/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 1/-0064
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+
+ಒಟ್ಟು ಮೊತ್ತ 10268",False,0.7272727272727273,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,tesseract,address,ಹುಬ್ಬಳ್ಳಿ,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಅನನ್ಯಾ ಮೆನನ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 05/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 1/-0064
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+
+ಒಟ್ಟು ಮೊತ್ತ 10268",True,1.0,exact_match
+kannada_invoice_064,kannada,invoice,tesseract,amount,10268,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು ಅನನ್ಯಾ ಮೆನನ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ 05/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 1/-0064
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+
+ಒಟ್ಟು ಮೊತ್ತ 10268",True,1.0,exact_match
+kannada_invoice_065,kannada,invoice,tesseract,name,ಕಿರಣ್ ಸಿಂಗ್,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್‌ ಸಿಂಗ್‌
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+111/-0065
+
+ವಿಳಾಸ
+
+ಬೆಳಗಾವಿ
+
+ಒಟ್ಟು ಮೊತ್ತ
+10405",True,1.0,exact_match
+kannada_invoice_065,kannada,invoice,tesseract,date,06/03/2026,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್‌ ಸಿಂಗ್‌
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+111/-0065
+
+ವಿಳಾಸ
+
+ಬೆಳಗಾವಿ
+
+ಒಟ್ಟು ಮೊತ್ತ
+10405",True,1.0,exact_match
+kannada_invoice_065,kannada,invoice,tesseract,document_id,INV-0065,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್‌ ಸಿಂಗ್‌
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+111/-0065
+
+ವಿಳಾಸ
+
+ಬೆಳಗಾವಿ
+
+ಒಟ್ಟು ಮೊತ್ತ
+10405",False,0.7272727272727273,unavailable_or_uncertain
+kannada_invoice_065,kannada,invoice,tesseract,address,ಬೆಳಗಾವಿ,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್‌ ಸಿಂಗ್‌
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+111/-0065
+
+ವಿಳಾಸ
+
+ಬೆಳಗಾವಿ
+
+ಒಟ್ಟು ಮೊತ್ತ
+10405",True,1.0,exact_match
+kannada_invoice_065,kannada,invoice,tesseract,amount,10405,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್‌ ಸಿಂಗ್‌
+
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+111/-0065
+
+ವಿಳಾಸ
+
+ಬೆಳಗಾವಿ
+
+ಒಟ್ಟು ಮೊತ್ತ
+10405",True,1.0,exact_match
+kannada_invoice_066,kannada,invoice,tesseract,name,ಪ್ರಿಯಾ ಮೆನನ್,"2... ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+3. . ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಪ್ರಿಯಾ ಮೆನನ್‌
+
+07/03/2026
+
+11/-0066
+
+ಶಿವಮೊಗ್ಗ
+
+10542",True,1.0,exact_match
+kannada_invoice_066,kannada,invoice,tesseract,date,07/03/2026,"2... ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+3. . ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಪ್ರಿಯಾ ಮೆನನ್‌
+
+07/03/2026
+
+11/-0066
+
+ಶಿವಮೊಗ್ಗ
+
+10542",True,1.0,exact_match
+kannada_invoice_066,kannada,invoice,tesseract,document_id,INV-0066,"2... ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+3. . ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಪ್ರಿಯಾ ಮೆನನ್‌
+
+07/03/2026
+
+11/-0066
+
+ಶಿವಮೊಗ್ಗ
+
+10542",False,0.7272727272727273,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,tesseract,address,ಶಿವಮೊಗ್ಗ,"2... ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+3. . ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಪ್ರಿಯಾ ಮೆನನ್‌
+
+07/03/2026
+
+11/-0066
+
+ಶಿವಮೊಗ್ಗ
+
+10542",True,1.0,exact_match
+kannada_invoice_066,kannada,invoice,tesseract,amount,10542,"2... ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+
+3. . ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+
+ಪ್ರಿಯಾ ಮೆನನ್‌
+
+07/03/2026
+
+11/-0066
+
+ಶಿವಮೊಗ್ಗ
+
+10542",True,1.0,exact_match
+kannada_application_071,kannada,application,tesseract,name,ಅರ್ಜುನ್ ನಾಯರ್,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಅರ್ಜುನ್‌ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 12/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ಓ೧೧-೦೦71
+ವಿಳಾಸ: ಬೆಂಗಳೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009727",True,1.0,exact_match
+kannada_application_071,kannada,application,tesseract,date,12/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಅರ್ಜುನ್‌ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 12/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ಓ೧೧-೦೦71
+ವಿಳಾಸ: ಬೆಂಗಳೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009727",True,1.0,exact_match
+kannada_application_071,kannada,application,tesseract,document_id,APP-0071,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಅರ್ಜುನ್‌ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 12/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ಓ೧೧-೦೦71
+ವಿಳಾಸ: ಬೆಂಗಳೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009727",False,0.5454545454545454,unavailable_or_uncertain
+kannada_application_071,kannada,application,tesseract,address,ಬೆಂಗಳೂರು,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಅರ್ಜುನ್‌ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 12/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ಓ೧೧-೦೦71
+ವಿಳಾಸ: ಬೆಂಗಳೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009727",True,1.0,exact_match
+kannada_application_071,kannada,application,tesseract,phone,9000009727,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಅರ್ಜುನ್‌ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 12/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ಓ೧೧-೦೦71
+ವಿಳಾಸ: ಬೆಂಗಳೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009727",True,1.0,exact_match
+kannada_application_072,kannada,application,tesseract,name,ಪ್ರಿಯಾ ನಾಯರ್,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಪ್ರಿಯಾ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 13/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ೧೧೦-೦೦72
+ವಿಳಾಸ: ಮೈಸೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009864.",True,1.0,exact_match
+kannada_application_072,kannada,application,tesseract,date,13/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಪ್ರಿಯಾ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 13/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ೧೧೦-೦೦72
+ವಿಳಾಸ: ಮೈಸೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009864.",True,1.0,exact_match
+kannada_application_072,kannada,application,tesseract,document_id,APP-0072,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಪ್ರಿಯಾ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 13/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ೧೧೦-೦೦72
+ವಿಳಾಸ: ಮೈಸೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009864.",False,0.5,unavailable_or_uncertain
+kannada_application_072,kannada,application,tesseract,address,ಮೈಸೂರು,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಪ್ರಿಯಾ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 13/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ೧೧೦-೦೦72
+ವಿಳಾಸ: ಮೈಸೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009864.",True,1.0,exact_match
+kannada_application_072,kannada,application,tesseract,phone,9000009864,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು: ಪ್ರಿಯಾ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ: 13/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ: ೧೧೦-೦೦72
+ವಿಳಾಸ: ಮೈಸೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009864.",True,1.0,exact_match
+kannada_application_073,kannada,application,tesseract,name,ಅನನ್ಯಾ ಪಟೇಲ್,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಅನನ್ಯಾ ಪಟೇಲ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 14/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ &೧೧-೦೦73
+ವಿಳಾಸ ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010001",True,1.0,exact_match
+kannada_application_073,kannada,application,tesseract,date,14/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಅನನ್ಯಾ ಪಟೇಲ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 14/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ &೧೧-೦೦73
+ವಿಳಾಸ ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010001",True,1.0,exact_match
+kannada_application_073,kannada,application,tesseract,document_id,APP-0073,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಅನನ್ಯಾ ಪಟೇಲ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 14/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ &೧೧-೦೦73
+ವಿಳಾಸ ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010001",False,0.36363636363636365,unavailable_or_uncertain
+kannada_application_073,kannada,application,tesseract,address,ಮಂಗಳೂರು,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಅನನ್ಯಾ ಪಟೇಲ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 14/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ &೧೧-೦೦73
+ವಿಳಾಸ ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010001",True,1.0,exact_match
+kannada_application_073,kannada,application,tesseract,phone,9000010001,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಅನನ್ಯಾ ಪಟೇಲ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 14/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ &೧೧-೦೦73
+ವಿಳಾಸ ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010001",True,1.0,exact_match
+kannada_application_074,kannada,application,tesseract,name,ಪ್ರಿಯಾ ಸಿಂಗ್,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಪ್ರಿಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 15/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ ೦೧೧-೦೦74
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010138",True,1.0,exact_match
+kannada_application_074,kannada,application,tesseract,date,15/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಪ್ರಿಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 15/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ ೦೧೧-೦೦74
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010138",True,1.0,exact_match
+kannada_application_074,kannada,application,tesseract,document_id,APP-0074,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಪ್ರಿಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 15/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ ೦೧೧-೦೦74
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010138",False,0.36363636363636365,unavailable_or_uncertain
+kannada_application_074,kannada,application,tesseract,address,ಹುಬ್ಬಳ್ಳಿ,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಪ್ರಿಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 15/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ ೦೧೧-೦೦74
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010138",True,1.0,exact_match
+kannada_application_074,kannada,application,tesseract,phone,9000010138,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು ಪ್ರಿಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ 15/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ ೦೧೧-೦೦74
+ವಿಳಾಸ ಹುಬ್ಬಳ್ಳಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ 9000010138",True,1.0,exact_match
+kannada_application_075,kannada,application,tesseract,name,ಅನನ್ಯಾ ಸಿಂಗ್,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಅನನ್ಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ
+16/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ
+೧೧-೦75
+
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275",True,1.0,exact_match
+kannada_application_075,kannada,application,tesseract,date,16/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಅನನ್ಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ
+16/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ
+೧೧-೦75
+
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275",True,1.0,exact_match
+kannada_application_075,kannada,application,tesseract,document_id,APP-0075,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಅನನ್ಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ
+16/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ
+೧೧-೦75
+
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275",False,0.6153846153846154,unavailable_or_uncertain
+kannada_application_075,kannada,application,tesseract,address,ಬೆಳಗಾವಿ,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಅನನ್ಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ
+16/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ
+೧೧-೦75
+
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275",True,1.0,exact_match
+kannada_application_075,kannada,application,tesseract,phone,9000010275,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಅನನ್ಯಾ ಸಿಂಗ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ
+16/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ
+೧೧-೦75
+
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275",True,1.0,exact_match
+kannada_application_076,kannada,application,tesseract,name,ರಾಹುಲ್ ರೆಡ್ಡಿ,"ಅರ್ಜಿ ನಮೂನೆ
+
+1... ಅರ್ಜಿದಾರರ ಹೆಸರು:
+
+2... ಅರ್ಜಿ ದಿನಾಂಕ:
+
+3... ಅರ್ಜಿ ಸಂಖ್ಯೆ:
+
+ರಾಹುಲ್‌ ರೆಡ್ಡಿ
+
+17/03/2026
+
+ಓಿ00-0076
+
+ಶಿವಮೊಗ್ಗ
+
+9000010412",True,1.0,exact_match
+kannada_application_076,kannada,application,tesseract,date,17/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+
+1... ಅರ್ಜಿದಾರರ ಹೆಸರು:
+
+2... ಅರ್ಜಿ ದಿನಾಂಕ:
+
+3... ಅರ್ಜಿ ಸಂಖ್ಯೆ:
+
+ರಾಹುಲ್‌ ರೆಡ್ಡಿ
+
+17/03/2026
+
+ಓಿ00-0076
+
+ಶಿವಮೊಗ್ಗ
+
+9000010412",True,1.0,exact_match
+kannada_application_076,kannada,application,tesseract,document_id,APP-0076,"ಅರ್ಜಿ ನಮೂನೆ
+
+1... ಅರ್ಜಿದಾರರ ಹೆಸರು:
+
+2... ಅರ್ಜಿ ದಿನಾಂಕ:
+
+3... ಅರ್ಜಿ ಸಂಖ್ಯೆ:
+
+ರಾಹುಲ್‌ ರೆಡ್ಡಿ
+
+17/03/2026
+
+ಓಿ00-0076
+
+ಶಿವಮೊಗ್ಗ
+
+9000010412",False,0.7272727272727273,unavailable_or_uncertain
+kannada_application_076,kannada,application,tesseract,address,ಶಿವಮೊಗ್ಗ,"ಅರ್ಜಿ ನಮೂನೆ
+
+1... ಅರ್ಜಿದಾರರ ಹೆಸರು:
+
+2... ಅರ್ಜಿ ದಿನಾಂಕ:
+
+3... ಅರ್ಜಿ ಸಂಖ್ಯೆ:
+
+ರಾಹುಲ್‌ ರೆಡ್ಡಿ
+
+17/03/2026
+
+ಓಿ00-0076
+
+ಶಿವಮೊಗ್ಗ
+
+9000010412",True,1.0,exact_match
+kannada_application_076,kannada,application,tesseract,phone,9000010412,"ಅರ್ಜಿ ನಮೂನೆ
+
+1... ಅರ್ಜಿದಾರರ ಹೆಸರು:
+
+2... ಅರ್ಜಿ ದಿನಾಂಕ:
+
+3... ಅರ್ಜಿ ಸಂಖ್ಯೆ:
+
+ರಾಹುಲ್‌ ರೆಡ್ಡಿ
+
+17/03/2026
+
+ಓಿ00-0076
+
+ಶಿವಮೊಗ್ಗ
+
+9000010412",True,1.0,exact_match
+kannada_certificate_081,kannada,certificate,tesseract,name,ಮೀರಾ ಶರ್ಮಾ,"ಹ ಣೆ
+
+ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಮೀರಾ ಶರ್ಮಾ
+
+22/03/2026
+
+೮೯೯1-0081
+
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂ
+
+5",True,1.0,exact_match
+kannada_certificate_081,kannada,certificate,tesseract,date,22/03/2026,"ಹ ಣೆ
+
+ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಮೀರಾ ಶರ್ಮಾ
+
+22/03/2026
+
+೮೯೯1-0081
+
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂ
+
+5",True,1.0,exact_match
+kannada_certificate_081,kannada,certificate,tesseract,document_id,CERT-0081,"ಹ ಣೆ
+
+ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಮೀರಾ ಶರ್ಮಾ
+
+22/03/2026
+
+೮೯೯1-0081
+
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂ
+
+5",False,0.6153846153846154,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,tesseract,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,"ಹ ಣೆ
+
+ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಮೀರಾ ಶರ್ಮಾ
+
+22/03/2026
+
+೮೯೯1-0081
+
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂ
+
+5",False,0.92,possible_recoverable
+kannada_certificate_081,kannada,certificate,tesseract,grade,A,"ಹ ಣೆ
+
+ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಮೀರಾ ಶರ್ಮಾ
+
+22/03/2026
+
+೮೯೯1-0081
+
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂ
+
+5",False,0.0,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,tesseract,name,ಅನನ್ಯಾ ನಾಯರ್,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಅನನ್ಯಾ ನಾಯರ್‌
+
+23/03/2026
+
+೮೯೯1-0082
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",True,1.0,exact_match
+kannada_certificate_082,kannada,certificate,tesseract,date,23/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಅನನ್ಯಾ ನಾಯರ್‌
+
+23/03/2026
+
+೮೯೯1-0082
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",True,1.0,exact_match
+kannada_certificate_082,kannada,certificate,tesseract,document_id,CERT-0082,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಅನನ್ಯಾ ನಾಯರ್‌
+
+23/03/2026
+
+೮೯೯1-0082
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",False,0.6153846153846154,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,tesseract,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಅನನ್ಯಾ ನಾಯರ್‌
+
+23/03/2026
+
+೮೯೯1-0082
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",True,1.0,exact_match
+kannada_certificate_082,kannada,certificate,tesseract,grade,A+,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ಅನನ್ಯಾ ನಾಯರ್‌
+
+23/03/2026
+
+೮೯೯1-0082
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",False,0.0,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,tesseract,name,ರವಿ ಜೋಶಿ,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ 24/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೫7-0083
+
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ",True,1.0,exact_match
+kannada_certificate_083,kannada,certificate,tesseract,date,24/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ 24/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೫7-0083
+
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ",True,1.0,exact_match
+kannada_certificate_083,kannada,certificate,tesseract,document_id,CERT-0083,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ 24/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೫7-0083
+
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ",False,0.6153846153846154,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,tesseract,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ 24/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೫7-0083
+
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ",True,1.0,exact_match
+kannada_certificate_083,kannada,certificate,tesseract,grade,B+,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ 24/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೫7-0083
+
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ",False,0.0,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,tesseract,name,ವಿಕ್ರಮ್ ರಾವ್,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ವಿಕ್ರಮ್‌ ರಾವ್‌
+ನೀಡಿದ ದಿನಾಂಕ 25/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೯7-೦084
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ ಣ್ರ",True,1.0,exact_match
+kannada_certificate_084,kannada,certificate,tesseract,date,25/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ವಿಕ್ರಮ್‌ ರಾವ್‌
+ನೀಡಿದ ದಿನಾಂಕ 25/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೯7-೦084
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ ಣ್ರ",True,1.0,exact_match
+kannada_certificate_084,kannada,certificate,tesseract,document_id,CERT-0084,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ವಿಕ್ರಮ್‌ ರಾವ್‌
+ನೀಡಿದ ದಿನಾಂಕ 25/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೯7-೦084
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ ಣ್ರ",False,0.46153846153846156,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,tesseract,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ವಿಕ್ರಮ್‌ ರಾವ್‌
+ನೀಡಿದ ದಿನಾಂಕ 25/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೯7-೦084
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ ಣ್ರ",True,1.0,exact_match
+kannada_certificate_084,kannada,certificate,tesseract,grade,B,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ವಿಕ್ರಮ್‌ ರಾವ್‌
+ನೀಡಿದ ದಿನಾಂಕ 25/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೯7-೦084
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ ಣ್ರ",False,0.0,unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,tesseract,name,ಸ್ನೇಹಾ ವರ್ಮಾ,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+
+ನೀಡಿದ ದಿನಾಂಕ
+26/03/2026
+
+ದ್‌ ಸತ ತ
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+
+೮೯೧1-0085
+
+2
+5
+
+೦;
+
+ಲ್ಫ
+ಜಿ
+
+ಬೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+
+5
+
+ಟ್ಜು
+ಜಿ
+
+0150೧60೧",True,1.0,exact_match
+kannada_certificate_085,kannada,certificate,tesseract,date,26/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+
+ನೀಡಿದ ದಿನಾಂಕ
+26/03/2026
+
+ದ್‌ ಸತ ತ
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+
+೮೯೧1-0085
+
+2
+5
+
+೦;
+
+ಲ್ಫ
+ಜಿ
+
+ಬೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+
+5
+
+ಟ್ಜು
+ಜಿ
+
+0150೧60೧",True,1.0,exact_match
+kannada_certificate_085,kannada,certificate,tesseract,document_id,CERT-0085,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+
+ನೀಡಿದ ದಿನಾಂಕ
+26/03/2026
+
+ದ್‌ ಸತ ತ
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+
+೮೯೧1-0085
+
+2
+5
+
+೦;
+
+ಲ್ಫ
+ಜಿ
+
+ಬೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+
+5
+
+ಟ್ಜು
+ಜಿ
+
+0150೧60೧",False,0.6153846153846154,unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,tesseract,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+
+ನೀಡಿದ ದಿನಾಂಕ
+26/03/2026
+
+ದ್‌ ಸತ ತ
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+
+೮೯೧1-0085
+
+2
+5
+
+೦;
+
+ಲ್ಫ
+ಜಿ
+
+ಬೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+
+5
+
+ಟ್ಜು
+ಜಿ
+
+0150೧60೧",False,0.851063829787234,possible_recoverable
+kannada_certificate_085,kannada,certificate,tesseract,grade,Distinction,"ಪ್ರಮಾಣಪತ್ರ
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+
+ನೀಡಿದ ದಿನಾಂಕ
+26/03/2026
+
+ದ್‌ ಸತ ತ
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+
+೮೯೧1-0085
+
+2
+5
+
+೦;
+
+ಲ್ಫ
+ಜಿ
+
+ಬೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+
+5
+
+ಟ್ಜು
+ಜಿ
+
+0150೧60೧",False,0.0,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,tesseract,name,ದಿವ್ಯಾ ಶರ್ಮಾ,"ಪ್ರಮಾಣಪತ್ರ
+
+ಹ್‌
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ದಿವ್ಯಾ ಶರ್ಮಾ
+
+27/03/2026
+
+೮೯೯1-0086
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",True,1.0,exact_match
+kannada_certificate_086,kannada,certificate,tesseract,date,27/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+
+ಹ್‌
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ದಿವ್ಯಾ ಶರ್ಮಾ
+
+27/03/2026
+
+೮೯೯1-0086
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",True,1.0,exact_match
+kannada_certificate_086,kannada,certificate,tesseract,document_id,CERT-0086,"ಪ್ರಮಾಣಪತ್ರ
+
+ಹ್‌
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ದಿವ್ಯಾ ಶರ್ಮಾ
+
+27/03/2026
+
+೮೯೯1-0086
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",False,0.6153846153846154,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,tesseract,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,"ಪ್ರಮಾಣಪತ್ರ
+
+ಹ್‌
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ದಿವ್ಯಾ ಶರ್ಮಾ
+
+27/03/2026
+
+೮೯೯1-0086
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",True,1.0,exact_match
+kannada_certificate_086,kannada,certificate,tesseract,grade,A,"ಪ್ರಮಾಣಪತ್ರ
+
+ಹ್‌
+
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+
+ನೀಡಿದ ದಿನಾಂಕ:
+
+ಪ ಪತ ಸಂಖ್ಯೆ:
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ:
+
+2
+ಟ್ರ
+8
+
+ದಿವ್ಯಾ ಶರ್ಮಾ
+
+27/03/2026
+
+೮೯೯1-0086
+
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು",False,0.0,unavailable_or_uncertain
+english_application_011,english,application,easyocr,name,Sneha Nair,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_011,english,application,easyocr,date,11/01/2026,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_011,english,application,easyocr,document_id,APP-0011,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_011,english,application,easyocr,address,Bengaluru,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_011,english,application,easyocr,phone,9000001507,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_012,english,application,easyocr,name,Ananya Kumar,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_012,english,application,easyocr,date,12/01/2026,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_012,english,application,easyocr,document_id,APP-0012,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_012,english,application,easyocr,address,Mysuru,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_012,english,application,easyocr,phone,9000001644,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_013,english,application,easyocr,name,Meera Joshi,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_013,english,application,easyocr,date,13/01/2026,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_013,english,application,easyocr,document_id,APP-0013,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_013,english,application,easyocr,address,Mangaluru,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_013,english,application,easyocr,phone,9000001781,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_014,english,application,easyocr,name,Meera Verma,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_014,english,application,easyocr,date,14/01/2026,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_014,english,application,easyocr,document_id,APP-0014,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_014,english,application,easyocr,address,Hubballi,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_014,english,application,easyocr,phone,9000001918,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_015,english,application,easyocr,name,Sneha Rao,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,easyocr,date,15/01/2026,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,easyocr,document_id,APP-0015,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,easyocr,address,Belagavi,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,easyocr,phone,9000002055,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_016,english,application,easyocr,name,Kiran Joshi,"APPLICATION FORM
+1_
+Applicant Name:
+Kiran Joshi
+2
+Application Date:
+16/01/2026
+3.
+Application ID:
+APP-0016
+4
+Address:
+Shivamogga
+5
+Phone Number:
+9000002192",True,1.0,exact_match
+english_application_016,english,application,easyocr,date,16/01/2026,"APPLICATION FORM
+1_
+Applicant Name:
+Kiran Joshi
+2
+Application Date:
+16/01/2026
+3.
+Application ID:
+APP-0016
+4
+Address:
+Shivamogga
+5
+Phone Number:
+9000002192",True,1.0,exact_match
+english_application_016,english,application,easyocr,document_id,APP-0016,"APPLICATION FORM
+1_
+Applicant Name:
+Kiran Joshi
+2
+Application Date:
+16/01/2026
+3.
+Application ID:
+APP-0016
+4
+Address:
+Shivamogga
+5
+Phone Number:
+9000002192",True,1.0,exact_match
+english_application_016,english,application,easyocr,address,Shivamogga,"APPLICATION FORM
+1_
+Applicant Name:
+Kiran Joshi
+2
+Application Date:
+16/01/2026
+3.
+Application ID:
+APP-0016
+4
+Address:
+Shivamogga
+5
+Phone Number:
+9000002192",True,1.0,exact_match
+english_application_016,english,application,easyocr,phone,9000002192,"APPLICATION FORM
+1_
+Applicant Name:
+Kiran Joshi
+2
+Application Date:
+16/01/2026
+3.
+Application ID:
+APP-0016
+4
+Address:
+Shivamogga
+5
+Phone Number:
+9000002192",True,1.0,exact_match
+english_certificate_021,english,certificate,easyocr,name,Priya Kumar,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:",True,1.0,exact_match
+english_certificate_021,english,certificate,easyocr,date,21/01/2026,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:",True,1.0,exact_match
+english_certificate_021,english,certificate,easyocr,document_id,CERT-0021,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:",True,1.0,exact_match
+english_certificate_021,english,certificate,easyocr,institution,National Institute of Technology,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:",True,1.0,exact_match
+english_certificate_021,english,certificate,easyocr,grade,A,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:",True,1.0,exact_match
+english_certificate_022,english,certificate,easyocr,name,Arjun Sharma,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_022,english,certificate,easyocr,date,22/01/2026,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_022,english,certificate,easyocr,document_id,CERT-0022,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_022,english,certificate,easyocr,institution,Government Science College,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_022,english,certificate,easyocr,grade,A+,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_023,english,certificate,easyocr,name,Priya Rao,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_023,english,certificate,easyocr,date,23/01/2026,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_023,english,certificate,easyocr,document_id,CERT-0023,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_023,english,certificate,easyocr,institution,Karnataka Technical University,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_023,english,certificate,easyocr,grade,B+,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_024,english,certificate,easyocr,name,Divya Verma,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+8",True,1.0,exact_match
+english_certificate_024,english,certificate,easyocr,date,24/01/2026,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+8",True,1.0,exact_match
+english_certificate_024,english,certificate,easyocr,document_id,CERT-0024,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+8",True,1.0,exact_match
+english_certificate_024,english,certificate,easyocr,institution,City Education Board,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+8",True,1.0,exact_match
+english_certificate_024,english,certificate,easyocr,grade,B,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+8",True,1.0,exact_match
+english_certificate_025,english,certificate,easyocr,name,Vikram Kumar,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,easyocr,date,25/01/2026,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,easyocr,document_id,CERT-0025,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,easyocr,institution,National Institute of Technology,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,easyocr,grade,Distinction,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_026,english,certificate,easyocr,name,Kiran Menon,"CERTIFICATE
+1_
+Recipient Name:
+Kiran Menon
+2
+Issue Date=
+26/01/2026
+3.
+Certificate Number:
+CERT-0026
+4
+Institution:
+Government Science College
+5
+Grade:",True,1.0,exact_match
+english_certificate_026,english,certificate,easyocr,date,26/01/2026,"CERTIFICATE
+1_
+Recipient Name:
+Kiran Menon
+2
+Issue Date=
+26/01/2026
+3.
+Certificate Number:
+CERT-0026
+4
+Institution:
+Government Science College
+5
+Grade:",True,1.0,exact_match
+english_certificate_026,english,certificate,easyocr,document_id,CERT-0026,"CERTIFICATE
+1_
+Recipient Name:
+Kiran Menon
+2
+Issue Date=
+26/01/2026
+3.
+Certificate Number:
+CERT-0026
+4
+Institution:
+Government Science College
+5
+Grade:",True,1.0,exact_match
+english_certificate_026,english,certificate,easyocr,institution,Government Science College,"CERTIFICATE
+1_
+Recipient Name:
+Kiran Menon
+2
+Issue Date=
+26/01/2026
+3.
+Certificate Number:
+CERT-0026
+4
+Institution:
+Government Science College
+5
+Grade:",True,1.0,exact_match
+english_certificate_026,english,certificate,easyocr,grade,A,"CERTIFICATE
+1_
+Recipient Name:
+Kiran Menon
+2
+Issue Date=
+26/01/2026
+3.
+Certificate Number:
+CERT-0026
+4
+Institution:
+Government Science College
+5
+Grade:",True,1.0,exact_match
+english_invoice_001,english,invoice,easyocr,name,Kiran Rao,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,easyocr,date,01/01/2026,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,easyocr,document_id,INV-0001,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,easyocr,address,Bengaluru,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,easyocr,amount,1637,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_002,english,invoice,easyocr,name,Kiran Sharma,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,easyocr,date,02/01/2026,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,easyocr,document_id,INV-0002,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,easyocr,address,Mysuru,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,easyocr,amount,1774,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_003,english,invoice,easyocr,name,Divya Sharma,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_003,english,invoice,easyocr,date,03/01/2026,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_003,english,invoice,easyocr,document_id,INV-0003,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_003,english,invoice,easyocr,address,Mangaluru,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_003,english,invoice,easyocr,amount,1911,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_004,english,invoice,easyocr,name,Ravi Menon,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_004,english,invoice,easyocr,date,04/01/2026,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_004,english,invoice,easyocr,document_id,INV-0004,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_004,english,invoice,easyocr,address,Hubballi,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_004,english,invoice,easyocr,amount,2048,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_005,english,invoice,easyocr,name,Rahul Joshi,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,easyocr,date,05/01/2026,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,easyocr,document_id,INV-0005,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,easyocr,address,Belagavi,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,easyocr,amount,2185,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_006,english,invoice,easyocr,name,Meera Kumar,"INVOICE
+1_
+Customer Name:
+Meera Kumar
+2
+Invoice Date=
+06/01/2026
+3.
+Invoice Number=
+INV-0006
+4
+Address:
+Shivamogga
+5.
+Total Amount:
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,easyocr,date,06/01/2026,"INVOICE
+1_
+Customer Name:
+Meera Kumar
+2
+Invoice Date=
+06/01/2026
+3.
+Invoice Number=
+INV-0006
+4
+Address:
+Shivamogga
+5.
+Total Amount:
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,easyocr,document_id,INV-0006,"INVOICE
+1_
+Customer Name:
+Meera Kumar
+2
+Invoice Date=
+06/01/2026
+3.
+Invoice Number=
+INV-0006
+4
+Address:
+Shivamogga
+5.
+Total Amount:
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,easyocr,address,Shivamogga,"INVOICE
+1_
+Customer Name:
+Meera Kumar
+2
+Invoice Date=
+06/01/2026
+3.
+Invoice Number=
+INV-0006
+4
+Address:
+Shivamogga
+5.
+Total Amount:
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,easyocr,amount,2322,"INVOICE
+1_
+Customer Name:
+Meera Kumar
+2
+Invoice Date=
+06/01/2026
+3.
+Invoice Number=
+INV-0006
+4
+Address:
+Shivamogga
+5.
+Total Amount:
+2322",True,1.0,exact_match
+hindi_application_041,hindi,application,easyocr,name,विक्रम जोशी,"आवेदन पत्र
+आवेदक का नामः
+विक्रम जोशी
+आवेदन दिनांकः
+10/02/2026
+आवेदन संख्याः
+APP-0041
+पता
+फोन नंबरः
+9000005617
+बेंगलुरु",True,1.0,exact_match
+hindi_application_041,hindi,application,easyocr,date,10/02/2026,"आवेदन पत्र
+आवेदक का नामः
+विक्रम जोशी
+आवेदन दिनांकः
+10/02/2026
+आवेदन संख्याः
+APP-0041
+पता
+फोन नंबरः
+9000005617
+बेंगलुरु",True,1.0,exact_match
+hindi_application_041,hindi,application,easyocr,document_id,APP-0041,"आवेदन पत्र
+आवेदक का नामः
+विक्रम जोशी
+आवेदन दिनांकः
+10/02/2026
+आवेदन संख्याः
+APP-0041
+पता
+फोन नंबरः
+9000005617
+बेंगलुरु",True,1.0,exact_match
+hindi_application_041,hindi,application,easyocr,address,बेंगलुरु,"आवेदन पत्र
+आवेदक का नामः
+विक्रम जोशी
+आवेदन दिनांकः
+10/02/2026
+आवेदन संख्याः
+APP-0041
+पता
+फोन नंबरः
+9000005617
+बेंगलुरु",True,1.0,exact_match
+hindi_application_041,hindi,application,easyocr,phone,9000005617,"आवेदन पत्र
+आवेदक का नामः
+विक्रम जोशी
+आवेदन दिनांकः
+10/02/2026
+आवेदन संख्याः
+APP-0041
+पता
+फोन नंबरः
+9000005617
+बेंगलुरु",True,1.0,exact_match
+hindi_application_042,hindi,application,easyocr,name,राहुल रेड्डी,"आवेदन पत्र
+आवेदक का नामः
+राहल
+आवेदन दिनांकः
+11/02/2026
+आवेदन संख्याः
+^PP-0042
+पता
+फोन नंबरः
+9000005754",False,0.6,unavailable_or_uncertain
+hindi_application_042,hindi,application,easyocr,date,11/02/2026,"आवेदन पत्र
+आवेदक का नामः
+राहल
+आवेदन दिनांकः
+11/02/2026
+आवेदन संख्याः
+^PP-0042
+पता
+फोन नंबरः
+9000005754",True,1.0,exact_match
+hindi_application_042,hindi,application,easyocr,document_id,APP-0042,"आवेदन पत्र
+आवेदक का नामः
+राहल
+आवेदन दिनांकः
+11/02/2026
+आवेदन संख्याः
+^PP-0042
+पता
+फोन नंबरः
+9000005754",False,0.9230769230769231,possible_recoverable
+hindi_application_042,hindi,application,easyocr,address,मैसूर,"आवेदन पत्र
+आवेदक का नामः
+राहल
+आवेदन दिनांकः
+11/02/2026
+आवेदन संख्याः
+^PP-0042
+पता
+फोन नंबरः
+9000005754",False,0.4444444444444444,unavailable_or_uncertain
+hindi_application_042,hindi,application,easyocr,phone,9000005754,"आवेदन पत्र
+आवेदक का नामः
+राहल
+आवेदन दिनांकः
+11/02/2026
+आवेदन संख्याः
+^PP-0042
+पता
+फोन नंबरः
+9000005754",True,1.0,exact_match
+hindi_application_043,hindi,application,easyocr,name,स्नेहा मेनन,"आवेदन पत्र
+आवेदक का नाम
+नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+फोन नंबर
+9000005891
+मंगलुरु",False,0.9,possible_recoverable
+hindi_application_043,hindi,application,easyocr,date,12/02/2026,"आवेदन पत्र
+आवेदक का नाम
+नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+फोन नंबर
+9000005891
+मंगलुरु",True,1.0,exact_match
+hindi_application_043,hindi,application,easyocr,document_id,APP-0043,"आवेदन पत्र
+आवेदक का नाम
+नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+फोन नंबर
+9000005891
+मंगलुरु",True,1.0,exact_match
+hindi_application_043,hindi,application,easyocr,address,मंगलुरु,"आवेदन पत्र
+आवेदक का नाम
+नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+फोन नंबर
+9000005891
+मंगलुरु",True,1.0,exact_match
+hindi_application_043,hindi,application,easyocr,phone,9000005891,"आवेदन पत्र
+आवेदक का नाम
+नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+फोन नंबर
+9000005891
+मंगलुरु",True,1.0,exact_match
+hindi_application_044,hindi,application,easyocr,name,किरण पटेल,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+फोन नंबर
+9000006028
+हुबली",True,1.0,exact_match
+hindi_application_044,hindi,application,easyocr,date,13/02/2026,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+फोन नंबर
+9000006028
+हुबली",True,1.0,exact_match
+hindi_application_044,hindi,application,easyocr,document_id,APP-0044,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+फोन नंबर
+9000006028
+हुबली",True,1.0,exact_match
+hindi_application_044,hindi,application,easyocr,address,हुबली,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+फोन नंबर
+9000006028
+हुबली",True,1.0,exact_match
+hindi_application_044,hindi,application,easyocr,phone,9000006028,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+फोन नंबर
+9000006028
+हुबली",True,1.0,exact_match
+hindi_application_045,hindi,application,easyocr,name,किरण राव,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+uत|
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_045,hindi,application,easyocr,date,14/02/2026,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+uत|
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_045,hindi,application,easyocr,document_id,APP-0045,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+uत|
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_045,hindi,application,easyocr,address,बेलगावी,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+uत|
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_045,hindi,application,easyocr,phone,9000006165,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+uत|
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_046,hindi,application,easyocr,name,रवि पटेल,"आवेदन पत्र
+1
+आवेदक का नामः
+रवि पटेल
+2
+आवेदन दिनांकः
+15/02/2026
+3
+आवेदन संख्याः
+APP-0046
+4
+पताः
+शिवमोग्गा
+5.
+फोन नंबरः
+9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,easyocr,date,15/02/2026,"आवेदन पत्र
+1
+आवेदक का नामः
+रवि पटेल
+2
+आवेदन दिनांकः
+15/02/2026
+3
+आवेदन संख्याः
+APP-0046
+4
+पताः
+शिवमोग्गा
+5.
+फोन नंबरः
+9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,easyocr,document_id,APP-0046,"आवेदन पत्र
+1
+आवेदक का नामः
+रवि पटेल
+2
+आवेदन दिनांकः
+15/02/2026
+3
+आवेदन संख्याः
+APP-0046
+4
+पताः
+शिवमोग्गा
+5.
+फोन नंबरः
+9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,easyocr,address,शिवमोग्गा,"आवेदन पत्र
+1
+आवेदक का नामः
+रवि पटेल
+2
+आवेदन दिनांकः
+15/02/2026
+3
+आवेदन संख्याः
+APP-0046
+4
+पताः
+शिवमोग्गा
+5.
+फोन नंबरः
+9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,easyocr,phone,9000006302,"आवेदन पत्र
+1
+आवेदक का नामः
+रवि पटेल
+2
+आवेदन दिनांकः
+15/02/2026
+3
+आवेदन संख्याः
+APP-0046
+4
+पताः
+शिवमोग्गा
+5.
+फोन नंबरः
+9000006302",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,easyocr,name,किरण रेड्डी,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+किरण रेड्डी
+जारी करने की तारीखः
+20/02/2026
+प्रमाण पत्र संख्याः
+CERT 005 1
+संस्थानः
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणीः",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,easyocr,date,20/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+किरण रेड्डी
+जारी करने की तारीखः
+20/02/2026
+प्रमाण पत्र संख्याः
+CERT 005 1
+संस्थानः
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणीः",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,easyocr,document_id,CERT-0051,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+किरण रेड्डी
+जारी करने की तारीखः
+20/02/2026
+प्रमाण पत्र संख्याः
+CERT 005 1
+संस्थानः
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणीः",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,easyocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+किरण रेड्डी
+जारी करने की तारीखः
+20/02/2026
+प्रमाण पत्र संख्याः
+CERT 005 1
+संस्थानः
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणीः",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,easyocr,grade,A,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+किरण रेड्डी
+जारी करने की तारीखः
+20/02/2026
+प्रमाण पत्र संख्याः
+CERT 005 1
+संस्थानः
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणीः",False,0.0,unavailable_or_uncertain
+hindi_certificate_052,hindi,certificate,easyocr,name,दिव्या पटेल,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+दिव्या पटेल
+जारी करने की तारीखः
+21/02/2026
+प्रमाण पत्र संख्याः
+CERT 0052
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+श्रेणीः
+/+",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,easyocr,date,21/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+दिव्या पटेल
+जारी करने की तारीखः
+21/02/2026
+प्रमाण पत्र संख्याः
+CERT 0052
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+श्रेणीः
+/+",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,easyocr,document_id,CERT-0052,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+दिव्या पटेल
+जारी करने की तारीखः
+21/02/2026
+प्रमाण पत्र संख्याः
+CERT 0052
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+श्रेणीः
+/+",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,easyocr,institution,सरकारी विज्ञान महाविद्यालय,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+दिव्या पटेल
+जारी करने की तारीखः
+21/02/2026
+प्रमाण पत्र संख्याः
+CERT 0052
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+श्रेणीः
+/+",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,easyocr,grade,A+,"प्रमाण पत्र
+प्राप्तकर्ता का नामः
+दिव्या पटेल
+जारी करने की तारीखः
+21/02/2026
+प्रमाण पत्र संख्याः
+CERT 0052
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+श्रेणीः
+/+",False,0.6666666666666666,unavailable_or_uncertain
+hindi_certificate_053,hindi,certificate,easyocr,name,रवि शर्मा,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT 0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+8+",False,0.8,possible_recoverable
+hindi_certificate_053,hindi,certificate,easyocr,date,22/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT 0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+8+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,easyocr,document_id,CERT-0053,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT 0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+8+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,easyocr,institution,कर्नाटक तकनीकी विश्वविद्यालय,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT 0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+8+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,easyocr,grade,B+,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT 0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+8+",False,0.6666666666666666,unavailable_or_uncertain
+hindi_certificate_054,hindi,certificate,easyocr,name,मीरा नायर,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT 0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+[",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,easyocr,date,23/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT 0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+[",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,easyocr,document_id,CERT-0054,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT 0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+[",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,easyocr,institution,शहर शिक्षा बोर्ड,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT 0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+[",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,easyocr,grade,B,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT 0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+[",False,0.0,unavailable_or_uncertain
+hindi_certificate_055,hindi,certificate,easyocr,name,विक्रम पटेल,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT 0OS५
+संस्थान
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,easyocr,date,24/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT 0OS५
+संस्थान
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,easyocr,document_id,CERT-0055,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT 0OS५
+संस्थान
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",False,0.7692307692307693,possible_recoverable
+hindi_certificate_055,hindi,certificate,easyocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT 0OS५
+संस्थान
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,easyocr,grade,Distinction,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT 0OS५
+संस्थान
+राष्ट्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,easyocr,name,दिव्या वर्मा,"प्रमाण पत्र
+1
+प्राप्तकर्ता का नामः
+दिव्या वर्मा
+2
+जारी करने की तारीखः
+25/02/2026
+3
+प्रमाण पत्र संख्याः
+CERT 0056
+4
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5.
+श्रेणीः",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,easyocr,date,25/02/2026,"प्रमाण पत्र
+1
+प्राप्तकर्ता का नामः
+दिव्या वर्मा
+2
+जारी करने की तारीखः
+25/02/2026
+3
+प्रमाण पत्र संख्याः
+CERT 0056
+4
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5.
+श्रेणीः",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,easyocr,document_id,CERT-0056,"प्रमाण पत्र
+1
+प्राप्तकर्ता का नामः
+दिव्या वर्मा
+2
+जारी करने की तारीखः
+25/02/2026
+3
+प्रमाण पत्र संख्याः
+CERT 0056
+4
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5.
+श्रेणीः",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,easyocr,institution,सरकारी विज्ञान महाविद्यालय,"प्रमाण पत्र
+1
+प्राप्तकर्ता का नामः
+दिव्या वर्मा
+2
+जारी करने की तारीखः
+25/02/2026
+3
+प्रमाण पत्र संख्याः
+CERT 0056
+4
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5.
+श्रेणीः",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,easyocr,grade,A,"प्रमाण पत्र
+1
+प्राप्तकर्ता का नामः
+दिव्या वर्मा
+2
+जारी करने की तारीखः
+25/02/2026
+3
+प्रमाण पत्र संख्याः
+CERT 0056
+4
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5.
+श्रेणीः",False,0.0,unavailable_or_uncertain
+hindi_invoice_031,hindi,invoice,easyocr,name,मीरा रेड्डी,"चालान
+ग्राहक का नामः
+मीरा रेड्डी
+चालान दिनांकः
+31/01/2026
+चालान संख्याः
+IN//-0031
+पत|
+कुल राशिः
+5747
+बेंगलुरु",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,easyocr,date,31/01/2026,"चालान
+ग्राहक का नामः
+मीरा रेड्डी
+चालान दिनांकः
+31/01/2026
+चालान संख्याः
+IN//-0031
+पत|
+कुल राशिः
+5747
+बेंगलुरु",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,easyocr,document_id,INV-0031,"चालान
+ग्राहक का नामः
+मीरा रेड्डी
+चालान दिनांकः
+31/01/2026
+चालान संख्याः
+IN//-0031
+पत|
+कुल राशिः
+5747
+बेंगलुरु",False,0.9230769230769231,possible_recoverable
+hindi_invoice_031,hindi,invoice,easyocr,address,बेंगलुरु,"चालान
+ग्राहक का नामः
+मीरा रेड्डी
+चालान दिनांकः
+31/01/2026
+चालान संख्याः
+IN//-0031
+पत|
+कुल राशिः
+5747
+बेंगलुरु",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,easyocr,amount,5747,"चालान
+ग्राहक का नामः
+मीरा रेड्डी
+चालान दिनांकः
+31/01/2026
+चालान संख्याः
+IN//-0031
+पत|
+कुल राशिः
+5747
+बेंगलुरु",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,easyocr,name,अर्जुन वर्मा,"चालान
+ग्राहक का नामः
+अर्जुन वर्मा
+चालान दिनांकः
+01/02/2026
+चालान संख्याः
+1N0/-0032
+पत|
+कुल राशिः
+5884",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,easyocr,date,01/02/2026,"चालान
+ग्राहक का नामः
+अर्जुन वर्मा
+चालान दिनांकः
+01/02/2026
+चालान संख्याः
+1N0/-0032
+पत|
+कुल राशिः
+5884",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,easyocr,document_id,INV-0032,"चालान
+ग्राहक का नामः
+अर्जुन वर्मा
+चालान दिनांकः
+01/02/2026
+चालान संख्याः
+1N0/-0032
+पत|
+कुल राशिः
+5884",False,0.7692307692307693,possible_recoverable
+hindi_invoice_032,hindi,invoice,easyocr,address,मैसूर,"चालान
+ग्राहक का नामः
+अर्जुन वर्मा
+चालान दिनांकः
+01/02/2026
+चालान संख्याः
+1N0/-0032
+पत|
+कुल राशिः
+5884",False,0.4,unavailable_or_uncertain
+hindi_invoice_032,hindi,invoice,easyocr,amount,5884,"चालान
+ग्राहक का नामः
+अर्जुन वर्मा
+चालान दिनांकः
+01/02/2026
+चालान संख्याः
+1N0/-0032
+पत|
+कुल राशिः
+5884",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,easyocr,name,रवि जोशी,"चालान
+ग्राहक का नाम
+जोशी
+चालान दिनांक
+02/02/2026
+चालान संख्या
+1N0/-0033
+कुल राशि
+6021
+मंगलुरु",False,0.7692307692307693,possible_recoverable
+hindi_invoice_033,hindi,invoice,easyocr,date,02/02/2026,"चालान
+ग्राहक का नाम
+जोशी
+चालान दिनांक
+02/02/2026
+चालान संख्या
+1N0/-0033
+कुल राशि
+6021
+मंगलुरु",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,easyocr,document_id,INV-0033,"चालान
+ग्राहक का नाम
+जोशी
+चालान दिनांक
+02/02/2026
+चालान संख्या
+1N0/-0033
+कुल राशि
+6021
+मंगलुरु",False,0.7692307692307693,possible_recoverable
+hindi_invoice_033,hindi,invoice,easyocr,address,मंगलुरु,"चालान
+ग्राहक का नाम
+जोशी
+चालान दिनांक
+02/02/2026
+चालान संख्या
+1N0/-0033
+कुल राशि
+6021
+मंगलुरु",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,easyocr,amount,6021,"चालान
+ग्राहक का नाम
+जोशी
+चालान दिनांक
+02/02/2026
+चालान संख्या
+1N0/-0033
+कुल राशि
+6021
+मंगलुरु",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,easyocr,name,अनन्या नायर,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+1N0/-0034
+कुल राशि
+6158
+हुबली",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,easyocr,date,03/02/2026,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+1N0/-0034
+कुल राशि
+6158
+हुबली",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,easyocr,document_id,INV-0034,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+1N0/-0034
+कुल राशि
+6158
+हुबली",False,0.7692307692307693,possible_recoverable
+hindi_invoice_034,hindi,invoice,easyocr,address,हुबली,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+1N0/-0034
+कुल राशि
+6158
+हुबली",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,easyocr,amount,6158,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+1N0/-0034
+कुल राशि
+6158
+हुबली",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,easyocr,name,राहुल शर्मा,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान सख्या
+1N/`/-0035
+uत|
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,easyocr,date,04/02/2026,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान सख्या
+1N/`/-0035
+uत|
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,easyocr,document_id,INV-0035,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान सख्या
+1N/`/-0035
+uत|
+बेलगावी
+कुल राशि
+6295",False,0.7692307692307693,possible_recoverable
+hindi_invoice_035,hindi,invoice,easyocr,address,बेलगावी,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान सख्या
+1N/`/-0035
+uत|
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,easyocr,amount,6295,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान सख्या
+1N/`/-0035
+uत|
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,easyocr,name,अर्जुन पटेल,"चालान
+1
+ग्राहक का नामः
+अर्जुन पटेल
+2
+चालान दिनांकः
+05/02/2026
+3
+चालान संख्याः
+1N0/-0036
+4
+पताः
+शिवमोग्गा
+5.
+कुल राशिः
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,easyocr,date,05/02/2026,"चालान
+1
+ग्राहक का नामः
+अर्जुन पटेल
+2
+चालान दिनांकः
+05/02/2026
+3
+चालान संख्याः
+1N0/-0036
+4
+पताः
+शिवमोग्गा
+5.
+कुल राशिः
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,easyocr,document_id,INV-0036,"चालान
+1
+ग्राहक का नामः
+अर्जुन पटेल
+2
+चालान दिनांकः
+05/02/2026
+3
+चालान संख्याः
+1N0/-0036
+4
+पताः
+शिवमोग्गा
+5.
+कुल राशिः
+6432",False,0.7692307692307693,possible_recoverable
+hindi_invoice_036,hindi,invoice,easyocr,address,शिवमोग्गा,"चालान
+1
+ग्राहक का नामः
+अर्जुन पटेल
+2
+चालान दिनांकः
+05/02/2026
+3
+चालान संख्याः
+1N0/-0036
+4
+पताः
+शिवमोग्गा
+5.
+कुल राशिः
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,easyocr,amount,6432,"चालान
+1
+ग्राहक का नामः
+अर्जुन पटेल
+2
+चालान दिनांकः
+05/02/2026
+3
+चालान संख्याः
+1N0/-0036
+4
+पताः
+शिवमोग्गा
+5.
+कुल राशिः
+6432",True,1.0,exact_match
+kannada_application_071,kannada,application,easyocr,name,ಅರ್ಜುನ್ ನಾಯರ್,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಅರ್ಜುನ್ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+12 |03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0071
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009727",True,1.0,exact_match
+kannada_application_071,kannada,application,easyocr,date,12/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಅರ್ಜುನ್ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+12 |03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0071
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009727",True,1.0,exact_match
+kannada_application_071,kannada,application,easyocr,document_id,APP-0071,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಅರ್ಜುನ್ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+12 |03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0071
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009727",True,1.0,exact_match
+kannada_application_071,kannada,application,easyocr,address,ಬೆಂಗಳೂರು,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಅರ್ಜುನ್ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+12 |03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0071
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009727",True,1.0,exact_match
+kannada_application_071,kannada,application,easyocr,phone,9000009727,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಅರ್ಜುನ್ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+12 |03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0071
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009727",True,1.0,exact_match
+kannada_application_072,kannada,application,easyocr,name,ಪ್ರಿಯಾ ನಾಯರ್,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಪ್ರಿಯಾ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+13 |03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0072
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009864",True,1.0,exact_match
+kannada_application_072,kannada,application,easyocr,date,13/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಪ್ರಿಯಾ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+13 |03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0072
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009864",True,1.0,exact_match
+kannada_application_072,kannada,application,easyocr,document_id,APP-0072,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಪ್ರಿಯಾ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+13 |03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0072
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009864",True,1.0,exact_match
+kannada_application_072,kannada,application,easyocr,address,ಮೈಸೂರು,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಪ್ರಿಯಾ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+13 |03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0072
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009864",True,1.0,exact_match
+kannada_application_072,kannada,application,easyocr,phone,9000009864,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ಪ್ರಿಯಾ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ:
+13 |03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ :
+APP-0072
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000009864",True,1.0,exact_match
+kannada_application_073,kannada,application,easyocr,name,ಅನನ್ಯಾ ಪಟೇಲ್,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪಟೇಲ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+14|03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0073
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0001
+ಅನನ್ಯಾ",False,0.6,unavailable_or_uncertain
+kannada_application_073,kannada,application,easyocr,date,14/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪಟೇಲ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+14|03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0073
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0001
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_application_073,kannada,application,easyocr,document_id,APP-0073,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪಟೇಲ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+14|03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0073
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0001
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_application_073,kannada,application,easyocr,address,ಮಂಗಳೂರು,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪಟೇಲ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+14|03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0073
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0001
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_application_073,kannada,application,easyocr,phone,9000010001,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪಟೇಲ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+14|03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0073
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0001
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_application_074,kannada,application,easyocr,name,ಪ್ರಿಯಾ ಸಿಂಗ್,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪ್ರಿಯಾ ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+15 | 03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0074
+ವಿಳಾಸ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+90000101 38
+ಹುಬ್ಬಳ",True,1.0,exact_match
+kannada_application_074,kannada,application,easyocr,date,15/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪ್ರಿಯಾ ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+15 | 03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0074
+ವಿಳಾಸ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+90000101 38
+ಹುಬ್ಬಳ",True,1.0,exact_match
+kannada_application_074,kannada,application,easyocr,document_id,APP-0074,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪ್ರಿಯಾ ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+15 | 03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0074
+ವಿಳಾಸ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+90000101 38
+ಹುಬ್ಬಳ",True,1.0,exact_match
+kannada_application_074,kannada,application,easyocr,address,ಹುಬ್ಬಳ್ಳಿ,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪ್ರಿಯಾ ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+15 | 03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0074
+ವಿಳಾಸ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+90000101 38
+ಹುಬ್ಬಳ",False,0.8,possible_recoverable
+kannada_application_074,kannada,application,easyocr,phone,9000010138,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಪ್ರಿಯಾ ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+15 | 03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0074
+ವಿಳಾಸ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+90000101 38
+ಹುಬ್ಬಳ",True,1.0,exact_match
+kannada_application_075,kannada,application,easyocr,name,ಅನನ್ಯಾ ಸಿಂಗ್,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+16 | 03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0075
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275
+ಅನನ್ಯಾ",False,0.6,unavailable_or_uncertain
+kannada_application_075,kannada,application,easyocr,date,16/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+16 | 03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0075
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_application_075,kannada,application,easyocr,document_id,APP-0075,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+16 | 03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0075
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_application_075,kannada,application,easyocr,address,ಬೆಳಗಾವಿ,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+16 | 03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0075
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_application_075,kannada,application,easyocr,phone,9000010275,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಸಿಂಗ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+16 | 03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0075
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+9000010275
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_application_076,kannada,application,easyocr,name,ರಾಹುಲ್ ರೆಡ್ಡಿ,"ಅರ್ಜಿ ನಮೂನೆ
+1
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ರಾಹುಲ್ ರೆಡ್ಡಿ
+2
+ಅರ್ಜಿ ದಿನಾಂಕ:
+17 |03 | 2026
+3.
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :
+APP-0076
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000010412",True,1.0,exact_match
+kannada_application_076,kannada,application,easyocr,date,17/03/2026,"ಅರ್ಜಿ ನಮೂನೆ
+1
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ರಾಹುಲ್ ರೆಡ್ಡಿ
+2
+ಅರ್ಜಿ ದಿನಾಂಕ:
+17 |03 | 2026
+3.
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :
+APP-0076
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000010412",True,1.0,exact_match
+kannada_application_076,kannada,application,easyocr,document_id,APP-0076,"ಅರ್ಜಿ ನಮೂನೆ
+1
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ರಾಹುಲ್ ರೆಡ್ಡಿ
+2
+ಅರ್ಜಿ ದಿನಾಂಕ:
+17 |03 | 2026
+3.
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :
+APP-0076
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000010412",True,1.0,exact_match
+kannada_application_076,kannada,application,easyocr,address,ಶಿವಮೊಗ್ಗ,"ಅರ್ಜಿ ನಮೂನೆ
+1
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ರಾಹುಲ್ ರೆಡ್ಡಿ
+2
+ಅರ್ಜಿ ದಿನಾಂಕ:
+17 |03 | 2026
+3.
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :
+APP-0076
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000010412",True,1.0,exact_match
+kannada_application_076,kannada,application,easyocr,phone,9000010412,"ಅರ್ಜಿ ನಮೂನೆ
+1
+ಅರ್ಜಿದಾರರ ಹೆಸರು:
+ರಾಹುಲ್ ರೆಡ್ಡಿ
+2
+ಅರ್ಜಿ ದಿನಾಂಕ:
+17 |03 | 2026
+3.
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :
+APP-0076
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ:
+9000010412",True,1.0,exact_match
+kannada_certificate_081,kannada,certificate,easyocr,name,ಮೀರಾ ಶರ್ಮಾ,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಮೀರಾ ಶರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ:
+22 /03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0081
+ಸಂಸ್ಥೆ:
+ರಾಷ್ಕ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ:",True,1.0,exact_match
+kannada_certificate_081,kannada,certificate,easyocr,date,22/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಮೀರಾ ಶರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ:
+22 /03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0081
+ಸಂಸ್ಥೆ:
+ರಾಷ್ಕ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ:",True,1.0,exact_match
+kannada_certificate_081,kannada,certificate,easyocr,document_id,CERT-0081,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಮೀರಾ ಶರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ:
+22 /03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0081
+ಸಂಸ್ಥೆ:
+ರಾಷ್ಕ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ:",True,1.0,exact_match
+kannada_certificate_081,kannada,certificate,easyocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಮೀರಾ ಶರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ:
+22 /03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0081
+ಸಂಸ್ಥೆ:
+ರಾಷ್ಕ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ:",False,0.9629629629629629,possible_recoverable
+kannada_certificate_081,kannada,certificate,easyocr,grade,A,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಮೀರಾ ಶರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ:
+22 /03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0081
+ಸಂಸ್ಥೆ:
+ರಾಷ್ಕ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ:",False,0.0,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,easyocr,name,ಅನನ್ಯಾ ನಾಯರ್,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನಾಯರ್
+ನೀಡಿದ ದಿನಾಂಕ:
+23 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0082
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+ಶ್ರೇಣಿ:
+A+
+ಅನನ್ಯಾ",False,0.6,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,easyocr,date,23/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನಾಯರ್
+ನೀಡಿದ ದಿನಾಂಕ:
+23 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0082
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+ಶ್ರೇಣಿ:
+A+
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_certificate_082,kannada,certificate,easyocr,document_id,CERT-0082,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನಾಯರ್
+ನೀಡಿದ ದಿನಾಂಕ:
+23 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0082
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+ಶ್ರೇಣಿ:
+A+
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_certificate_082,kannada,certificate,easyocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನಾಯರ್
+ನೀಡಿದ ದಿನಾಂಕ:
+23 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0082
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+ಶ್ರೇಣಿ:
+A+
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_certificate_082,kannada,certificate,easyocr,grade,A+,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ನಾಯರ್
+ನೀಡಿದ ದಿನಾಂಕ:
+23 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0082
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+ಶ್ರೇಣಿ:
+A+
+ಅನನ್ಯಾ",True,1.0,exact_match
+kannada_certificate_083,kannada,certificate,easyocr,name,ರವಿ ಜೋಶಿ,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ
+24 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0083
+ಸಂಸ್ಥೆ
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+ಶ್ರೇಣಿ
+B+",True,1.0,exact_match
+kannada_certificate_083,kannada,certificate,easyocr,date,24/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ
+24 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0083
+ಸಂಸ್ಥೆ
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+ಶ್ರೇಣಿ
+B+",True,1.0,exact_match
+kannada_certificate_083,kannada,certificate,easyocr,document_id,CERT-0083,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ
+24 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0083
+ಸಂಸ್ಥೆ
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+ಶ್ರೇಣಿ
+B+",True,1.0,exact_match
+kannada_certificate_083,kannada,certificate,easyocr,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ
+24 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0083
+ಸಂಸ್ಥೆ
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+ಶ್ರೇಣಿ
+B+",True,1.0,exact_match
+kannada_certificate_083,kannada,certificate,easyocr,grade,B+,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ರವಿ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ
+24 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0083
+ಸಂಸ್ಥೆ
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+ಶ್ರೇಣಿ
+B+",True,1.0,exact_match
+kannada_certificate_084,kannada,certificate,easyocr,name,ವಿಕ್ರಮ್ ರಾವ್,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ವಿಕ್ರಮ್
+ನೀಡಿದ ದಿನಾಂಕ
+25 | 03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0084
+ಸಂಸ್ಥೆ
+ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ
+B
+ರಾವ್",False,0.8,possible_recoverable
+kannada_certificate_084,kannada,certificate,easyocr,date,25/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ವಿಕ್ರಮ್
+ನೀಡಿದ ದಿನಾಂಕ
+25 | 03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0084
+ಸಂಸ್ಥೆ
+ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ
+B
+ರಾವ್",True,1.0,exact_match
+kannada_certificate_084,kannada,certificate,easyocr,document_id,CERT-0084,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ವಿಕ್ರಮ್
+ನೀಡಿದ ದಿನಾಂಕ
+25 | 03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0084
+ಸಂಸ್ಥೆ
+ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ
+B
+ರಾವ್",True,1.0,exact_match
+kannada_certificate_084,kannada,certificate,easyocr,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ವಿಕ್ರಮ್
+ನೀಡಿದ ದಿನಾಂಕ
+25 | 03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0084
+ಸಂಸ್ಥೆ
+ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ
+B
+ರಾವ್",True,1.0,exact_match
+kannada_certificate_084,kannada,certificate,easyocr,grade,B,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ವಿಕ್ರಮ್
+ನೀಡಿದ ದಿನಾಂಕ
+25 | 03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0084
+ಸಂಸ್ಥೆ
+ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ
+B
+ರಾವ್",True,1.0,exact_match
+kannada_certificate_085,kannada,certificate,easyocr,name,ಸ್ನೇಹಾ ವರ್ಮಾ,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ
+26 | 03 |2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0085
+ಸಂಸ್ಥೆ
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ
+Distinction",True,1.0,exact_match
+kannada_certificate_085,kannada,certificate,easyocr,date,26/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ
+26 | 03 |2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0085
+ಸಂಸ್ಥೆ
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ
+Distinction",True,1.0,exact_match
+kannada_certificate_085,kannada,certificate,easyocr,document_id,CERT-0085,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ
+26 | 03 |2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0085
+ಸಂಸ್ಥೆ
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ
+Distinction",True,1.0,exact_match
+kannada_certificate_085,kannada,certificate,easyocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ
+26 | 03 |2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0085
+ಸಂಸ್ಥೆ
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ
+Distinction",True,1.0,exact_match
+kannada_certificate_085,kannada,certificate,easyocr,grade,Distinction,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಸ್ನೇಹಾ ವರ್ಮಾ
+ನೀಡಿದ ದಿನಾಂಕ
+26 | 03 |2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0085
+ಸಂಸ್ಥೆ
+ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ
+ಶ್ರೇಣಿ
+Distinction",True,1.0,exact_match
+kannada_certificate_086,kannada,certificate,easyocr,name,ದಿವ್ಯಾ ಶರ್ಮಾ,"ಪ್ರಮಾಣಪತ್ರ
+1
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಶರ್ಮಾ
+2
+ನೀಡಿದ ದಿನಾಂಕ:
+27 |03 | 2026
+3
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0086
+4
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+5.
+ಶ್ರೇಣಿ:
+ದಿವ್ಯಾ್",False,0.7,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,easyocr,date,27/03/2026,"ಪ್ರಮಾಣಪತ್ರ
+1
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಶರ್ಮಾ
+2
+ನೀಡಿದ ದಿನಾಂಕ:
+27 |03 | 2026
+3
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0086
+4
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+5.
+ಶ್ರೇಣಿ:
+ದಿವ್ಯಾ್",True,1.0,exact_match
+kannada_certificate_086,kannada,certificate,easyocr,document_id,CERT-0086,"ಪ್ರಮಾಣಪತ್ರ
+1
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಶರ್ಮಾ
+2
+ನೀಡಿದ ದಿನಾಂಕ:
+27 |03 | 2026
+3
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0086
+4
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+5.
+ಶ್ರೇಣಿ:
+ದಿವ್ಯಾ್",True,1.0,exact_match
+kannada_certificate_086,kannada,certificate,easyocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,"ಪ್ರಮಾಣಪತ್ರ
+1
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಶರ್ಮಾ
+2
+ನೀಡಿದ ದಿನಾಂಕ:
+27 |03 | 2026
+3
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0086
+4
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+5.
+ಶ್ರೇಣಿ:
+ದಿವ್ಯಾ್",True,1.0,exact_match
+kannada_certificate_086,kannada,certificate,easyocr,grade,A,"ಪ್ರಮಾಣಪತ್ರ
+1
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು:
+ಶರ್ಮಾ
+2
+ನೀಡಿದ ದಿನಾಂಕ:
+27 |03 | 2026
+3
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ :
+CERT-0086
+4
+ಸಂಸ್ಥೆ:
+ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು
+5.
+ಶ್ರೇಣಿ:
+ದಿವ್ಯಾ್",False,0.0,unavailable_or_uncertain
+kannada_invoice_061,kannada,invoice,easyocr,name,ಕಿರಣ್ ಮೆನನ್,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಕಿರಣ್ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+02 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0061
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9857
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_061,kannada,invoice,easyocr,date,02/03/2026,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಕಿರಣ್ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+02 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0061
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9857
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_061,kannada,invoice,easyocr,document_id,INV-0061,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಕಿರಣ್ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+02 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0061
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9857
+ಗ್ರಾಹಕರ",False,0.9230769230769231,possible_recoverable
+kannada_invoice_061,kannada,invoice,easyocr,address,ಬೆಂಗಳೂರು,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಕಿರಣ್ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+02 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0061
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9857
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_061,kannada,invoice,easyocr,amount,9857,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಕಿರಣ್ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+02 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0061
+ವಿಳಾಸ:
+ಬೆಂಗಳೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9857
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_062,kannada,invoice,easyocr,name,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+03 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0062
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9994
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_062,kannada,invoice,easyocr,date,03/03/2026,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+03 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0062
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9994
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_062,kannada,invoice,easyocr,document_id,INV-0062,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+03 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0062
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9994
+ಗ್ರಾಹಕರ",False,0.9230769230769231,possible_recoverable
+kannada_invoice_062,kannada,invoice,easyocr,address,ಮೈಸೂರು,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+03 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0062
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9994
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_062,kannada,invoice,easyocr,amount,9994,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು:
+ಸ್ನೇಹಾ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+03 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0062
+ವಿಳಾಸ:
+ಮೈಸೂರು
+ಒಟ್ಚು ಮೊತ್ತ:
+9994
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,easyocr,name,ಕಿರಣ್ ರೆಡ್ಡಿ,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+04|03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0063
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ
+10131",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,easyocr,date,04/03/2026,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+04|03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0063
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ
+10131",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,easyocr,document_id,INV-0063,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+04|03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0063
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ
+10131",False,0.9230769230769231,possible_recoverable
+kannada_invoice_063,kannada,invoice,easyocr,address,ಮಂಗಳೂರು,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+04|03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0063
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ
+10131",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,easyocr,amount,10131,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕಿರಣ್ ರೆಡ್ಡಿ
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+04|03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0063
+ವಿಳಾಸ
+ಮಂಗಳೂರು
+ಒಟ್ಟು ಮೊತ್ತ
+10131",True,1.0,exact_match
+kannada_invoice_064,kannada,invoice,easyocr,name,ಅನನ್ಯಾ ಮೆನನ್,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಅನನ್ಯಾ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+05 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0064
+ವಿಳಾಸ
+ಒಟ್ಟು ಮೊತ್ತ
+10268
+ಹುಬ್ಬ",True,1.0,exact_match
+kannada_invoice_064,kannada,invoice,easyocr,date,05/03/2026,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಅನನ್ಯಾ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+05 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0064
+ವಿಳಾಸ
+ಒಟ್ಟು ಮೊತ್ತ
+10268
+ಹುಬ್ಬ",True,1.0,exact_match
+kannada_invoice_064,kannada,invoice,easyocr,document_id,INV-0064,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಅನನ್ಯಾ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+05 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0064
+ವಿಳಾಸ
+ಒಟ್ಟು ಮೊತ್ತ
+10268
+ಹುಬ್ಬ",False,0.9230769230769231,possible_recoverable
+kannada_invoice_064,kannada,invoice,easyocr,address,ಹುಬ್ಬಳ್ಳಿ,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಅನನ್ಯಾ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+05 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0064
+ವಿಳಾಸ
+ಒಟ್ಟು ಮೊತ್ತ
+10268
+ಹುಬ್ಬ",False,0.6666666666666666,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,easyocr,amount,10268,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಅನನ್ಯಾ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+05 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0064
+ವಿಳಾಸ
+ಒಟ್ಟು ಮೊತ್ತ
+10268
+ಹುಬ್ಬ",True,1.0,exact_match
+kannada_invoice_065,kannada,invoice,easyocr,name,ಕಿರಣ್ ಸಿಂಗ್,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು
+ಕಿರಣ್ ಸಿಂಗ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06 |03 |2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0065
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ಒಟ್ಚು ಮೂತ್ತ
+10405
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_065,kannada,invoice,easyocr,date,06/03/2026,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು
+ಕಿರಣ್ ಸಿಂಗ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06 |03 |2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0065
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ಒಟ್ಚು ಮೂತ್ತ
+10405
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_065,kannada,invoice,easyocr,document_id,INV-0065,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು
+ಕಿರಣ್ ಸಿಂಗ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06 |03 |2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0065
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ಒಟ್ಚು ಮೂತ್ತ
+10405
+ಗ್ರಾಹಕರ",False,0.9230769230769231,possible_recoverable
+kannada_invoice_065,kannada,invoice,easyocr,address,ಬೆಳಗಾವಿ,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು
+ಕಿರಣ್ ಸಿಂಗ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06 |03 |2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0065
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ಒಟ್ಚು ಮೂತ್ತ
+10405
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_065,kannada,invoice,easyocr,amount,10405,"ಸರಕುಪಟ್ಟಿ
+ಹೆಸರು
+ಕಿರಣ್ ಸಿಂಗ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+06 |03 |2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0065
+ವಿಳಾಸ
+ಬೆಳಗಾವಿ
+ಒಟ್ಚು ಮೂತ್ತ
+10405
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_066,kannada,invoice,easyocr,name,ಪ್ರಿಯಾ ಮೆನನ್,"ಸರಕುಪಟ್ಟಿ
+1
+ಹೆಸರು:
+ಯಾ ಮೆನನ್
+2
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+07 |03 | 2026
+3
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0066
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ಒಟ್ಚು ಮೊತ್ತ:
+10542
+ಗ್ರಾಹಕರ",False,0.8,possible_recoverable
+kannada_invoice_066,kannada,invoice,easyocr,date,07/03/2026,"ಸರಕುಪಟ್ಟಿ
+1
+ಹೆಸರು:
+ಯಾ ಮೆನನ್
+2
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+07 |03 | 2026
+3
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0066
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ಒಟ್ಚು ಮೊತ್ತ:
+10542
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_066,kannada,invoice,easyocr,document_id,INV-0066,"ಸರಕುಪಟ್ಟಿ
+1
+ಹೆಸರು:
+ಯಾ ಮೆನನ್
+2
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+07 |03 | 2026
+3
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0066
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ಒಟ್ಚು ಮೊತ್ತ:
+10542
+ಗ್ರಾಹಕರ",False,0.9230769230769231,possible_recoverable
+kannada_invoice_066,kannada,invoice,easyocr,address,ಶಿವಮೊಗ್ಗ,"ಸರಕುಪಟ್ಟಿ
+1
+ಹೆಸರು:
+ಯಾ ಮೆನನ್
+2
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+07 |03 | 2026
+3
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0066
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ಒಟ್ಚು ಮೊತ್ತ:
+10542
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+kannada_invoice_066,kannada,invoice,easyocr,amount,10542,"ಸರಕುಪಟ್ಟಿ
+1
+ಹೆಸರು:
+ಯಾ ಮೆನನ್
+2
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ:
+07 |03 | 2026
+3
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ:
+[NV-0066
+4
+ವಿಳಾಸ:
+ಶಿವಮೊಗ್ಗ
+5
+ಒಟ್ಚು ಮೊತ್ತ:
+10542
+ಗ್ರಾಹಕರ",True,1.0,exact_match
+english_application_011,english,application,paddleocr,name,Sneha Nair,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_011,english,application,paddleocr,date,11/01/2026,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_011,english,application,paddleocr,document_id,APP-0011,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_011,english,application,paddleocr,address,Bengaluru,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_011,english,application,paddleocr,phone,9000001507,"APPLICATION FORM
+Applicant Name:
+Sneha Nair
+Application Date:
+11/01/2026
+Application ID:
+APP-0011
+Address:
+Bengaluru
+Phone Number:
+9000001507",True,1.0,exact_match
+english_application_012,english,application,paddleocr,name,Ananya Kumar,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_012,english,application,paddleocr,date,12/01/2026,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_012,english,application,paddleocr,document_id,APP-0012,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_012,english,application,paddleocr,address,Mysuru,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_012,english,application,paddleocr,phone,9000001644,"APPLICATION FORM
+Applicant Name:
+Ananya Kumar
+Application Date:
+12/01/2026
+Application ID:
+APP-0012
+Address:
+Mysuru
+Phone Number:
+9000001644",True,1.0,exact_match
+english_application_013,english,application,paddleocr,name,Meera Joshi,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_013,english,application,paddleocr,date,13/01/2026,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_013,english,application,paddleocr,document_id,APP-0013,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_013,english,application,paddleocr,address,Mangaluru,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_013,english,application,paddleocr,phone,9000001781,"APPLICATION FORM
+Applicant Name
+Meera Joshi
+Application Date
+13/01/2026
+Application ID
+APP-0013
+Address
+Mangaluru
+Phone Number
+9000001781",True,1.0,exact_match
+english_application_014,english,application,paddleocr,name,Meera Verma,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_014,english,application,paddleocr,date,14/01/2026,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_014,english,application,paddleocr,document_id,APP-0014,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_014,english,application,paddleocr,address,Hubballi,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_014,english,application,paddleocr,phone,9000001918,"APPLICATION FORM
+Applicant Name
+Meera Verma
+Application Date
+14/01/2026
+Application ID
+APP-0014
+Address
+Hubballi
+Phone Number
+9000001918",True,1.0,exact_match
+english_application_015,english,application,paddleocr,name,Sneha Rao,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,paddleocr,date,15/01/2026,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,paddleocr,document_id,APP-0015,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,paddleocr,address,Belagavi,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_015,english,application,paddleocr,phone,9000002055,"APPLICATION FORM
+Applicant Name
+Sneha Rao
+Application Date
+15/01/2026
+Application ID
+APP-0015
+Address
+Belagavi
+Phone Number
+9000002055",True,1.0,exact_match
+english_application_016,english,application,paddleocr,name,Kiran Joshi,"APPLICATION FORM
+1. Applicant Name:
+Kiran Joshi
+2. Application Date:
+16/01/2026
+3. Application ID:
+APP-0016
+4. Address:
+Shivamogga
+5. Phone Number:
+9000002192",True,1.0,exact_match
+english_application_016,english,application,paddleocr,date,16/01/2026,"APPLICATION FORM
+1. Applicant Name:
+Kiran Joshi
+2. Application Date:
+16/01/2026
+3. Application ID:
+APP-0016
+4. Address:
+Shivamogga
+5. Phone Number:
+9000002192",True,1.0,exact_match
+english_application_016,english,application,paddleocr,document_id,APP-0016,"APPLICATION FORM
+1. Applicant Name:
+Kiran Joshi
+2. Application Date:
+16/01/2026
+3. Application ID:
+APP-0016
+4. Address:
+Shivamogga
+5. Phone Number:
+9000002192",True,1.0,exact_match
+english_application_016,english,application,paddleocr,address,Shivamogga,"APPLICATION FORM
+1. Applicant Name:
+Kiran Joshi
+2. Application Date:
+16/01/2026
+3. Application ID:
+APP-0016
+4. Address:
+Shivamogga
+5. Phone Number:
+9000002192",True,1.0,exact_match
+english_application_016,english,application,paddleocr,phone,9000002192,"APPLICATION FORM
+1. Applicant Name:
+Kiran Joshi
+2. Application Date:
+16/01/2026
+3. Application ID:
+APP-0016
+4. Address:
+Shivamogga
+5. Phone Number:
+9000002192",True,1.0,exact_match
+english_certificate_021,english,certificate,paddleocr,name,Priya Kumar,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:
+A",True,1.0,exact_match
+english_certificate_021,english,certificate,paddleocr,date,21/01/2026,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:
+A",True,1.0,exact_match
+english_certificate_021,english,certificate,paddleocr,document_id,CERT-0021,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:
+A",True,1.0,exact_match
+english_certificate_021,english,certificate,paddleocr,institution,National Institute of Technology,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:
+A",True,1.0,exact_match
+english_certificate_021,english,certificate,paddleocr,grade,A,"CERTIFICATE
+Recipient Name:
+Priya Kumar
+Issue Date:
+21/01/2026
+Certificate Number:
+CERT-0021
+Institution:
+National Institute of Technology
+Grade:
+A",True,1.0,exact_match
+english_certificate_022,english,certificate,paddleocr,name,Arjun Sharma,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_022,english,certificate,paddleocr,date,22/01/2026,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_022,english,certificate,paddleocr,document_id,CERT-0022,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_022,english,certificate,paddleocr,institution,Government Science College,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_022,english,certificate,paddleocr,grade,A+,"CERTIFICATE
+Recipient Name:
+Arjun Sharma
+Issue Date:
+22/01/2026
+Certificate Number:
+CERT-0022
+Institution:
+Government Science College
+Grade:
+A+",True,1.0,exact_match
+english_certificate_023,english,certificate,paddleocr,name,Priya Rao,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_023,english,certificate,paddleocr,date,23/01/2026,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_023,english,certificate,paddleocr,document_id,CERT-0023,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_023,english,certificate,paddleocr,institution,Karnataka Technical University,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_023,english,certificate,paddleocr,grade,B+,"CERTIFICATE
+Recipient Name
+Priya Rao
+Issue Date
+23/01/2026
+Certificate Number
+CERT-0023
+Institution
+Karnataka Technical University
+Grade
+B+",True,1.0,exact_match
+english_certificate_024,english,certificate,paddleocr,name,Divya Verma,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+B",True,1.0,exact_match
+english_certificate_024,english,certificate,paddleocr,date,24/01/2026,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+B",True,1.0,exact_match
+english_certificate_024,english,certificate,paddleocr,document_id,CERT-0024,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+B",True,1.0,exact_match
+english_certificate_024,english,certificate,paddleocr,institution,City Education Board,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+B",True,1.0,exact_match
+english_certificate_024,english,certificate,paddleocr,grade,B,"CERTIFICATE
+Recipient Name
+Divya Verma
+Issue Date
+24/01/2026
+Certificate Number
+CERT-0024
+Institution
+City Education Board
+Grade
+B",True,1.0,exact_match
+english_certificate_025,english,certificate,paddleocr,name,Vikram Kumar,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,paddleocr,date,25/01/2026,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,paddleocr,document_id,CERT-0025,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,paddleocr,institution,National Institute of Technology,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_025,english,certificate,paddleocr,grade,Distinction,"CERTIFICATE
+Recipient Name
+Vikram Kumar
+Issue Date
+25/01/2026
+Certificate Number
+CERT-0025
+Institution
+National Institute of Technology
+Grade
+Distinction",True,1.0,exact_match
+english_certificate_026,english,certificate,paddleocr,name,Kiran Menon,"CERTIFICATE
+1. Recipient Name:
+Kiran Menon
+2. Issue Date:
+26/01/2026
+3. Certificate Number:
+CERT-0026
+4.Institution:
+Government Science College
+5. Grade:
+A",True,1.0,exact_match
+english_certificate_026,english,certificate,paddleocr,date,26/01/2026,"CERTIFICATE
+1. Recipient Name:
+Kiran Menon
+2. Issue Date:
+26/01/2026
+3. Certificate Number:
+CERT-0026
+4.Institution:
+Government Science College
+5. Grade:
+A",True,1.0,exact_match
+english_certificate_026,english,certificate,paddleocr,document_id,CERT-0026,"CERTIFICATE
+1. Recipient Name:
+Kiran Menon
+2. Issue Date:
+26/01/2026
+3. Certificate Number:
+CERT-0026
+4.Institution:
+Government Science College
+5. Grade:
+A",True,1.0,exact_match
+english_certificate_026,english,certificate,paddleocr,institution,Government Science College,"CERTIFICATE
+1. Recipient Name:
+Kiran Menon
+2. Issue Date:
+26/01/2026
+3. Certificate Number:
+CERT-0026
+4.Institution:
+Government Science College
+5. Grade:
+A",True,1.0,exact_match
+english_certificate_026,english,certificate,paddleocr,grade,A,"CERTIFICATE
+1. Recipient Name:
+Kiran Menon
+2. Issue Date:
+26/01/2026
+3. Certificate Number:
+CERT-0026
+4.Institution:
+Government Science College
+5. Grade:
+A",True,1.0,exact_match
+english_invoice_001,english,invoice,paddleocr,name,Kiran Rao,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,paddleocr,date,01/01/2026,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,paddleocr,document_id,INV-0001,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,paddleocr,address,Bengaluru,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_001,english,invoice,paddleocr,amount,1637,"INVOICE
+Customer Name:
+Kiran Rao
+Invoice Date:
+01/01/2026
+Invoice Number:
+INV-0001
+Address:
+Bengaluru
+Total Amount:
+1637",True,1.0,exact_match
+english_invoice_002,english,invoice,paddleocr,name,Kiran Sharma,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,paddleocr,date,02/01/2026,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,paddleocr,document_id,INV-0002,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,paddleocr,address,Mysuru,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_002,english,invoice,paddleocr,amount,1774,"INVOICE
+Customer Name:
+Kiran Sharma
+Invoice Date:
+02/01/2026
+Invoice Number:
+INV-0002
+Address:
+Mysuru
+Total Amount:
+1774",True,1.0,exact_match
+english_invoice_003,english,invoice,paddleocr,name,Divya Sharma,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_003,english,invoice,paddleocr,date,03/01/2026,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_003,english,invoice,paddleocr,document_id,INV-0003,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_003,english,invoice,paddleocr,address,Mangaluru,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_003,english,invoice,paddleocr,amount,1911,"INVOICE
+Customer Name
+Divya Sharma
+Invoice Date
+03/01/2026
+Invoice Number
+INV-0003
+Address
+Mangaluru
+Total Amount
+1911",True,1.0,exact_match
+english_invoice_004,english,invoice,paddleocr,name,Ravi Menon,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_004,english,invoice,paddleocr,date,04/01/2026,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_004,english,invoice,paddleocr,document_id,INV-0004,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_004,english,invoice,paddleocr,address,Hubballi,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_004,english,invoice,paddleocr,amount,2048,"INVOICE
+Customer Name
+Ravi Menon
+Invoice Date
+04/01/2026
+Invoice Number
+INV-0004
+Address
+Hubballi
+Total Amount
+2048",True,1.0,exact_match
+english_invoice_005,english,invoice,paddleocr,name,Rahul Joshi,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,paddleocr,date,05/01/2026,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,paddleocr,document_id,INV-0005,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,paddleocr,address,Belagavi,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_005,english,invoice,paddleocr,amount,2185,"INVOICE
+Customer Name
+Rahul Joshi
+Invoice Date
+05/01/2026
+Invoice Number
+INV-0005
+Address
+Belagavi
+Total Amount
+2185",True,1.0,exact_match
+english_invoice_006,english,invoice,paddleocr,name,Meera Kumar,"INVOICE
+1. Customer Name:
+Meera Kumar
+2. Invoice Date:
+06/01/2026
+3. Invoice Number:
+INV-0006
+4. Address:
+Shivamogga
+5. Total Amount:
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,paddleocr,date,06/01/2026,"INVOICE
+1. Customer Name:
+Meera Kumar
+2. Invoice Date:
+06/01/2026
+3. Invoice Number:
+INV-0006
+4. Address:
+Shivamogga
+5. Total Amount:
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,paddleocr,document_id,INV-0006,"INVOICE
+1. Customer Name:
+Meera Kumar
+2. Invoice Date:
+06/01/2026
+3. Invoice Number:
+INV-0006
+4. Address:
+Shivamogga
+5. Total Amount:
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,paddleocr,address,Shivamogga,"INVOICE
+1. Customer Name:
+Meera Kumar
+2. Invoice Date:
+06/01/2026
+3. Invoice Number:
+INV-0006
+4. Address:
+Shivamogga
+5. Total Amount:
+2322",True,1.0,exact_match
+english_invoice_006,english,invoice,paddleocr,amount,2322,"INVOICE
+1. Customer Name:
+Meera Kumar
+2. Invoice Date:
+06/01/2026
+3. Invoice Number:
+INV-0006
+4. Address:
+Shivamogga
+5. Total Amount:
+2322",True,1.0,exact_match
+hindi_application_041,hindi,application,paddleocr,name,विक्रम जोशी,"आवेदन पत्र
+आवेदक का नाम:
+विक्रम जोशी
+आवेदन दिनांक:
+10/02/2026
+आवेदन संख्या:
+APP-0041
+पता:
+बेंगलुर
+फोन नंबर:
+9000005617",True,1.0,exact_match
+hindi_application_041,hindi,application,paddleocr,date,10/02/2026,"आवेदन पत्र
+आवेदक का नाम:
+विक्रम जोशी
+आवेदन दिनांक:
+10/02/2026
+आवेदन संख्या:
+APP-0041
+पता:
+बेंगलुर
+फोन नंबर:
+9000005617",True,1.0,exact_match
+hindi_application_041,hindi,application,paddleocr,document_id,APP-0041,"आवेदन पत्र
+आवेदक का नाम:
+विक्रम जोशी
+आवेदन दिनांक:
+10/02/2026
+आवेदन संख्या:
+APP-0041
+पता:
+बेंगलुर
+फोन नंबर:
+9000005617",True,1.0,exact_match
+hindi_application_041,hindi,application,paddleocr,address,बेंगलुरु,"आवेदन पत्र
+आवेदक का नाम:
+विक्रम जोशी
+आवेदन दिनांक:
+10/02/2026
+आवेदन संख्या:
+APP-0041
+पता:
+बेंगलुर
+फोन नंबर:
+9000005617",False,0.9333333333333333,possible_recoverable
+hindi_application_041,hindi,application,paddleocr,phone,9000005617,"आवेदन पत्र
+आवेदक का नाम:
+विक्रम जोशी
+आवेदन दिनांक:
+10/02/2026
+आवेदन संख्या:
+APP-0041
+पता:
+बेंगलुर
+फोन नंबर:
+9000005617",True,1.0,exact_match
+hindi_application_042,hindi,application,paddleocr,name,राहुल रेड्डी,"आवेदन पत्र
+आवेदक का नाम:
+राहुल रेड़ी
+आवेदन दिनांक:
+11/02/2026
+आवेदन संख्या:
+APP-0042
+मैसूर
+पता:
+फोन नंबर:
+9000005754",False,0.8695652173913043,possible_recoverable
+hindi_application_042,hindi,application,paddleocr,date,11/02/2026,"आवेदन पत्र
+आवेदक का नाम:
+राहुल रेड़ी
+आवेदन दिनांक:
+11/02/2026
+आवेदन संख्या:
+APP-0042
+मैसूर
+पता:
+फोन नंबर:
+9000005754",True,1.0,exact_match
+hindi_application_042,hindi,application,paddleocr,document_id,APP-0042,"आवेदन पत्र
+आवेदक का नाम:
+राहुल रेड़ी
+आवेदन दिनांक:
+11/02/2026
+आवेदन संख्या:
+APP-0042
+मैसूर
+पता:
+फोन नंबर:
+9000005754",True,1.0,exact_match
+hindi_application_042,hindi,application,paddleocr,address,मैसूर,"आवेदन पत्र
+आवेदक का नाम:
+राहुल रेड़ी
+आवेदन दिनांक:
+11/02/2026
+आवेदन संख्या:
+APP-0042
+मैसूर
+पता:
+फोन नंबर:
+9000005754",True,1.0,exact_match
+hindi_application_042,hindi,application,paddleocr,phone,9000005754,"आवेदन पत्र
+आवेदक का नाम:
+राहुल रेड़ी
+आवेदन दिनांक:
+11/02/2026
+आवेदन संख्या:
+APP-0042
+मैसूर
+पता:
+फोन नंबर:
+9000005754",True,1.0,exact_match
+hindi_application_043,hindi,application,paddleocr,name,स्नेहा मेनन,"आवेदन पत्र
+आवेदक का नाम
+स्नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+पता
+मंगलुरु
+फोन नंबर
+9000005891",True,1.0,exact_match
+hindi_application_043,hindi,application,paddleocr,date,12/02/2026,"आवेदन पत्र
+आवेदक का नाम
+स्नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+पता
+मंगलुरु
+फोन नंबर
+9000005891",True,1.0,exact_match
+hindi_application_043,hindi,application,paddleocr,document_id,APP-0043,"आवेदन पत्र
+आवेदक का नाम
+स्नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+पता
+मंगलुरु
+फोन नंबर
+9000005891",True,1.0,exact_match
+hindi_application_043,hindi,application,paddleocr,address,मंगलुरु,"आवेदन पत्र
+आवेदक का नाम
+स्नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+पता
+मंगलुरु
+फोन नंबर
+9000005891",True,1.0,exact_match
+hindi_application_043,hindi,application,paddleocr,phone,9000005891,"आवेदन पत्र
+आवेदक का नाम
+स्नेहा मेनन
+आवेदन दिनांक
+12/02/2026
+आवेदन संख्या
+APP-0043
+पता
+मंगलुरु
+फोन नंबर
+9000005891",True,1.0,exact_match
+hindi_application_044,hindi,application,paddleocr,name,किरण पटेल,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+पता
+हुबली
+फोन नंबर
+9000006028",True,1.0,exact_match
+hindi_application_044,hindi,application,paddleocr,date,13/02/2026,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+पता
+हुबली
+फोन नंबर
+9000006028",True,1.0,exact_match
+hindi_application_044,hindi,application,paddleocr,document_id,APP-0044,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+पता
+हुबली
+फोन नंबर
+9000006028",True,1.0,exact_match
+hindi_application_044,hindi,application,paddleocr,address,हुबली,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+पता
+हुबली
+फोन नंबर
+9000006028",True,1.0,exact_match
+hindi_application_044,hindi,application,paddleocr,phone,9000006028,"आवेदन पत्र
+आवेदक का नाम
+किरण पटेल
+आवेदन दिनांक
+13/02/2026
+आवेदन संख्या
+APP-0044
+पता
+हुबली
+फोन नंबर
+9000006028",True,1.0,exact_match
+hindi_application_045,hindi,application,paddleocr,name,किरण राव,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+पता
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_045,hindi,application,paddleocr,date,14/02/2026,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+पता
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_045,hindi,application,paddleocr,document_id,APP-0045,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+पता
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_045,hindi,application,paddleocr,address,बेलगावी,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+पता
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_045,hindi,application,paddleocr,phone,9000006165,"आवेदन पत्र
+आवेदक का नाम
+किरण राव
+आवेदन दिनांक
+14/02/2026
+आवेदन संख्या
+APP-0045
+पता
+बेलगावी
+फोन नंबर
+9000006165",True,1.0,exact_match
+hindi_application_046,hindi,application,paddleocr,name,रवि पटेल,"आवेदन पत्र
+1.
+आवेदक का नाम:
+रवि पटेल
+2.
+आवेदन दिनांक:
+15/02/2026
+3.
+आवेदन संख्या:
+APP-0046
+4.
+पता:
+शिवमोगा
+5.
+फोन नंबर:
+9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,paddleocr,date,15/02/2026,"आवेदन पत्र
+1.
+आवेदक का नाम:
+रवि पटेल
+2.
+आवेदन दिनांक:
+15/02/2026
+3.
+आवेदन संख्या:
+APP-0046
+4.
+पता:
+शिवमोगा
+5.
+फोन नंबर:
+9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,paddleocr,document_id,APP-0046,"आवेदन पत्र
+1.
+आवेदक का नाम:
+रवि पटेल
+2.
+आवेदन दिनांक:
+15/02/2026
+3.
+आवेदन संख्या:
+APP-0046
+4.
+पता:
+शिवमोगा
+5.
+फोन नंबर:
+9000006302",True,1.0,exact_match
+hindi_application_046,hindi,application,paddleocr,address,शिवमोग्गा,"आवेदन पत्र
+1.
+आवेदक का नाम:
+रवि पटेल
+2.
+आवेदन दिनांक:
+15/02/2026
+3.
+आवेदन संख्या:
+APP-0046
+4.
+पता:
+शिवमोगा
+5.
+फोन नंबर:
+9000006302",False,0.875,possible_recoverable
+hindi_application_046,hindi,application,paddleocr,phone,9000006302,"आवेदन पत्र
+1.
+आवेदक का नाम:
+रवि पटेल
+2.
+आवेदन दिनांक:
+15/02/2026
+3.
+आवेदन संख्या:
+APP-0046
+4.
+पता:
+शिवमोगा
+5.
+फोन नंबर:
+9000006302",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,paddleocr,name,किरण रेड्डी,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+किरण रेड्डी
+जारी करने की तारीख:
+20/02/2026
+प्रमाण पत्र संख्या:
+CERT-0051
+संस्थानः
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी:
+A",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,paddleocr,date,20/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+किरण रेड्डी
+जारी करने की तारीख:
+20/02/2026
+प्रमाण पत्र संख्या:
+CERT-0051
+संस्थानः
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी:
+A",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,paddleocr,document_id,CERT-0051,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+किरण रेड्डी
+जारी करने की तारीख:
+20/02/2026
+प्रमाण पत्र संख्या:
+CERT-0051
+संस्थानः
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी:
+A",True,1.0,exact_match
+hindi_certificate_051,hindi,certificate,paddleocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+किरण रेड्डी
+जारी करने की तारीख:
+20/02/2026
+प्रमाण पत्र संख्या:
+CERT-0051
+संस्थानः
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी:
+A",False,0.9655172413793104,possible_recoverable
+hindi_certificate_051,hindi,certificate,paddleocr,grade,A,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+किरण रेड्डी
+जारी करने की तारीख:
+20/02/2026
+प्रमाण पत्र संख्या:
+CERT-0051
+संस्थानः
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी:
+A",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,paddleocr,name,दिव्या पटेल,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+दिव्या पटेल
+जारी करने की तारीख:
+21/02/2026
+प्रमाण पत्र संख्या:
+CERT-0052
+संस्थान:
+सरकारी विज्ञान महाविद्यालय
+श्रेणी:
+A+",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,paddleocr,date,21/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+दिव्या पटेल
+जारी करने की तारीख:
+21/02/2026
+प्रमाण पत्र संख्या:
+CERT-0052
+संस्थान:
+सरकारी विज्ञान महाविद्यालय
+श्रेणी:
+A+",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,paddleocr,document_id,CERT-0052,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+दिव्या पटेल
+जारी करने की तारीख:
+21/02/2026
+प्रमाण पत्र संख्या:
+CERT-0052
+संस्थान:
+सरकारी विज्ञान महाविद्यालय
+श्रेणी:
+A+",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,paddleocr,institution,सरकारी विज्ञान महाविद्यालय,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+दिव्या पटेल
+जारी करने की तारीख:
+21/02/2026
+प्रमाण पत्र संख्या:
+CERT-0052
+संस्थान:
+सरकारी विज्ञान महाविद्यालय
+श्रेणी:
+A+",True,1.0,exact_match
+hindi_certificate_052,hindi,certificate,paddleocr,grade,A+,"प्रमाण पत्र
+प्राप्तकर्ता का नाम:
+दिव्या पटेल
+जारी करने की तारीख:
+21/02/2026
+प्रमाण पत्र संख्या:
+CERT-0052
+संस्थान:
+सरकारी विज्ञान महाविद्यालय
+श्रेणी:
+A+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,paddleocr,name,रवि शर्मा,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+रवि शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT-0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+B+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,paddleocr,date,22/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+रवि शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT-0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+B+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,paddleocr,document_id,CERT-0053,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+रवि शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT-0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+B+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,paddleocr,institution,कर्नाटक तकनीकी विश्वविद्यालय,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+रवि शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT-0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+B+",True,1.0,exact_match
+hindi_certificate_053,hindi,certificate,paddleocr,grade,B+,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+रवि शर्मा
+जारी करने की तारीख
+22/02/2026
+प्रमाण पत्र संख्या
+CERT-0053
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+B+",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,paddleocr,name,मीरा नायर,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT-0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+B",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,paddleocr,date,23/02/2026,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT-0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+B",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,paddleocr,document_id,CERT-0054,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT-0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+B",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,paddleocr,institution,शहर शिक्षा बोर्ड,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT-0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+B",True,1.0,exact_match
+hindi_certificate_054,hindi,certificate,paddleocr,grade,B,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+मीरा नायर
+जारी करने की तारीख
+23/02/2026
+प्रमाण पत्र संख्या
+CERT-0054
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+B",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,paddleocr,name,विक्रम पटेल,"प्रमाण पत्र
+प्राप्तकर्त का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT-0055
+संस्थान
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,paddleocr,date,24/02/2026,"प्रमाण पत्र
+प्राप्तकर्त का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT-0055
+संस्थान
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,paddleocr,document_id,CERT-0055,"प्रमाण पत्र
+प्राप्तकर्त का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT-0055
+संस्थान
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",True,1.0,exact_match
+hindi_certificate_055,hindi,certificate,paddleocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,"प्रमाण पत्र
+प्राप्तकर्त का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT-0055
+संस्थान
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",False,0.9655172413793104,possible_recoverable
+hindi_certificate_055,hindi,certificate,paddleocr,grade,Distinction,"प्रमाण पत्र
+प्राप्तकर्त का नाम
+विक्रम पटेल
+जारी करने की तारीख
+24/02/2026
+प्रमाण पत्र संख्या
+CERT-0055
+संस्थान
+राष्रीय प्रौद्योगिकी संस्थान
+श्रेणी
+Distinction",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,paddleocr,name,दिव्या वर्मा,"प्रमाण पत्र
+1.
+प्राप्तकर्ता का नाम:
+दिव्या वर्मा
+2.
+जारी करने की तारीख:
+25/02/2026
+3.
+प्रमाण पत्र संख्या:
+CERT-0056
+4.
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5. श्रेणी:
+A",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,paddleocr,date,25/02/2026,"प्रमाण पत्र
+1.
+प्राप्तकर्ता का नाम:
+दिव्या वर्मा
+2.
+जारी करने की तारीख:
+25/02/2026
+3.
+प्रमाण पत्र संख्या:
+CERT-0056
+4.
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5. श्रेणी:
+A",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,paddleocr,document_id,CERT-0056,"प्रमाण पत्र
+1.
+प्राप्तकर्ता का नाम:
+दिव्या वर्मा
+2.
+जारी करने की तारीख:
+25/02/2026
+3.
+प्रमाण पत्र संख्या:
+CERT-0056
+4.
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5. श्रेणी:
+A",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,paddleocr,institution,सरकारी विज्ञान महाविद्यालय,"प्रमाण पत्र
+1.
+प्राप्तकर्ता का नाम:
+दिव्या वर्मा
+2.
+जारी करने की तारीख:
+25/02/2026
+3.
+प्रमाण पत्र संख्या:
+CERT-0056
+4.
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5. श्रेणी:
+A",True,1.0,exact_match
+hindi_certificate_056,hindi,certificate,paddleocr,grade,A,"प्रमाण पत्र
+1.
+प्राप्तकर्ता का नाम:
+दिव्या वर्मा
+2.
+जारी करने की तारीख:
+25/02/2026
+3.
+प्रमाण पत्र संख्या:
+CERT-0056
+4.
+संस्थानः
+सरकारी विज्ञान महाविद्यालय
+5. श्रेणी:
+A",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,paddleocr,name,मीरा रेड्डी,"चालान
+मीरा रेडी
+ग्राहक का नाम:
+चालान दिनांक:
+31/01/2026
+चालान संख्या:
+INV-0031
+बेंगलुरु
+पता:
+कुल राशि:
+5747",False,0.9,possible_recoverable
+hindi_invoice_031,hindi,invoice,paddleocr,date,31/01/2026,"चालान
+मीरा रेडी
+ग्राहक का नाम:
+चालान दिनांक:
+31/01/2026
+चालान संख्या:
+INV-0031
+बेंगलुरु
+पता:
+कुल राशि:
+5747",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,paddleocr,document_id,INV-0031,"चालान
+मीरा रेडी
+ग्राहक का नाम:
+चालान दिनांक:
+31/01/2026
+चालान संख्या:
+INV-0031
+बेंगलुरु
+पता:
+कुल राशि:
+5747",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,paddleocr,address,बेंगलुरु,"चालान
+मीरा रेडी
+ग्राहक का नाम:
+चालान दिनांक:
+31/01/2026
+चालान संख्या:
+INV-0031
+बेंगलुरु
+पता:
+कुल राशि:
+5747",True,1.0,exact_match
+hindi_invoice_031,hindi,invoice,paddleocr,amount,5747,"चालान
+मीरा रेडी
+ग्राहक का नाम:
+चालान दिनांक:
+31/01/2026
+चालान संख्या:
+INV-0031
+बेंगलुरु
+पता:
+कुल राशि:
+5747",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,paddleocr,name,अर्जुन वर्मा,"चालान
+अर्जन वर्मा
+ग्राहक का नाम:
+चालान दिनांक:
+01/02/2026
+चालान संख्या:
+INV-0032
+मैसूर
+पता:
+कुल राशि:
+5884",False,0.9565217391304348,possible_recoverable
+hindi_invoice_032,hindi,invoice,paddleocr,date,01/02/2026,"चालान
+अर्जन वर्मा
+ग्राहक का नाम:
+चालान दिनांक:
+01/02/2026
+चालान संख्या:
+INV-0032
+मैसूर
+पता:
+कुल राशि:
+5884",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,paddleocr,document_id,INV-0032,"चालान
+अर्जन वर्मा
+ग्राहक का नाम:
+चालान दिनांक:
+01/02/2026
+चालान संख्या:
+INV-0032
+मैसूर
+पता:
+कुल राशि:
+5884",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,paddleocr,address,मैसूर,"चालान
+अर्जन वर्मा
+ग्राहक का नाम:
+चालान दिनांक:
+01/02/2026
+चालान संख्या:
+INV-0032
+मैसूर
+पता:
+कुल राशि:
+5884",True,1.0,exact_match
+hindi_invoice_032,hindi,invoice,paddleocr,amount,5884,"चालान
+अर्जन वर्मा
+ग्राहक का नाम:
+चालान दिनांक:
+01/02/2026
+चालान संख्या:
+INV-0032
+मैसूर
+पता:
+कुल राशि:
+5884",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,paddleocr,name,रवि जोशी,"चालान
+रवि जोशी
+ग्राहक का नाम
+चालान दिनांक
+02/02/2026
+चालान संख्या
+INV-0033
+पता
+मंगलुरु
+कुल राशि
+6021",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,paddleocr,date,02/02/2026,"चालान
+रवि जोशी
+ग्राहक का नाम
+चालान दिनांक
+02/02/2026
+चालान संख्या
+INV-0033
+पता
+मंगलुरु
+कुल राशि
+6021",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,paddleocr,document_id,INV-0033,"चालान
+रवि जोशी
+ग्राहक का नाम
+चालान दिनांक
+02/02/2026
+चालान संख्या
+INV-0033
+पता
+मंगलुरु
+कुल राशि
+6021",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,paddleocr,address,मंगलुरु,"चालान
+रवि जोशी
+ग्राहक का नाम
+चालान दिनांक
+02/02/2026
+चालान संख्या
+INV-0033
+पता
+मंगलुरु
+कुल राशि
+6021",True,1.0,exact_match
+hindi_invoice_033,hindi,invoice,paddleocr,amount,6021,"चालान
+रवि जोशी
+ग्राहक का नाम
+चालान दिनांक
+02/02/2026
+चालान संख्या
+INV-0033
+पता
+मंगलुरु
+कुल राशि
+6021",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,paddleocr,name,अनन्या नायर,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+INV-0034
+पता
+हुबली
+कुल राशि
+6158",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,paddleocr,date,03/02/2026,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+INV-0034
+पता
+हुबली
+कुल राशि
+6158",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,paddleocr,document_id,INV-0034,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+INV-0034
+पता
+हुबली
+कुल राशि
+6158",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,paddleocr,address,हुबली,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+INV-0034
+पता
+हुबली
+कुल राशि
+6158",True,1.0,exact_match
+hindi_invoice_034,hindi,invoice,paddleocr,amount,6158,"चालान
+ग्राहक का नाम
+अनन्या नायर
+चालान दिनांक
+03/02/2026
+चालान संख्या
+INV-0034
+पता
+हुबली
+कुल राशि
+6158",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,paddleocr,name,राहुल शर्मा,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान संख्या
+INV-0035
+पता
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,paddleocr,date,04/02/2026,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान संख्या
+INV-0035
+पता
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,paddleocr,document_id,INV-0035,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान संख्या
+INV-0035
+पता
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,paddleocr,address,बेलगावी,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान संख्या
+INV-0035
+पता
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_035,hindi,invoice,paddleocr,amount,6295,"चालान
+ग्राहक का नाम
+राहुल शर्मा
+चालान दिनांक
+04/02/2026
+चालान संख्या
+INV-0035
+पता
+बेलगावी
+कुल राशि
+6295",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,paddleocr,name,अर्जुन पटेल,"चालान
+1.
+ग्राहक का नाम:
+अर्जुन पटेल
+2.
+चालान दिनांक:
+05/02/2026
+3.
+चालान संख्या:
+INV-0036
+4.
+पता:
+शिवमोगा
+5. कुल राशि:
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,paddleocr,date,05/02/2026,"चालान
+1.
+ग्राहक का नाम:
+अर्जुन पटेल
+2.
+चालान दिनांक:
+05/02/2026
+3.
+चालान संख्या:
+INV-0036
+4.
+पता:
+शिवमोगा
+5. कुल राशि:
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,paddleocr,document_id,INV-0036,"चालान
+1.
+ग्राहक का नाम:
+अर्जुन पटेल
+2.
+चालान दिनांक:
+05/02/2026
+3.
+चालान संख्या:
+INV-0036
+4.
+पता:
+शिवमोगा
+5. कुल राशि:
+6432",True,1.0,exact_match
+hindi_invoice_036,hindi,invoice,paddleocr,address,शिवमोग्गा,"चालान
+1.
+ग्राहक का नाम:
+अर्जुन पटेल
+2.
+चालान दिनांक:
+05/02/2026
+3.
+चालान संख्या:
+INV-0036
+4.
+पता:
+शिवमोगा
+5. कुल राशि:
+6432",False,0.875,possible_recoverable
+hindi_invoice_036,hindi,invoice,paddleocr,amount,6432,"चालान
+1.
+ग्राहक का नाम:
+अर्जुन पटेल
+2.
+चालान दिनांक:
+05/02/2026
+3.
+चालान संख्या:
+INV-0036
+4.
+पता:
+शिवमोगा
+5. कुल राशि:
+6432",True,1.0,exact_match
+kannada_application_071,kannada,application,paddleocr,name,ಅರ್ಜುನ್ ನಾಯರ್,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅಜು೯ನ್ನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1210312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OOT I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೨000009727",False,0.8333333333333334,possible_recoverable
+kannada_application_071,kannada,application,paddleocr,date,12/03/2026,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅಜು೯ನ್ನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1210312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OOT I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೨000009727",False,0.6666666666666666,unavailable_or_uncertain
+kannada_application_071,kannada,application,paddleocr,document_id,APP-0071,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅಜು೯ನ್ನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1210312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OOT I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೨000009727",False,0.5454545454545454,unavailable_or_uncertain
+kannada_application_071,kannada,application,paddleocr,address,ಬೆಂಗಳೂರು,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅಜು೯ನ್ನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1210312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OOT I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೨000009727",True,1.0,exact_match
+kannada_application_071,kannada,application,paddleocr,phone,9000009727,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅಜು೯ನ್ನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1210312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OOT I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೨000009727",False,0.9473684210526315,possible_recoverable
+kannada_application_072,kannada,application,paddleocr,name,ಪ್ರಿಯಾ ನಾಯರ್,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1310312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OO72
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೧O0OO09ಢ6",False,0.7,unavailable_or_uncertain
+kannada_application_072,kannada,application,paddleocr,date,13/03/2026,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1310312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OO72
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೧O0OO09ಢ6",False,0.8235294117647058,possible_recoverable
+kannada_application_072,kannada,application,paddleocr,document_id,APP-0072,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1310312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OO72
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೧O0OO09ಢ6",False,0.7142857142857143,unavailable_or_uncertain
+kannada_application_072,kannada,application,paddleocr,address,ಮೈಸೂರು,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1310312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OO72
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೧O0OO09ಢ6",False,0.8333333333333334,possible_recoverable
+kannada_application_072,kannada,application,paddleocr,phone,9000009864,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕಃ
+1310312025
+ಅಜಿ೯ಸಂಖೈ.
+APP-OO72
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ದೂರವಾಣಿಸಂಖೈ
+೧O0OO09ಢ6",False,0.47058823529411764,unavailable_or_uncertain
+kannada_application_073,kannada,application,paddleocr,name,ಅನನ್ಯಾ ಪಟೇಲ್,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾಪಟೇಲ್
+ಅಜಿ೯ದನಾಂಕ
+14 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO73
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೆ
+೨OOOOIOOO.",False,0.8571428571428571,possible_recoverable
+kannada_application_073,kannada,application,paddleocr,date,14/03/2026,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾಪಟೇಲ್
+ಅಜಿ೯ದನಾಂಕ
+14 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO73
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೆ
+೨OOOOIOOO.",False,0.8888888888888888,possible_recoverable
+kannada_application_073,kannada,application,paddleocr,document_id,APP-0073,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾಪಟೇಲ್
+ಅಜಿ೯ದನಾಂಕ
+14 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO73
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೆ
+೨OOOOIOOO.",False,0.7142857142857143,unavailable_or_uncertain
+kannada_application_073,kannada,application,paddleocr,address,ಮಂಗಳೂರು,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾಪಟೇಲ್
+ಅಜಿ೯ದನಾಂಕ
+14 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO73
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೆ
+೨OOOOIOOO.",True,1.0,exact_match
+kannada_application_073,kannada,application,paddleocr,phone,9000010001,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾಪಟೇಲ್
+ಅಜಿ೯ದನಾಂಕ
+14 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO73
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ದೂರವಾಣಿಸಂಖೆ
+೨OOOOIOOO.",False,0.35294117647058826,unavailable_or_uncertain
+kannada_application_074,kannada,application,paddleocr,name,ಪ್ರಿಯಾ ಸಿಂಗ್,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಂಗ್
+ಅಜಿ೯ದನಾಂಕ
+15 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO7 4
+ಎಳಾಸ
+ಹುಬಳಿ
+ದೂರವಾಣಿಸಂಖೆ
+೨0O001013ಃ",False,0.5217391304347826,unavailable_or_uncertain
+kannada_application_074,kannada,application,paddleocr,date,15/03/2026,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಂಗ್
+ಅಜಿ೯ದನಾಂಕ
+15 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO7 4
+ಎಳಾಸ
+ಹುಬಳಿ
+ದೂರವಾಣಿಸಂಖೆ
+೨0O001013ಃ",False,0.8888888888888888,possible_recoverable
+kannada_application_074,kannada,application,paddleocr,document_id,APP-0074,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಂಗ್
+ಅಜಿ೯ದನಾಂಕ
+15 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO7 4
+ಎಳಾಸ
+ಹುಬಳಿ
+ದೂರವಾಣಿಸಂಖೆ
+೨0O001013ಃ",False,0.7142857142857143,unavailable_or_uncertain
+kannada_application_074,kannada,application,paddleocr,address,ಹುಬ್ಬಳ್ಳಿ,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಂಗ್
+ಅಜಿ೯ದನಾಂಕ
+15 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO7 4
+ಎಳಾಸ
+ಹುಬಳಿ
+ದೂರವಾಣಿಸಂಖೆ
+೨0O001013ಃ",False,0.6666666666666666,unavailable_or_uncertain
+kannada_application_074,kannada,application,paddleocr,phone,9000010138,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏೃಯಾನಂಗ್
+ಅಜಿ೯ದನಾಂಕ
+15 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OO7 4
+ಎಳಾಸ
+ಹುಬಳಿ
+ದೂರವಾಣಿಸಂಖೆ
+೨0O001013ಃ",False,0.7777777777777778,possible_recoverable
+kannada_application_075,kannada,application,paddleocr,name,ಅನನ್ಯಾ ಸಿಂಗ್,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾ.ನಂಗ್
+ಅಜಿ೯ಏನಾಂಕ
+16 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OOT5
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ದೂರವಾಣಿಸಂಖೆ
+YOOOO10275",False,0.6666666666666666,unavailable_or_uncertain
+kannada_application_075,kannada,application,paddleocr,date,16/03/2026,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾ.ನಂಗ್
+ಅಜಿ೯ಏನಾಂಕ
+16 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OOT5
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ದೂರವಾಣಿಸಂಖೆ
+YOOOO10275",False,0.8888888888888888,possible_recoverable
+kannada_application_075,kannada,application,paddleocr,document_id,APP-0075,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾ.ನಂಗ್
+ಅಜಿ೯ಏನಾಂಕ
+16 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OOT5
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ದೂರವಾಣಿಸಂಖೆ
+YOOOO10275",False,0.5714285714285714,unavailable_or_uncertain
+kannada_application_075,kannada,application,paddleocr,address,ಬೆಳಗಾವಿ,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾ.ನಂಗ್
+ಅಜಿ೯ಏನಾಂಕ
+16 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OOT5
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ದೂರವಾಣಿಸಂಖೆ
+YOOOO10275",False,0.8333333333333334,possible_recoverable
+kannada_application_075,kannada,application,paddleocr,phone,9000010275,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಅನನಾ.ನಂಗ್
+ಅಜಿ೯ಏನಾಂಕ
+16 10312026
+ಅಜಿ೯ಸಂಖೈ
+APP-OOT5
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ದೂರವಾಣಿಸಂಖೆ
+YOOOO10275",False,0.5882352941176471,unavailable_or_uncertain
+kannada_application_076,kannada,application,paddleocr,name,ರಾಹುಲ್ ರೆಡ್ಡಿ,"ಅಜಿ೯ನಮೂನ
+I.
+ಅಜಿ೯ದಾರರಹೆಸರು
+ರಾಹುಲ್ರೆಡ
+2.
+ಅಜಿ೯ದನಾಂಕಃ
+17 10312026
+3.
+ಅಜಿ೯ಸಂಖೈಿ
+APP-OO76
+4.
+ಎಳಾಸಃ
+ಶವವೊಗ
+5.
+ದೂರವಾಣಿಸಂಖೈಕೆ
+೨OOOOIO4I?",False,0.8181818181818182,possible_recoverable
+kannada_application_076,kannada,application,paddleocr,date,17/03/2026,"ಅಜಿ೯ನಮೂನ
+I.
+ಅಜಿ೯ದಾರರಹೆಸರು
+ರಾಹುಲ್ರೆಡ
+2.
+ಅಜಿ೯ದನಾಂಕಃ
+17 10312026
+3.
+ಅಜಿ೯ಸಂಖೈಿ
+APP-OO76
+4.
+ಎಳಾಸಃ
+ಶವವೊಗ
+5.
+ದೂರವಾಣಿಸಂಖೈಕೆ
+೨OOOOIO4I?",False,0.8888888888888888,possible_recoverable
+kannada_application_076,kannada,application,paddleocr,document_id,APP-0076,"ಅಜಿ೯ನಮೂನ
+I.
+ಅಜಿ೯ದಾರರಹೆಸರು
+ರಾಹುಲ್ರೆಡ
+2.
+ಅಜಿ೯ದನಾಂಕಃ
+17 10312026
+3.
+ಅಜಿ೯ಸಂಖೈಿ
+APP-OO76
+4.
+ಎಳಾಸಃ
+ಶವವೊಗ
+5.
+ದೂರವಾಣಿಸಂಖೈಕೆ
+೨OOOOIO4I?",False,0.7142857142857143,unavailable_or_uncertain
+kannada_application_076,kannada,application,paddleocr,address,ಶಿವಮೊಗ್ಗ,"ಅಜಿ೯ನಮೂನ
+I.
+ಅಜಿ೯ದಾರರಹೆಸರು
+ರಾಹುಲ್ರೆಡ
+2.
+ಅಜಿ೯ದನಾಂಕಃ
+17 10312026
+3.
+ಅಜಿ೯ಸಂಖೈಿ
+APP-OO76
+4.
+ಎಳಾಸಃ
+ಶವವೊಗ
+5.
+ದೂರವಾಣಿಸಂಖೈಕೆ
+೨OOOOIO4I?",False,0.6153846153846154,unavailable_or_uncertain
+kannada_application_076,kannada,application,paddleocr,phone,9000010412,"ಅಜಿ೯ನಮೂನ
+I.
+ಅಜಿ೯ದಾರರಹೆಸರು
+ರಾಹುಲ್ರೆಡ
+2.
+ಅಜಿ೯ದನಾಂಕಃ
+17 10312026
+3.
+ಅಜಿ೯ಸಂಖೈಿ
+APP-OO76
+4.
+ಎಳಾಸಃ
+ಶವವೊಗ
+5.
+ದೂರವಾಣಿಸಂಖೈಕೆ
+೨OOOOIO4I?",False,0.47058823529411764,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,paddleocr,name,ಮೀರಾ ಶರ್ಮಾ,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಏುರಾಶಮಾನ
+ನಡದದನಾಂಕ
+22 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO8 I
+ಸಂಸೆಃ
+ರಾವೀಯತಂತೃಜಾನಸಂಸ
+ಇ
+ಶೀಣಿಃ
+A",False,0.5882352941176471,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,paddleocr,date,22/03/2026,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಏುರಾಶಮಾನ
+ನಡದದನಾಂಕ
+22 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO8 I
+ಸಂಸೆಃ
+ರಾವೀಯತಂತೃಜಾನಸಂಸ
+ಇ
+ಶೀಣಿಃ
+A",False,0.8888888888888888,possible_recoverable
+kannada_certificate_081,kannada,certificate,paddleocr,document_id,CERT-0081,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಏುರಾಶಮಾನ
+ನಡದದನಾಂಕ
+22 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO8 I
+ಸಂಸೆಃ
+ರಾವೀಯತಂತೃಜಾನಸಂಸ
+ಇ
+ಶೀಣಿಃ
+A",False,0.6666666666666666,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,paddleocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಏುರಾಶಮಾನ
+ನಡದದನಾಂಕ
+22 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO8 I
+ಸಂಸೆಃ
+ರಾವೀಯತಂತೃಜಾನಸಂಸ
+ಇ
+ಶೀಣಿಃ
+A",False,0.5777777777777777,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,paddleocr,grade,A,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಏುರಾಶಮಾನ
+ನಡದದನಾಂಕ
+22 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO8 I
+ಸಂಸೆಃ
+ರಾವೀಯತಂತೃಜಾನಸಂಸ
+ಇ
+ಶೀಣಿಃ
+A",True,1.0,exact_match
+kannada_certificate_082,kannada,certificate,paddleocr,name,ಅನನ್ಯಾ ನಾಯರ್,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಅನನಾ.ನಾಯರ್
+ನಡದದನಾಂಕ
+2310312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO82
+ಸಂಸೆಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+ಇ
+ಶೀಣಿಃ
+At",False,0.8181818181818182,possible_recoverable
+kannada_certificate_082,kannada,certificate,paddleocr,date,23/03/2026,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಅನನಾ.ನಾಯರ್
+ನಡದದನಾಂಕ
+2310312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO82
+ಸಂಸೆಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+ಇ
+ಶೀಣಿಃ
+At",False,0.8888888888888888,possible_recoverable
+kannada_certificate_082,kannada,certificate,paddleocr,document_id,CERT-0082,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಅನನಾ.ನಾಯರ್
+ನಡದದನಾಂಕ
+2310312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO82
+ಸಂಸೆಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+ಇ
+ಶೀಣಿಃ
+At",False,0.75,possible_recoverable
+kannada_certificate_082,kannada,certificate,paddleocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಅನನಾ.ನಾಯರ್
+ನಡದದನಾಂಕ
+2310312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO82
+ಸಂಸೆಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+ಇ
+ಶೀಣಿಃ
+At",False,0.6486486486486487,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,paddleocr,grade,A+,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರುಃ
+ಅನನಾ.ನಾಯರ್
+ನಡದದನಾಂಕ
+2310312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO82
+ಸಂಸೆಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+ಇ
+ಶೀಣಿಃ
+At",False,0.6666666666666666,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,paddleocr,name,ರವಿ ಜೋಶಿ,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ರಏಜೋ೩
+ನಡದ೩ನಾಂಕ
+24 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO83
+ಸಂಸೆ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾ.ಲಯ
+೧
+ಶೀಣಿ
+Bt",False,0.5333333333333333,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,paddleocr,date,24/03/2026,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ರಏಜೋ೩
+ನಡದ೩ನಾಂಕ
+24 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO83
+ಸಂಸೆ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾ.ಲಯ
+೧
+ಶೀಣಿ
+Bt",False,0.8888888888888888,possible_recoverable
+kannada_certificate_083,kannada,certificate,paddleocr,document_id,CERT-0083,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ರಏಜೋ೩
+ನಡದ೩ನಾಂಕ
+24 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO83
+ಸಂಸೆ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾ.ಲಯ
+೧
+ಶೀಣಿ
+Bt",False,0.75,possible_recoverable
+kannada_certificate_083,kannada,certificate,paddleocr,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ರಏಜೋ೩
+ನಡದ೩ನಾಂಕ
+24 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO83
+ಸಂಸೆ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾ.ಲಯ
+೧
+ಶೀಣಿ
+Bt",False,0.5882352941176471,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,paddleocr,grade,B+,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ರಏಜೋ೩
+ನಡದ೩ನಾಂಕ
+24 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO83
+ಸಂಸೆ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾ.ಲಯ
+೧
+ಶೀಣಿ
+Bt",False,0.6666666666666666,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,paddleocr,name,ವಿಕ್ರಮ್ ರಾವ್,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ರಾವ್
+ನಡದದನಾಂಕ
+25 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO84
+ಸಂಸೆ
+ನಗರ೫ಕಣಮಂಡಳ
+೧
+ಶೀಣಿ
+B",False,0.7,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,paddleocr,date,25/03/2026,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ರಾವ್
+ನಡದದನಾಂಕ
+25 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO84
+ಸಂಸೆ
+ನಗರ೫ಕಣಮಂಡಳ
+೧
+ಶೀಣಿ
+B",False,0.8888888888888888,possible_recoverable
+kannada_certificate_084,kannada,certificate,paddleocr,document_id,CERT-0084,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ರಾವ್
+ನಡದದನಾಂಕ
+25 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO84
+ಸಂಸೆ
+ನಗರ೫ಕಣಮಂಡಳ
+೧
+ಶೀಣಿ
+B",False,0.75,possible_recoverable
+kannada_certificate_084,kannada,certificate,paddleocr,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ರಾವ್
+ನಡದದನಾಂಕ
+25 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO84
+ಸಂಸೆ
+ನಗರ೫ಕಣಮಂಡಳ
+೧
+ಶೀಣಿ
+B",False,0.6666666666666666,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,paddleocr,grade,B,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ರಾವ್
+ನಡದದನಾಂಕ
+25 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO84
+ಸಂಸೆ
+ನಗರ೫ಕಣಮಂಡಳ
+೧
+ಶೀಣಿ
+B",True,1.0,exact_match
+kannada_certificate_085,kannada,certificate,paddleocr,name,ಸ್ನೇಹಾ ವರ್ಮಾ,"ಪೃಮಾಣಪತ
+ೋಕಂಸುವವರಹೆಸರು
+ಸೀಹಾವಮಾನ
+ನಡದಏನಾಂಕ
+26 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO೯
+ಸಂಸೈ
+ಶೀಣಿ
+Distinction",False,0.6,unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,paddleocr,date,26/03/2026,"ಪೃಮಾಣಪತ
+ೋಕಂಸುವವರಹೆಸರು
+ಸೀಹಾವಮಾನ
+ನಡದಏನಾಂಕ
+26 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO೯
+ಸಂಸೈ
+ಶೀಣಿ
+Distinction",False,0.8888888888888888,possible_recoverable
+kannada_certificate_085,kannada,certificate,paddleocr,document_id,CERT-0085,"ಪೃಮಾಣಪತ
+ೋಕಂಸುವವರಹೆಸರು
+ಸೀಹಾವಮಾನ
+ನಡದಏನಾಂಕ
+26 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO೯
+ಸಂಸೈ
+ಶೀಣಿ
+Distinction",False,0.6153846153846154,unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,paddleocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,"ಪೃಮಾಣಪತ
+ೋಕಂಸುವವರಹೆಸರು
+ಸೀಹಾವಮಾನ
+ನಡದಏನಾಂಕ
+26 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO೯
+ಸಂಸೈ
+ಶೀಣಿ
+Distinction",False,0.2608695652173913,unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,paddleocr,grade,Distinction,"ಪೃಮಾಣಪತ
+ೋಕಂಸುವವರಹೆಸರು
+ಸೀಹಾವಮಾನ
+ನಡದಏನಾಂಕ
+26 10312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO೯
+ಸಂಸೈ
+ಶೀಣಿ
+Distinction",True,1.0,exact_match
+kannada_certificate_086,kannada,certificate,paddleocr,name,ದಿವ್ಯಾ ಶರ್ಮಾ,"ಪೃಮಾಣಪತ
+I.
+ನೀಕಂಸುವವರಹೆಸರುು
+ದವಾಶಮಾನ
+2.
+ನೀಡದಏನಾಂಕಃ
+27 10312026
+3.
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO86
+4.
+ಸಂಸಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+
+5.
+ಶೀಣಿಃ
+A",False,0.6,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,paddleocr,date,27/03/2026,"ಪೃಮಾಣಪತ
+I.
+ನೀಕಂಸುವವರಹೆಸರುು
+ದವಾಶಮಾನ
+2.
+ನೀಡದಏನಾಂಕಃ
+27 10312026
+3.
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO86
+4.
+ಸಂಸಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+
+5.
+ಶೀಣಿಃ
+A",False,0.8888888888888888,possible_recoverable
+kannada_certificate_086,kannada,certificate,paddleocr,document_id,CERT-0086,"ಪೃಮಾಣಪತ
+I.
+ನೀಕಂಸುವವರಹೆಸರುು
+ದವಾಶಮಾನ
+2.
+ನೀಡದಏನಾಂಕಃ
+27 10312026
+3.
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO86
+4.
+ಸಂಸಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+
+5.
+ಶೀಣಿಃ
+A",False,0.75,possible_recoverable
+kannada_certificate_086,kannada,certificate,paddleocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,"ಪೃಮಾಣಪತ
+I.
+ನೀಕಂಸುವವರಹೆಸರುು
+ದವಾಶಮಾನ
+2.
+ನೀಡದಏನಾಂಕಃ
+27 10312026
+3.
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO86
+4.
+ಸಂಸಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+
+5.
+ಶೀಣಿಃ
+A",False,0.6486486486486487,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,paddleocr,grade,A,"ಪೃಮಾಣಪತ
+I.
+ನೀಕಂಸುವವರಹೆಸರುು
+ದವಾಶಮಾನ
+2.
+ನೀಡದಏನಾಂಕಃ
+27 10312026
+3.
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OO86
+4.
+ಸಂಸಃ
+ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು
+
+5.
+ಶೀಣಿಃ
+A",True,1.0,exact_match
+kannada_invoice_061,kannada,invoice,paddleocr,name,ಕಿರಣ್ ಮೆನನ್,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+ಕಿರಣ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕಃ
+02 10312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6 I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ಒಟುವೊತಃ
+೨೯57
+.",False,0.9,possible_recoverable
+kannada_invoice_061,kannada,invoice,paddleocr,date,02/03/2026,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+ಕಿರಣ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕಃ
+02 10312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6 I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ಒಟುವೊತಃ
+೨೯57
+.",False,0.8888888888888888,possible_recoverable
+kannada_invoice_061,kannada,invoice,paddleocr,document_id,INV-0061,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+ಕಿರಣ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕಃ
+02 10312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6 I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ಒಟುವೊತಃ
+೨೯57
+.",False,0.6153846153846154,unavailable_or_uncertain
+kannada_invoice_061,kannada,invoice,paddleocr,address,ಬೆಂಗಳೂರು,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+ಕಿರಣ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕಃ
+02 10312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6 I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ಒಟುವೊತಃ
+೨೯57
+.",True,1.0,exact_match
+kannada_invoice_061,kannada,invoice,paddleocr,amount,9857,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+ಕಿರಣ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕಃ
+02 10312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6 I
+ಎಳಾಸಃ
+ಬೆಂಗಳೂರು
+ಒಟುವೊತಃ
+೨೯57
+.",False,0.6666666666666666,unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,paddleocr,name,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+
+ಸೀಹಾರೆಡ
+ಸರಕುಪಟಿದನಾಂಕಃ
+O310312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO62
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ಒಟುವೊತಃ
+೨೨೧
+.",False,0.5454545454545454,unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,paddleocr,date,03/03/2026,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+
+ಸೀಹಾರೆಡ
+ಸರಕುಪಟಿದನಾಂಕಃ
+O310312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO62
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ಒಟುವೊತಃ
+೨೨೧
+.",False,0.8,possible_recoverable
+kannada_invoice_062,kannada,invoice,paddleocr,document_id,INV-0062,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+
+ಸೀಹಾರೆಡ
+ಸರಕುಪಟಿದನಾಂಕಃ
+O310312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO62
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ಒಟುವೊತಃ
+೨೨೧
+.",False,0.7142857142857143,unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,paddleocr,address,ಮೈಸೂರು,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+
+ಸೀಹಾರೆಡ
+ಸರಕುಪಟಿದನಾಂಕಃ
+O310312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO62
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ಒಟುವೊತಃ
+೨೨೧
+.",False,0.8333333333333334,possible_recoverable
+kannada_invoice_062,kannada,invoice,paddleocr,amount,9994,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರುಃ
+
+ಸೀಹಾರೆಡ
+ಸರಕುಪಟಿದನಾಂಕಃ
+O310312026
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO62
+ಎಳಾಸಃ
+ಮೃಸೂರು
+ಒಟುವೊತಃ
+೨೨೧
+.",False,0.0,unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,paddleocr,name,ಕಿರಣ್ ರೆಡ್ಡಿ,"ಸರಕುಪಟ
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ರಡ
+ಸರಕುಪಟಿದನಾಂಕ
+O4 10312026
+ಸರಕುಪಟಿಸಂಖ
+INV-OO6
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ಒಟುವೊತ
+10131",False,0.7,unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,paddleocr,date,04/03/2026,"ಸರಕುಪಟ
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ರಡ
+ಸರಕುಪಟಿದನಾಂಕ
+O4 10312026
+ಸರಕುಪಟಿಸಂಖ
+INV-OO6
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ಒಟುವೊತ
+10131",False,0.8235294117647058,possible_recoverable
+kannada_invoice_063,kannada,invoice,paddleocr,document_id,INV-0063,"ಸರಕುಪಟ
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ರಡ
+ಸರಕುಪಟಿದನಾಂಕ
+O4 10312026
+ಸರಕುಪಟಿಸಂಖ
+INV-OO6
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ಒಟುವೊತ
+10131",False,0.6153846153846154,unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,paddleocr,address,ಮಂಗಳೂರು,"ಸರಕುಪಟ
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ರಡ
+ಸರಕುಪಟಿದನಾಂಕ
+O4 10312026
+ಸರಕುಪಟಿಸಂಖ
+INV-OO6
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ಒಟುವೊತ
+10131",True,1.0,exact_match
+kannada_invoice_063,kannada,invoice,paddleocr,amount,10131,"ಸರಕುಪಟ
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ರಡ
+ಸರಕುಪಟಿದನಾಂಕ
+O4 10312026
+ಸರಕುಪಟಿಸಂಖ
+INV-OO6
+ಎಳಾಸ
+ಮಂಗಳೂರು
+ಒಟುವೊತ
+10131",True,1.0,exact_match
+kannada_invoice_064,kannada,invoice,paddleocr,name,ಅನನ್ಯಾ ಮೆನನ್,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ.ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+O510312026
+ಸರಕುಪಟಿಸಂಖಿ
+INV-OO6A
+ಎಳಾಸ
+ಹುಬಳಿ
+ಒಟುವೊತ
+1026೯",False,0.7619047619047619,possible_recoverable
+kannada_invoice_064,kannada,invoice,paddleocr,date,05/03/2026,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ.ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+O510312026
+ಸರಕುಪಟಿಸಂಖಿ
+INV-OO6A
+ಎಳಾಸ
+ಹುಬಳಿ
+ಒಟುವೊತ
+1026೯",False,0.8235294117647058,possible_recoverable
+kannada_invoice_064,kannada,invoice,paddleocr,document_id,INV-0064,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ.ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+O510312026
+ಸರಕುಪಟಿಸಂಖಿ
+INV-OO6A
+ಎಳಾಸ
+ಹುಬಳಿ
+ಒಟುವೊತ
+1026೯",False,0.6153846153846154,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,paddleocr,address,ಹುಬ್ಬಳ್ಳಿ,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ.ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+O510312026
+ಸರಕುಪಟಿಸಂಖಿ
+INV-OO6A
+ಎಳಾಸ
+ಹುಬಳಿ
+ಒಟುವೊತ
+1026೯",False,0.6666666666666666,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,paddleocr,amount,10268,"ಸರಕುಪಟ
+
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ.ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+O510312026
+ಸರಕುಪಟಿಸಂಖಿ
+INV-OO6A
+ಎಳಾಸ
+ಹುಬಳಿ
+ಒಟುವೊತ
+1026೯",False,0.8888888888888888,possible_recoverable
+kannada_invoice_065,kannada,invoice,paddleocr,name,ಕಿರಣ್ ಸಿಂಗ್,"ಸರಕುಪಟ
+೯
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ನಂಗ್
+ಸರಕುಪಟಿಏನಾಂಕ
+06 10312026
+INV-OO6
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ಒಟು
+ವೊತ
+H
+10405",False,0.8,possible_recoverable
+kannada_invoice_065,kannada,invoice,paddleocr,date,06/03/2026,"ಸರಕುಪಟ
+೯
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ನಂಗ್
+ಸರಕುಪಟಿಏನಾಂಕ
+06 10312026
+INV-OO6
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ಒಟು
+ವೊತ
+H
+10405",False,0.8888888888888888,possible_recoverable
+kannada_invoice_065,kannada,invoice,paddleocr,document_id,INV-0065,"ಸರಕುಪಟ
+೯
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ನಂಗ್
+ಸರಕುಪಟಿಏನಾಂಕ
+06 10312026
+INV-OO6
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ಒಟು
+ವೊತ
+H
+10405",False,0.6153846153846154,unavailable_or_uncertain
+kannada_invoice_065,kannada,invoice,paddleocr,address,ಬೆಳಗಾವಿ,"ಸರಕುಪಟ
+೯
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ನಂಗ್
+ಸರಕುಪಟಿಏನಾಂಕ
+06 10312026
+INV-OO6
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ಒಟು
+ವೊತ
+H
+10405",False,0.8333333333333334,possible_recoverable
+kannada_invoice_065,kannada,invoice,paddleocr,amount,10405,"ಸರಕುಪಟ
+೯
+ಗಾಹಕರಹೆಸರು
+ಕಿರಣ್ನಂಗ್
+ಸರಕುಪಟಿಏನಾಂಕ
+06 10312026
+INV-OO6
+ಎಳಾಸ
+ಬೆಳಗಾಏ
+ಒಟು
+ವೊತ
+H
+10405",True,1.0,exact_match
+kannada_invoice_066,kannada,invoice,paddleocr,name,ಪ್ರಿಯಾ ಮೆನನ್,"ಸರಕುಪಟ
+
+I.
+ಗಾಹಕರಹೆಸರುಃ
+ಏೃಯಾಮನನ್
+2.
+ಸರಕುಪಟಿಏನಾಂಕಃ
+O7 10312026
+3.
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6.
+4.
+ಏಳಾಸಃ
+ಶವವೊಗ
+5.
+ಒಟುವೊತೈ
+10542",False,0.6,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,paddleocr,date,07/03/2026,"ಸರಕುಪಟ
+
+I.
+ಗಾಹಕರಹೆಸರುಃ
+ಏೃಯಾಮನನ್
+2.
+ಸರಕುಪಟಿಏನಾಂಕಃ
+O7 10312026
+3.
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6.
+4.
+ಏಳಾಸಃ
+ಶವವೊಗ
+5.
+ಒಟುವೊತೈ
+10542",False,0.8235294117647058,possible_recoverable
+kannada_invoice_066,kannada,invoice,paddleocr,document_id,INV-0066,"ಸರಕುಪಟ
+
+I.
+ಗಾಹಕರಹೆಸರುಃ
+ಏೃಯಾಮನನ್
+2.
+ಸರಕುಪಟಿಏನಾಂಕಃ
+O7 10312026
+3.
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6.
+4.
+ಏಳಾಸಃ
+ಶವವೊಗ
+5.
+ಒಟುವೊತೈ
+10542",False,0.6153846153846154,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,paddleocr,address,ಶಿವಮೊಗ್ಗ,"ಸರಕುಪಟ
+
+I.
+ಗಾಹಕರಹೆಸರುಃ
+ಏೃಯಾಮನನ್
+2.
+ಸರಕುಪಟಿಏನಾಂಕಃ
+O7 10312026
+3.
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6.
+4.
+ಏಳಾಸಃ
+ಶವವೊಗ
+5.
+ಒಟುವೊತೈ
+10542",False,0.6153846153846154,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,paddleocr,amount,10542,"ಸರಕುಪಟ
+
+I.
+ಗಾಹಕರಹೆಸರುಃ
+ಏೃಯಾಮನನ್
+2.
+ಸರಕುಪಟಿಏನಾಂಕಃ
+O7 10312026
+3.
+ಸರಕುಪಟಿಸಂಖೈ
+INV-OO6.
+4.
+ಏಳಾಸಃ
+ಶವವೊಗ
+5.
+ಒಟುವೊತೈ
+10542",True,1.0,exact_match

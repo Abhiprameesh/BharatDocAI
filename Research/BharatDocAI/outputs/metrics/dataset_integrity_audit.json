@@ -1,0 +1,31 @@
+{
+    "total_documents": 90,
+    "unique_document_ids": 90,
+    "languages": {
+        "english": 30,
+        "hindi": 30,
+        "kannada": 30
+    },
+    "categories": {
+        "invoice": 30,
+        "application": 30,
+        "certificate": 30
+    },
+    "splits": {
+        "train": 54,
+        "validation": 18,
+        "test": 18
+    },
+    "template_families": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+    ],
+    "template_leakage": false,
+    "name_date_document_id_overlap": false,
+    "missing_images": 0,
+    "annotation_consistency": true
+}

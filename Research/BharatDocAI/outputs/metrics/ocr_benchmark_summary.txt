@@ -1,0 +1,57 @@
+BHARATDOC AI - OCR BENCHMARK REPORT
+============================================================
+
+OVERALL PERFORMANCE
+   engine      CER      WER  character_accuracy
+  EasyOCR 0.155662 0.450318            0.844338
+PaddleOCR 0.237511 0.563372            0.762489
+Tesseract 0.292243 0.554308            0.707757
+
+LANGUAGE-WISE PERFORMANCE
+language    engine      CER      WER  character_accuracy
+ english   EasyOCR 0.107336 0.309856            0.892664
+ english PaddleOCR 0.118989 0.338506            0.881011
+ english Tesseract 0.248127 0.500463            0.751873
+   hindi   EasyOCR 0.169910 0.431694            0.830090
+   hindi PaddleOCR 0.159902 0.380807            0.840098
+   hindi Tesseract 0.326252 0.532252            0.673748
+ kannada   EasyOCR 0.189741 0.609406            0.810259
+ kannada PaddleOCR 0.433641 0.970803            0.566359
+ kannada Tesseract 0.302351 0.630208            0.697649
+
+CORRUPTION-WISE PERFORMANCE
+      corruption    engine      CER      WER  character_accuracy
+           clean   EasyOCR 0.122646 0.448357            0.877354
+           clean PaddleOCR 0.185050 0.533830            0.814950
+           clean Tesseract 0.250675 0.511889            0.749325
+   gaussian_blur   EasyOCR 0.111447 0.397283            0.888553
+   gaussian_blur PaddleOCR 0.189544 0.546791            0.810456
+   gaussian_blur Tesseract 0.310724 0.551327            0.689276
+  gaussian_noise   EasyOCR 0.111482 0.420556            0.888518
+  gaussian_noise PaddleOCR 0.189627 0.516068            0.810373
+  gaussian_noise Tesseract 0.349248 0.571886            0.650752
+jpeg_compression   EasyOCR 0.120609 0.425574            0.879391
+jpeg_compression PaddleOCR 0.190897 0.532212            0.809103
+jpeg_compression Tesseract 0.257801 0.513409            0.742199
+    low_contrast   EasyOCR 0.125867 0.440639            0.874133
+    low_contrast PaddleOCR 0.190731 0.526049            0.809269
+    low_contrast Tesseract 0.251392 0.517435            0.748608
+        rotation   EasyOCR 0.319913 0.568194            0.680087
+        rotation PaddleOCR 0.444241 0.705587            0.555759
+        rotation Tesseract 0.305908 0.631622            0.694092
+
+SEVERITY-WISE PERFORMANCE
+severity    engine      CER      WER  character_accuracy
+    mild   EasyOCR 0.117667 0.423921            0.882333
+    mild PaddleOCR 0.214046 0.552543            0.785954
+    mild Tesseract 0.265410 0.521351            0.734590
+moderate   EasyOCR 0.168284 0.454439            0.831716
+moderate PaddleOCR 0.254055 0.572639            0.745945
+moderate Tesseract 0.286113 0.550889            0.713887
+    none   EasyOCR 0.122646 0.448357            0.877354
+    none PaddleOCR 0.185050 0.533830            0.814950
+    none Tesseract 0.250675 0.511889            0.749325
+  severe   EasyOCR 0.187639 0.472988            0.812361
+  severe PaddleOCR 0.254924 0.570843            0.745076
+  severe Tesseract 0.333521 0.599166            0.666479
+

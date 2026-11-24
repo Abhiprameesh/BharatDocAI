@@ -1,0 +1,271 @@
+document_id,language,ocr_engine,field,ocr_supported,prediction_empty,correct,false_abstention,unsupported_nonempty,expected,predicted
+english_invoice_007,english,tesseract,name,True,False,True,False,False,Ravi Sharma,Ravi Sharma
+english_invoice_007,english,tesseract,date,True,False,True,False,False,07/01/2026,07/01/2026
+english_invoice_007,english,tesseract,document_id,True,False,True,False,False,INV-0007,INV-0007
+english_invoice_007,english,tesseract,address,True,False,True,False,False,Tumakuru,Tumakuru
+english_invoice_007,english,tesseract,amount,True,False,True,False,False,2459,2459
+english_invoice_008,english,tesseract,name,True,False,True,False,False,Sneha Kumar,Sneha Kumar
+english_invoice_008,english,tesseract,date,True,False,True,False,False,08/01/2026,08/01/2026
+english_invoice_008,english,tesseract,document_id,True,False,True,False,False,INV-0008,INV-0008
+english_invoice_008,english,tesseract,address,True,False,True,False,False,Udupi,Udupi
+english_invoice_008,english,tesseract,amount,True,False,True,False,False,2596,2596
+english_application_017,english,tesseract,name,True,False,True,False,False,Kiran Singh,Kiran Singh
+english_application_017,english,tesseract,date,True,False,True,False,False,17/01/2026,17/01/2026
+english_application_017,english,tesseract,document_id,True,False,True,False,False,APP-0017,APP-0017
+english_application_017,english,tesseract,address,True,False,True,False,False,Tumakuru,Tumakuru
+english_application_017,english,tesseract,phone,True,False,True,False,False,9000002329,9000002329
+english_application_018,english,tesseract,name,True,False,True,False,False,Divya Rao,Divya Rao
+english_application_018,english,tesseract,date,True,False,True,False,False,18/01/2026,18/01/2026
+english_application_018,english,tesseract,document_id,True,False,True,False,False,APP-0018,APP-0018
+english_application_018,english,tesseract,address,True,False,True,False,False,Udupi,Udupi
+english_application_018,english,tesseract,phone,True,False,True,False,False,9000002466,9000002466
+english_certificate_027,english,tesseract,name,True,False,True,False,False,Vikram Nair,Vikram Nair
+english_certificate_027,english,tesseract,date,True,False,True,False,False,27/01/2026,27/01/2026
+english_certificate_027,english,tesseract,document_id,True,False,True,False,False,CERT-0027,CERT-0027
+english_certificate_027,english,tesseract,institution,True,False,True,False,False,Karnataka Technical University,Karnataka Technical University
+english_certificate_027,english,tesseract,grade,False,False,False,False,True,A+,A
+english_certificate_028,english,tesseract,name,True,False,True,False,False,Arjun Verma,Arjun Verma
+english_certificate_028,english,tesseract,date,True,False,True,False,False,28/01/2026,28/01/2026
+english_certificate_028,english,tesseract,document_id,True,False,True,False,False,CERT-0028,CERT-0028
+english_certificate_028,english,tesseract,institution,True,False,True,False,False,City Education Board,City Education Board
+english_certificate_028,english,tesseract,grade,False,True,False,False,False,B+,
+hindi_invoice_037,hindi,tesseract,name,True,False,True,False,False,अर्जुन राव,अर्जुन राव
+hindi_invoice_037,hindi,tesseract,date,True,True,False,True,False,06/02/2026,
+hindi_invoice_037,hindi,tesseract,document_id,False,True,False,False,False,INV-0037,
+hindi_invoice_037,hindi,tesseract,address,True,False,True,False,False,तुमकुरु,तुमकुरु
+hindi_invoice_037,hindi,tesseract,amount,True,True,False,True,False,6569,
+hindi_invoice_038,hindi,tesseract,name,True,False,True,False,False,प्रिया सिंह,प्रिया सिंह
+hindi_invoice_038,hindi,tesseract,date,True,False,True,False,False,07/02/2026,07/02/2026
+hindi_invoice_038,hindi,tesseract,document_id,False,True,False,False,False,INV-0038,
+hindi_invoice_038,hindi,tesseract,address,False,False,False,False,True,उडुपी,उड्ड॒पी
+hindi_invoice_038,hindi,tesseract,amount,True,False,True,False,False,6706,6706
+hindi_application_047,hindi,tesseract,name,True,True,False,True,False,राहुल मेनन,
+hindi_application_047,hindi,tesseract,date,False,True,False,False,False,16/02/2026,
+hindi_application_047,hindi,tesseract,document_id,False,True,False,False,False,APP-0047,
+hindi_application_047,hindi,tesseract,address,True,True,False,True,False,तुमकुरु,
+hindi_application_047,hindi,tesseract,phone,True,True,False,True,False,9000006439,
+hindi_application_048,hindi,tesseract,name,True,False,True,False,False,स्नेहा रेड्डी,स्नेहा रेड्डी
+hindi_application_048,hindi,tesseract,date,False,True,False,False,False,17/02/2026,
+hindi_application_048,hindi,tesseract,document_id,False,True,False,False,False,APP-0048,
+hindi_application_048,hindi,tesseract,address,False,False,False,False,True,उडुपी,उड्ड॒पी
+hindi_application_048,hindi,tesseract,phone,True,False,True,False,False,9000006576,9000006576
+hindi_certificate_057,hindi,tesseract,name,True,False,True,False,False,रवि नायर,रवि नायर
+hindi_certificate_057,hindi,tesseract,date,True,False,True,False,False,26/02/2026,26/02/2026
+hindi_certificate_057,hindi,tesseract,document_id,False,True,False,False,False,CERT-0057,
+hindi_certificate_057,hindi,tesseract,institution,True,False,True,False,False,कर्नाटक तकनीकी विश्वविद्यालय,कर्नाटक तकनीकी विश्वविद्यालय
+hindi_certificate_057,hindi,tesseract,grade,False,True,False,False,False,A+,
+hindi_certificate_058,hindi,tesseract,name,True,False,True,False,False,विक्रम वर्मा,विक्रम वर्मा
+hindi_certificate_058,hindi,tesseract,date,True,True,False,True,False,27/02/2026,
+hindi_certificate_058,hindi,tesseract,document_id,False,True,False,False,False,CERT-0058,
+hindi_certificate_058,hindi,tesseract,institution,True,False,True,False,False,शहर शिक्षा बोर्ड,शहर शिक्षा बोर्ड
+hindi_certificate_058,hindi,tesseract,grade,False,True,False,False,False,B+,
+kannada_invoice_067,kannada,tesseract,name,True,False,True,False,False,ವಿಕ್ರಮ್ ಮೆನನ್,ವಿಕ್ರಮ್ ಮೆನನ್
+kannada_invoice_067,kannada,tesseract,date,True,False,True,False,False,08/03/2026,08/03/2026
+kannada_invoice_067,kannada,tesseract,document_id,False,True,False,False,False,INV-0067,
+kannada_invoice_067,kannada,tesseract,address,True,False,True,False,False,ತುಮಕೂರು,ತುಮಕೂರು
+kannada_invoice_067,kannada,tesseract,amount,True,False,True,False,False,10679,10679
+kannada_invoice_068,kannada,tesseract,name,True,False,True,False,False,ಅನನ್ಯಾ ಕುಮಾರ್,ಅನನ್ಯಾ ಕುಮಾರ್
+kannada_invoice_068,kannada,tesseract,date,True,False,True,False,False,09/03/2026,09/03/2026
+kannada_invoice_068,kannada,tesseract,document_id,False,True,False,False,False,INV-0068,
+kannada_invoice_068,kannada,tesseract,address,True,False,True,False,False,ಉಡುಪಿ,ಉಡುಪಿ
+kannada_invoice_068,kannada,tesseract,amount,True,False,True,False,False,10816,10816
+kannada_application_077,kannada,tesseract,name,True,False,True,False,False,ವಿಕ್ರಮ್ ರೆಡ್ಡಿ,ವಿಕ್ರಮ್ ರೆಡ್ಡಿ
+kannada_application_077,kannada,tesseract,date,True,False,True,False,False,18/03/2026,18/03/2026
+kannada_application_077,kannada,tesseract,document_id,False,True,False,False,False,APP-0077,
+kannada_application_077,kannada,tesseract,address,True,False,True,False,False,ತುಮಕೂರು,ತುಮಕೂರು
+kannada_application_077,kannada,tesseract,phone,True,False,True,False,False,9000010549,9000010549
+kannada_application_078,kannada,tesseract,name,True,False,True,False,False,ಸ್ನೇಹಾ ನಾಯರ್,ಸ್ನೇಹಾ ನಾಯರ್
+kannada_application_078,kannada,tesseract,date,True,False,True,False,False,19/03/2026,19/03/2026
+kannada_application_078,kannada,tesseract,document_id,False,True,False,False,False,APP-0078,
+kannada_application_078,kannada,tesseract,address,True,False,True,False,False,ಉಡುಪಿ,ಉಡುಪಿ
+kannada_application_078,kannada,tesseract,phone,True,False,True,False,False,9000010686,9000010686
+kannada_certificate_087,kannada,tesseract,name,True,False,True,False,False,ವಿಕ್ರಮ್ ಜೋಶಿ,ವಿಕ್ರಮ್ ಜೋಶಿ
+kannada_certificate_087,kannada,tesseract,date,True,False,True,False,False,28/03/2026,28/03/2026
+kannada_certificate_087,kannada,tesseract,document_id,False,True,False,False,False,CERT-0087,
+kannada_certificate_087,kannada,tesseract,institution,True,False,True,False,False,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+kannada_certificate_087,kannada,tesseract,grade,False,True,False,False,False,A+,
+kannada_certificate_088,kannada,tesseract,name,True,False,True,False,False,ಮೀರಾ ಸಿಂಗ್,ಮೀರಾ ಸಿಂಗ್
+kannada_certificate_088,kannada,tesseract,date,True,False,True,False,False,29/03/2026,29/03/2026
+kannada_certificate_088,kannada,tesseract,document_id,False,True,False,False,False,CERT-0088,
+kannada_certificate_088,kannada,tesseract,institution,True,False,True,False,False,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+kannada_certificate_088,kannada,tesseract,grade,False,True,False,False,False,B+,
+english_application_017,english,easyocr,name,True,False,True,False,False,Kiran Singh,Kiran Singh
+english_application_017,english,easyocr,date,True,False,True,False,False,17/01/2026,17/01/2026
+english_application_017,english,easyocr,document_id,True,False,True,False,False,APP-0017,APP-0017
+english_application_017,english,easyocr,address,True,False,True,False,False,Tumakuru,Tumakuru
+english_application_017,english,easyocr,phone,True,False,True,False,False,9000002329,9000002329
+english_application_018,english,easyocr,name,True,False,True,False,False,Divya Rao,Divya Rao
+english_application_018,english,easyocr,date,True,False,True,False,False,18/01/2026,18/01/2026
+english_application_018,english,easyocr,document_id,True,False,True,False,False,APP-0018,APP-0018
+english_application_018,english,easyocr,address,True,False,True,False,False,Udupi,Udupi
+english_application_018,english,easyocr,phone,True,False,True,False,False,9000002466,9000002466
+english_certificate_027,english,easyocr,name,True,False,True,False,False,Vikram Nair,Vikram Nair
+english_certificate_027,english,easyocr,date,True,False,True,False,False,27/01/2026,27/01/2026
+english_certificate_027,english,easyocr,document_id,True,False,True,False,False,CERT-0027,CERT-0027
+english_certificate_027,english,easyocr,institution,True,False,True,False,False,Karnataka Technical University,Karnataka Technical University
+english_certificate_027,english,easyocr,grade,True,False,True,False,False,A+,A+
+english_certificate_028,english,easyocr,name,True,False,True,False,False,Arjun Verma,Arjun Verma
+english_certificate_028,english,easyocr,date,True,False,True,False,False,28/01/2026,28/01/2026
+english_certificate_028,english,easyocr,document_id,True,False,True,False,False,CERT-0028,CERT-0028
+english_certificate_028,english,easyocr,institution,True,False,True,False,False,City Education Board,City Education Board
+english_certificate_028,english,easyocr,grade,True,False,True,False,False,B+,B+
+english_invoice_007,english,easyocr,name,True,False,True,False,False,Ravi Sharma,Ravi Sharma
+english_invoice_007,english,easyocr,date,True,False,True,False,False,07/01/2026,07/01/2026
+english_invoice_007,english,easyocr,document_id,True,False,True,False,False,INV-0007,INV-0007
+english_invoice_007,english,easyocr,address,True,False,True,False,False,Tumakuru,Tumakuru
+english_invoice_007,english,easyocr,amount,True,False,True,False,False,2459,2459
+english_invoice_008,english,easyocr,name,True,False,True,False,False,Sneha Kumar,Sneha Kumar
+english_invoice_008,english,easyocr,date,True,False,True,False,False,08/01/2026,08/01/2026
+english_invoice_008,english,easyocr,document_id,True,False,True,False,False,INV-0008,INV-0008
+english_invoice_008,english,easyocr,address,True,False,True,False,False,Udupi,Udupi
+english_invoice_008,english,easyocr,amount,True,False,True,False,False,2596,2596
+hindi_application_047,hindi,easyocr,name,True,True,False,True,False,राहुल मेनन,
+hindi_application_047,hindi,easyocr,date,True,False,True,False,False,16/02/2026,16/02/2026
+hindi_application_047,hindi,easyocr,document_id,True,False,True,False,False,APP-0047,APP-0047
+hindi_application_047,hindi,easyocr,address,True,False,True,False,False,तुमकुरु,तुमकुरु
+hindi_application_047,hindi,easyocr,phone,True,False,True,False,False,9000006439,9000006439
+hindi_application_048,hindi,easyocr,name,False,False,False,False,True,स्नेहा रेड्डी,सनेहा रेड्डी
+hindi_application_048,hindi,easyocr,date,True,False,True,False,False,17/02/2026,17/02/2026
+hindi_application_048,hindi,easyocr,document_id,True,False,True,False,False,APP-0048,APP-0048
+hindi_application_048,hindi,easyocr,address,False,True,False,False,False,उडुपी,
+hindi_application_048,hindi,easyocr,phone,True,False,True,False,False,9000006576,9000006576
+hindi_certificate_057,hindi,easyocr,name,True,False,True,False,False,रवि नायर,रवि नायर
+hindi_certificate_057,hindi,easyocr,date,True,False,True,False,False,26/02/2026,26/02/2026
+hindi_certificate_057,hindi,easyocr,document_id,True,False,True,False,False,CERT-0057,CERT-0057
+hindi_certificate_057,hindi,easyocr,institution,True,False,True,False,False,कर्नाटक तकनीकी विश्वविद्यालय,कर्नाटक तकनीकी विश्वविद्यालय
+hindi_certificate_057,hindi,easyocr,grade,False,True,False,False,False,A+,
+hindi_certificate_058,hindi,easyocr,name,True,False,True,False,False,विक्रम वर्मा,विक्रम वर्मा
+hindi_certificate_058,hindi,easyocr,date,True,False,True,False,False,27/02/2026,27/02/2026
+hindi_certificate_058,hindi,easyocr,document_id,True,False,True,False,False,CERT-0058,CERT-0058
+hindi_certificate_058,hindi,easyocr,institution,True,False,True,False,False,शहर शिक्षा बोर्ड,शहर शिक्षा बोर्ड
+hindi_certificate_058,hindi,easyocr,grade,False,True,False,False,False,B+,
+hindi_invoice_037,hindi,easyocr,name,True,False,True,False,False,अर्जुन राव,अर्जुन राव
+hindi_invoice_037,hindi,easyocr,date,True,False,True,False,False,06/02/2026,06/02/2026
+hindi_invoice_037,hindi,easyocr,document_id,False,True,False,False,False,INV-0037,
+hindi_invoice_037,hindi,easyocr,address,True,False,True,False,False,तुमकुरु,तुमकुरु
+hindi_invoice_037,hindi,easyocr,amount,True,False,True,False,False,6569,6569
+hindi_invoice_038,hindi,easyocr,name,True,False,True,False,False,प्रिया सिंह,प्रिया सिंह
+hindi_invoice_038,hindi,easyocr,date,True,False,True,False,False,07/02/2026,07/02/2026
+hindi_invoice_038,hindi,easyocr,document_id,False,True,False,False,False,INV-0038,
+hindi_invoice_038,hindi,easyocr,address,False,True,False,False,False,उडुपी,
+hindi_invoice_038,hindi,easyocr,amount,True,False,True,False,False,6706,6706
+kannada_application_077,kannada,easyocr,name,True,False,True,False,False,ವಿಕ್ರಮ್ ರೆಡ್ಡಿ,ವಿಕ್ರಮ್ ರೆಡ್ಡಿ
+kannada_application_077,kannada,easyocr,date,True,False,True,False,False,18/03/2026,18/03/2026
+kannada_application_077,kannada,easyocr,document_id,True,False,True,False,False,APP-0077,APP-0077
+kannada_application_077,kannada,easyocr,address,True,False,True,False,False,ತುಮಕೂರು,ತುಮಕೂರು
+kannada_application_077,kannada,easyocr,phone,True,False,True,False,False,9000010549,9000010549
+kannada_application_078,kannada,easyocr,name,True,False,True,False,False,ಸ್ನೇಹಾ ನಾಯರ್,ಸ್ನೇಹಾ ನಾಯರ್
+kannada_application_078,kannada,easyocr,date,True,False,True,False,False,19/03/2026,19/03/2026
+kannada_application_078,kannada,easyocr,document_id,True,False,True,False,False,APP-0078,APP-0078
+kannada_application_078,kannada,easyocr,address,True,False,True,False,False,ಉಡುಪಿ,ಉಡುಪಿ
+kannada_application_078,kannada,easyocr,phone,True,False,True,False,False,9000010686,9000010686
+kannada_certificate_087,kannada,easyocr,name,True,False,True,False,False,ವಿಕ್ರಮ್ ಜೋಶಿ,ವಿಕ್ರಮ್ ಜೋಶಿ
+kannada_certificate_087,kannada,easyocr,date,True,False,True,False,False,28/03/2026,28/03/2026
+kannada_certificate_087,kannada,easyocr,document_id,True,False,True,False,False,CERT-0087,CERT-0087
+kannada_certificate_087,kannada,easyocr,institution,True,False,True,False,False,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+kannada_certificate_087,kannada,easyocr,grade,True,False,True,False,False,A+,A+
+kannada_certificate_088,kannada,easyocr,name,True,False,True,False,False,ಮೀರಾ ಸಿಂಗ್,ಮೀರಾ ಸಿಂಗ್
+kannada_certificate_088,kannada,easyocr,date,True,False,True,False,False,29/03/2026,29/03/2026
+kannada_certificate_088,kannada,easyocr,document_id,True,False,True,False,False,CERT-0088,CERT-0088
+kannada_certificate_088,kannada,easyocr,institution,True,False,True,False,False,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+kannada_certificate_088,kannada,easyocr,grade,True,False,True,False,False,B+,B+
+kannada_invoice_067,kannada,easyocr,name,True,False,True,False,False,ವಿಕ್ರಮ್ ಮೆನನ್,ವಿಕ್ರಮ್ ಮೆನನ್
+kannada_invoice_067,kannada,easyocr,date,True,False,True,False,False,08/03/2026,08/03/2026
+kannada_invoice_067,kannada,easyocr,document_id,False,True,False,False,False,INV-0067,
+kannada_invoice_067,kannada,easyocr,address,True,False,True,False,False,ತುಮಕೂರು,ತುಮಕೂರು
+kannada_invoice_067,kannada,easyocr,amount,True,False,True,False,False,10679,10679
+kannada_invoice_068,kannada,easyocr,name,False,True,False,False,False,ಅನನ್ಯಾ ಕುಮಾರ್,
+kannada_invoice_068,kannada,easyocr,date,True,False,True,False,False,09/03/2026,09/03/2026
+kannada_invoice_068,kannada,easyocr,document_id,False,True,False,False,False,INV-0068,
+kannada_invoice_068,kannada,easyocr,address,True,False,True,False,False,ಉಡುಪಿ,ಉಡುಪಿ
+kannada_invoice_068,kannada,easyocr,amount,True,False,True,False,False,10816,10816
+english_application_017,english,paddleocr,name,True,False,True,False,False,Kiran Singh,Kiran Singh
+english_application_017,english,paddleocr,date,True,False,True,False,False,17/01/2026,17/01/2026
+english_application_017,english,paddleocr,document_id,True,False,True,False,False,APP-0017,APP-0017
+english_application_017,english,paddleocr,address,True,False,True,False,False,Tumakuru,Tumakuru
+english_application_017,english,paddleocr,phone,True,False,True,False,False,9000002329,9000002329
+english_application_018,english,paddleocr,name,True,False,True,False,False,Divya Rao,Divya Rao
+english_application_018,english,paddleocr,date,True,False,True,False,False,18/01/2026,18/01/2026
+english_application_018,english,paddleocr,document_id,True,False,True,False,False,APP-0018,APP-0018
+english_application_018,english,paddleocr,address,True,False,True,False,False,Udupi,Udupi
+english_application_018,english,paddleocr,phone,True,False,True,False,False,9000002466,9000002466
+english_certificate_027,english,paddleocr,name,True,False,True,False,False,Vikram Nair,Vikram Nair
+english_certificate_027,english,paddleocr,date,True,False,True,False,False,27/01/2026,27/01/2026
+english_certificate_027,english,paddleocr,document_id,True,False,True,False,False,CERT-0027,CERT-0027
+english_certificate_027,english,paddleocr,institution,True,False,True,False,False,Karnataka Technical University,Karnataka Technical University
+english_certificate_027,english,paddleocr,grade,True,False,True,False,False,A+,A+
+english_certificate_028,english,paddleocr,name,True,False,True,False,False,Arjun Verma,Arjun Verma
+english_certificate_028,english,paddleocr,date,True,False,True,False,False,28/01/2026,28/01/2026
+english_certificate_028,english,paddleocr,document_id,True,False,True,False,False,CERT-0028,CERT-0028
+english_certificate_028,english,paddleocr,institution,True,False,True,False,False,City Education Board,City Education Board
+english_certificate_028,english,paddleocr,grade,False,False,False,False,True,B+,A
+english_invoice_007,english,paddleocr,name,True,False,True,False,False,Ravi Sharma,Ravi Sharma
+english_invoice_007,english,paddleocr,date,True,False,True,False,False,07/01/2026,07/01/2026
+english_invoice_007,english,paddleocr,document_id,True,False,True,False,False,INV-0007,INV-0007
+english_invoice_007,english,paddleocr,address,True,False,True,False,False,Tumakuru,Tumakuru
+english_invoice_007,english,paddleocr,amount,True,False,True,False,False,2459,2459
+english_invoice_008,english,paddleocr,name,True,False,True,False,False,Sneha Kumar,Sneha Kumar
+english_invoice_008,english,paddleocr,date,True,False,True,False,False,08/01/2026,08/01/2026
+english_invoice_008,english,paddleocr,document_id,True,False,True,False,False,INV-0008,INV-0008
+english_invoice_008,english,paddleocr,address,True,False,True,False,False,Udupi,Udupi
+english_invoice_008,english,paddleocr,amount,True,False,True,False,False,2596,2596
+hindi_application_047,hindi,paddleocr,name,True,True,False,True,False,राहुल मेनन,
+hindi_application_047,hindi,paddleocr,date,True,False,True,False,False,16/02/2026,16/02/2026
+hindi_application_047,hindi,paddleocr,document_id,True,False,True,False,False,APP-0047,APP-0047
+hindi_application_047,hindi,paddleocr,address,True,False,True,False,False,तुमकुरु,तुमकुरु
+hindi_application_047,hindi,paddleocr,phone,True,False,True,False,False,9000006439,9000006439
+hindi_application_048,hindi,paddleocr,name,False,True,False,False,False,स्नेहा रेड्डी,
+hindi_application_048,hindi,paddleocr,date,True,False,True,False,False,17/02/2026,17/02/2026
+hindi_application_048,hindi,paddleocr,document_id,True,False,True,False,False,APP-0048,APP-0048
+hindi_application_048,hindi,paddleocr,address,True,False,True,False,False,उडुपी,उडुपी
+hindi_application_048,hindi,paddleocr,phone,True,False,True,False,False,9000006576,9000006576
+hindi_certificate_057,hindi,paddleocr,name,True,False,True,False,False,रवि नायर,रवि नायर
+hindi_certificate_057,hindi,paddleocr,date,True,False,True,False,False,26/02/2026,26/02/2026
+hindi_certificate_057,hindi,paddleocr,document_id,True,False,True,False,False,CERT-0057,CERT-0057
+hindi_certificate_057,hindi,paddleocr,institution,False,False,False,False,True,कर्नाटक तकनीकी विश्वविद्यालय,कर्नाटक तकनीकी विश्विद्यालय
+hindi_certificate_057,hindi,paddleocr,grade,True,False,True,False,False,A+,A+
+hindi_certificate_058,hindi,paddleocr,name,True,False,True,False,False,विक्रम वर्मा,विक्रम वर्मा
+hindi_certificate_058,hindi,paddleocr,date,True,False,True,False,False,27/02/2026,27/02/2026
+hindi_certificate_058,hindi,paddleocr,document_id,True,False,True,False,False,CERT-0058,CERT-0058
+hindi_certificate_058,hindi,paddleocr,institution,True,False,True,False,False,शहर शिक्षा बोर्ड,शहर शिक्षा बोर्ड
+hindi_certificate_058,hindi,paddleocr,grade,True,False,True,False,False,B+,B+
+hindi_invoice_037,hindi,paddleocr,name,True,False,True,False,False,अर्जुन राव,अर्जुन राव
+hindi_invoice_037,hindi,paddleocr,date,True,False,True,False,False,06/02/2026,06/02/2026
+hindi_invoice_037,hindi,paddleocr,document_id,True,False,True,False,False,INV-0037,INV-0037
+hindi_invoice_037,hindi,paddleocr,address,True,True,False,True,False,तुमकुरु,
+hindi_invoice_037,hindi,paddleocr,amount,True,False,True,False,False,6569,6569
+hindi_invoice_038,hindi,paddleocr,name,False,True,False,False,False,प्रिया सिंह,
+hindi_invoice_038,hindi,paddleocr,date,True,False,True,False,False,07/02/2026,07/02/2026
+hindi_invoice_038,hindi,paddleocr,document_id,True,False,True,False,False,INV-0038,INV-0038
+hindi_invoice_038,hindi,paddleocr,address,True,False,True,False,False,उडुपी,उडुपी
+hindi_invoice_038,hindi,paddleocr,amount,True,False,True,False,False,6706,6706
+kannada_application_077,kannada,paddleocr,name,False,True,False,False,False,ವಿಕ್ರಮ್ ರೆಡ್ಡಿ,
+kannada_application_077,kannada,paddleocr,date,False,True,False,False,False,18/03/2026,
+kannada_application_077,kannada,paddleocr,document_id,False,True,False,False,False,APP-0077,
+kannada_application_077,kannada,paddleocr,address,True,False,True,False,False,ತುಮಕೂರು,ತುಮಕೂರು
+kannada_application_077,kannada,paddleocr,phone,False,True,False,False,False,9000010549,
+kannada_application_078,kannada,paddleocr,name,False,True,False,False,False,ಸ್ನೇಹಾ ನಾಯರ್,
+kannada_application_078,kannada,paddleocr,date,False,True,False,False,False,19/03/2026,
+kannada_application_078,kannada,paddleocr,document_id,False,True,False,False,False,APP-0078,
+kannada_application_078,kannada,paddleocr,address,False,True,False,False,False,ಉಡುಪಿ,
+kannada_application_078,kannada,paddleocr,phone,False,True,False,False,False,9000010686,
+kannada_certificate_087,kannada,paddleocr,name,False,True,False,False,False,ವಿಕ್ರಮ್ ಜೋಶಿ,
+kannada_certificate_087,kannada,paddleocr,date,False,True,False,False,False,28/03/2026,
+kannada_certificate_087,kannada,paddleocr,document_id,False,True,False,False,False,CERT-0087,
+kannada_certificate_087,kannada,paddleocr,institution,False,True,False,False,False,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,
+kannada_certificate_087,kannada,paddleocr,grade,False,True,False,False,False,A+,
+kannada_certificate_088,kannada,paddleocr,name,False,True,False,False,False,ಮೀರಾ ಸಿಂಗ್,
+kannada_certificate_088,kannada,paddleocr,date,False,True,False,False,False,29/03/2026,
+kannada_certificate_088,kannada,paddleocr,document_id,False,True,False,False,False,CERT-0088,
+kannada_certificate_088,kannada,paddleocr,institution,False,True,False,False,False,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,
+kannada_certificate_088,kannada,paddleocr,grade,True,False,True,False,False,B+,B+
+kannada_invoice_067,kannada,paddleocr,name,False,True,False,False,False,ವಿಕ್ರಮ್ ಮೆನನ್,
+kannada_invoice_067,kannada,paddleocr,date,False,True,False,False,False,08/03/2026,
+kannada_invoice_067,kannada,paddleocr,document_id,False,True,False,False,False,INV-0067,
+kannada_invoice_067,kannada,paddleocr,address,True,False,True,False,False,ತುಮಕೂರು,ತುಮಕೂರು
+kannada_invoice_067,kannada,paddleocr,amount,False,False,False,False,True,10679,1067
+kannada_invoice_068,kannada,paddleocr,name,False,True,False,False,False,ಅನನ್ಯಾ ಕುಮಾರ್,
+kannada_invoice_068,kannada,paddleocr,date,False,True,False,False,False,09/03/2026,
+kannada_invoice_068,kannada,paddleocr,document_id,False,True,False,False,False,INV-0068,
+kannada_invoice_068,kannada,paddleocr,address,False,True,False,False,False,ಉಡುಪಿ,
+kannada_invoice_068,kannada,paddleocr,amount,True,False,True,False,False,10816,10816

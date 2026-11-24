@@ -1,0 +1,4 @@
+language,documents,correct_fields,total_fields,field_accuracy,precision,recall,f1_score,exact_match_rate,json_validity_rate,missing_field_rate
+english,3,15,15,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+hindi,3,5,15,0.3333333333333333,0.5833333333333334,0.3333333333333333,0.41269841269841273,0.0,1.0,0.6
+kannada,2,2,10,0.2,0.5,0.2,0.28571428571428575,0.0,1.0,0.6

@@ -1,0 +1,22 @@
+{
+    "model": "Qwen/Qwen3-4B",
+    "experiment": "zero_shot",
+    "dataset": {
+        "validation_documents": 18,
+        "ocr_engines": 3,
+        "document_engine_evaluations": 54
+    },
+    "normalized_field_accuracy": 76.67,
+    "raw_field_accuracy": 70.74,
+    "normalized_exact_document_match": 42.59,
+    "exact_document_match_by_language": {
+        "english": 83.33,
+        "hindi": 22.22,
+        "kannada": 22.22
+    },
+    "exact_document_match_by_engine": {
+        "easyocr": 61.11,
+        "paddleocr": 44.44,
+        "tesseract": 22.22
+    }
+}

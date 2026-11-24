@@ -1,0 +1,14 @@
+{
+    "english": {
+        "language": "eng",
+        "text": "INVOICE\nName: Ravi Kumar\nDate: 12/08/2026\nInvoice No: INV-1045\nAddress: Bengaluru\nAmount: 2500"
+    },
+    "hindi": {
+        "language": "hin",
+        "text": "चालान\nनाम: रवि कुमार\nदिनांक: 12/08/2026\nचालान संख्या: INV-1045\nपता: बेंगलुरु\nराशि: 2500"
+    },
+    "kannada": {
+        "language": "kan",
+        "text": "ಸರಕುಪಟ್ಟಿ\nಹೆಸರು: ರವಿ ಕುಮಾರ್\nದಿನಾಂಕ: 12/08/2026\nಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ: INV-1045\nವಿಳಾಸ: ಬೆಂಗಳೂರು\nಮೊತ್ತ: 2500"
+    }
+}

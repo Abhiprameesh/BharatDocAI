@@ -1,0 +1,9 @@
+language,engine,correct_fields,total_fields,field_accuracy,precision,recall,f1_score,exact_document_match,json_valid,missing_fields,missing_field_rate,incorrect_nonempty_fields,incorrect_nonempty_rate
+english,Tesseract,5,5,1.0,1.0,1.0,1.0,True,True,0,0.0,0,0.0
+hindi,Tesseract,2,5,0.4,1.0,0.4,0.5714285714285715,False,True,3,0.6,0,0.0
+kannada,Tesseract,1,5,0.2,0.5,0.2,0.28571428571428575,False,True,3,0.6,1,0.5
+english,EasyOCR,5,5,1.0,1.0,1.0,1.0,True,True,0,0.0,0,0.0
+hindi,EasyOCR,3,5,0.6,0.75,0.6,0.6666666666666665,False,True,1,0.2,1,0.25
+kannada,EasyOCR,1,5,0.2,0.5,0.2,0.28571428571428575,False,True,3,0.6,1,0.5
+english,PaddleOCR,5,5,1.0,1.0,1.0,1.0,True,True,0,0.0,0,0.0
+hindi,PaddleOCR,0,5,0.0,0.0,0.0,0.0,False,True,5,1.0,0,0.0

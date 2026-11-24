@@ -1,0 +1,96 @@
+{
+    "Tesseract": {
+        "english": {
+            "raw_response": "{\n    \"name\": \"Ravi Kumar\",\n    \"date\": \"12/08/2026\",\n    \"invoice_number\": \"INV-1045\",\n    \"address\": \"Bengaluru\",\n    \"amount\": \"2500\"\n}",
+            "extracted_json": {
+                "name": "Ravi Kumar",
+                "date": "12/08/2026",
+                "invoice_number": "INV-1045",
+                "address": "Bengaluru",
+                "amount": "2500"
+            },
+            "json_valid": true
+        },
+        "hindi": {
+            "raw_response": "{\n    \"name\": \"\",\n    \"date\": \"\",\n    \"invoice_number\": \"\",\n    \"address\": \"बेंगलुरु\",\n    \"amount\": \"2500\"\n}",
+            "extracted_json": {
+                "name": "",
+                "date": "",
+                "invoice_number": "",
+                "address": "बेंगलुरु",
+                "amount": "2500"
+            },
+            "json_valid": true
+        },
+        "kannada": {
+            "raw_response": "{\n    \"name\": \"\",\n    \"date\": \"\",\n    \"invoice_number\": \"\",\n    \"address\": \"బెంగళూరు\",\n    \"amount\": \"2500\"\n}",
+            "extracted_json": {
+                "name": "",
+                "date": "",
+                "invoice_number": "",
+                "address": "బెంగళూరు",
+                "amount": "2500"
+            },
+            "json_valid": true
+        }
+    },
+    "EasyOCR": {
+        "english": {
+            "raw_response": "{\n    \"name\": \"Ravi Kumar\",\n    \"date\": \"12/08/2026\",\n    \"invoice_number\": \"INV-1045\",\n    \"address\": \"Bengaluru\",\n    \"amount\": \"2500\"\n}",
+            "extracted_json": {
+                "name": "Ravi Kumar",
+                "date": "12/08/2026",
+                "invoice_number": "INV-1045",
+                "address": "Bengaluru",
+                "amount": "2500"
+            },
+            "json_valid": true
+        },
+        "hindi": {
+            "raw_response": "{\n    \"name\": \"\",\n    \"date\": \"12/08/2026\",\n    \"invoice_number\": \"DD-1045\",\n    \"address\": \"बेंगलुरु\",\n    \"amount\": \"2500\"\n}",
+            "extracted_json": {
+                "name": "",
+                "date": "12/08/2026",
+                "invoice_number": "DD-1045",
+                "address": "बेंगलुरु",
+                "amount": "2500"
+            },
+            "json_valid": true
+        },
+        "kannada": {
+            "raw_response": "{\n    \"name\": \"\",\n    \"date\": \"\",\n    \"invoice_number\": \"\",\n    \"address\": \"బెంగలూరు\",\n    \"amount\": \"2500\"\n}",
+            "extracted_json": {
+                "name": "",
+                "date": "",
+                "invoice_number": "",
+                "address": "బెంగలూరు",
+                "amount": "2500"
+            },
+            "json_valid": true
+        }
+    },
+    "PaddleOCR": {
+        "english": {
+            "raw_response": "{\n    \"name\": \"Ravi Kumar\",\n    \"date\": \"12/08/2026\",\n    \"invoice_number\": \"INV-1045\",\n    \"address\": \"Bengaluru\",\n    \"amount\": \"2500\"\n}",
+            "extracted_json": {
+                "name": "Ravi Kumar",
+                "date": "12/08/2026",
+                "invoice_number": "INV-1045",
+                "address": "Bengaluru",
+                "amount": "2500"
+            },
+            "json_valid": true
+        },
+        "hindi": {
+            "raw_response": "{\n    \"name\": \"\",\n    \"date\": \"\",\n    \"invoice_number\": \"\",\n    \"address\": \"\",\n    \"amount\": \"\"\n}",
+            "extracted_json": {
+                "name": "",
+                "date": "",
+                "invoice_number": "",
+                "address": "",
+                "amount": ""
+            },
+            "json_valid": true
+        }
+    }
+}

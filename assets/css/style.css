@@ -1,0 +1,87 @@
+/* BharatDoc AI - Modern Styling */
+
+:root {
+    --primary-color: #1E3A8A;
+    --secondary-color: #0D9488;
+    --accent-color: #F59E0B;
+    --bg-light: #F8FAFC;
+    --card-bg: #FFFFFF;
+    --text-primary: #0F172A;
+    --text-muted: #64748B;
+    --border-color: #E2E8F0;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.06);
+    --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.07);
+}
+
+/* Metric Cards */
+.metric-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem;
+    box-shadow: var(--shadow-sm);
+    text-align: center;
+    margin-bottom: 1rem;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.metric-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+}
+
+.metric-value {
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--primary-color);
+    line-height: 1.2;
+}
+
+.metric-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-top: 0.3rem;
+}
+
+.metric-subtitle {
+    font-size: 0.8rem;
+    color: #94A3B8;
+    margin-top: 0.2rem;
+}
+
+/* Custom Header Badge */
+.badge {
+    background-color: #E0E7FF;
+    color: #3730A3;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.25rem 0.6rem;
+    border-radius: 9999px;
+    vertical-align: middle;
+    margin-left: 0.5rem;
+    letter-spacing: 0.02em;
+}
+
+.badge-provisional {
+    background-color: #FEF3C7;
+    color: #92400E;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.25rem 0.6rem;
+    border-radius: 9999px;
+    display: inline-block;
+}
+
+/* Schema Cards */
+.schema-box {
+    background: #F1F5F9;
+    border-left: 4px solid var(--primary-color);
+    padding: 0.8rem 1rem;
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 0.5rem;
+    font-family: monospace;
+    font-size: 0.95rem;
+}

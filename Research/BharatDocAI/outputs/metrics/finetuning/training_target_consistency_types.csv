@@ -1,0 +1,271 @@
+document_id,language,category,field,easyocr,paddleocr,tesseract,target_consistent,consistency_type,nonempty_engine_count,unique_nonempty_values
+english_application_011,english,application,name,Sneha Nair,Sneha Nair,Sneha Nair,True,all_same_nonempty,3,1
+english_application_011,english,application,date,11/01/2026,11/01/2026,11/01/2026,True,all_same_nonempty,3,1
+english_application_011,english,application,document_id,APP-0011,APP-0011,APP-0011,True,all_same_nonempty,3,1
+english_application_011,english,application,address,Bengaluru,Bengaluru,Bengaluru,True,all_same_nonempty,3,1
+english_application_011,english,application,phone,9000001507,9000001507,9000001507,True,all_same_nonempty,3,1
+english_application_012,english,application,name,Ananya Kumar,Ananya Kumar,Ananya Kumar,True,all_same_nonempty,3,1
+english_application_012,english,application,date,12/01/2026,12/01/2026,12/01/2026,True,all_same_nonempty,3,1
+english_application_012,english,application,document_id,APP-0012,APP-0012,APP-0012,True,all_same_nonempty,3,1
+english_application_012,english,application,address,Mysuru,Mysuru,Mysuru,True,all_same_nonempty,3,1
+english_application_012,english,application,phone,9000001644,9000001644,9000001644,True,all_same_nonempty,3,1
+english_application_013,english,application,name,Meera Joshi,Meera Joshi,Meera Joshi,True,all_same_nonempty,3,1
+english_application_013,english,application,date,13/01/2026,13/01/2026,13/01/2026,True,all_same_nonempty,3,1
+english_application_013,english,application,document_id,APP-0013,APP-0013,APP-0013,True,all_same_nonempty,3,1
+english_application_013,english,application,address,Mangaluru,Mangaluru,Mangaluru,True,all_same_nonempty,3,1
+english_application_013,english,application,phone,9000001781,9000001781,9000001781,True,all_same_nonempty,3,1
+english_application_014,english,application,name,Meera Verma,Meera Verma,Meera Verma,True,all_same_nonempty,3,1
+english_application_014,english,application,date,14/01/2026,14/01/2026,14/01/2026,True,all_same_nonempty,3,1
+english_application_014,english,application,document_id,APP-0014,APP-0014,APP-0014,True,all_same_nonempty,3,1
+english_application_014,english,application,address,Hubballi,Hubballi,Hubballi,True,all_same_nonempty,3,1
+english_application_014,english,application,phone,9000001918,9000001918,9000001918,True,all_same_nonempty,3,1
+english_application_015,english,application,name,Sneha Rao,Sneha Rao,Sneha Rao,True,all_same_nonempty,3,1
+english_application_015,english,application,date,15/01/2026,15/01/2026,15/01/2026,True,all_same_nonempty,3,1
+english_application_015,english,application,document_id,APP-0015,APP-0015,APP-0015,True,all_same_nonempty,3,1
+english_application_015,english,application,address,Belagavi,Belagavi,Belagavi,True,all_same_nonempty,3,1
+english_application_015,english,application,phone,9000002055,9000002055,9000002055,True,all_same_nonempty,3,1
+english_application_016,english,application,name,Kiran Joshi,Kiran Joshi,Kiran Joshi,True,all_same_nonempty,3,1
+english_application_016,english,application,date,16/01/2026,16/01/2026,16/01/2026,True,all_same_nonempty,3,1
+english_application_016,english,application,document_id,APP-0016,APP-0016,APP-0016,True,all_same_nonempty,3,1
+english_application_016,english,application,address,Shivamogga,Shivamogga,Shivamogga,True,all_same_nonempty,3,1
+english_application_016,english,application,phone,9000002192,9000002192,9000002192,True,all_same_nonempty,3,1
+english_certificate_021,english,certificate,name,Priya Kumar,Priya Kumar,Priya Kumar,True,all_same_nonempty,3,1
+english_certificate_021,english,certificate,date,21/01/2026,21/01/2026,21/01/2026,True,all_same_nonempty,3,1
+english_certificate_021,english,certificate,document_id,CERT-0021,CERT-0021,CERT-0021,True,all_same_nonempty,3,1
+english_certificate_021,english,certificate,institution,National Institute of Technology,National Institute of Technology,National Institute of Technology,True,all_same_nonempty,3,1
+english_certificate_021,english,certificate,grade,A,A,A,True,all_same_nonempty,3,1
+english_certificate_022,english,certificate,name,Arjun Sharma,Arjun Sharma,Arjun Sharma,True,all_same_nonempty,3,1
+english_certificate_022,english,certificate,date,22/01/2026,22/01/2026,22/01/2026,True,all_same_nonempty,3,1
+english_certificate_022,english,certificate,document_id,CERT-0022,CERT-0022,CERT-0022,True,all_same_nonempty,3,1
+english_certificate_022,english,certificate,institution,Government Science College,Government Science College,Government Science College,True,all_same_nonempty,3,1
+english_certificate_022,english,certificate,grade,A+,A+,,False,availability_inconsistency,2,1
+english_certificate_023,english,certificate,name,Priya Rao,Priya Rao,Priya Rao,True,all_same_nonempty,3,1
+english_certificate_023,english,certificate,date,23/01/2026,23/01/2026,23/01/2026,True,all_same_nonempty,3,1
+english_certificate_023,english,certificate,document_id,CERT-0023,CERT-0023,CERT-0023,True,all_same_nonempty,3,1
+english_certificate_023,english,certificate,institution,Karnataka Technical University,Karnataka Technical University,Karnataka Technical University,True,all_same_nonempty,3,1
+english_certificate_023,english,certificate,grade,B+,B+,,False,availability_inconsistency,2,1
+english_certificate_024,english,certificate,name,Divya Verma,Divya Verma,Divya Verma,True,all_same_nonempty,3,1
+english_certificate_024,english,certificate,date,24/01/2026,24/01/2026,24/01/2026,True,all_same_nonempty,3,1
+english_certificate_024,english,certificate,document_id,CERT-0024,CERT-0024,CERT-0024,True,all_same_nonempty,3,1
+english_certificate_024,english,certificate,institution,City Education Board,City Education Board,City Education Board,True,all_same_nonempty,3,1
+english_certificate_024,english,certificate,grade,B,B,B,True,all_same_nonempty,3,1
+english_certificate_025,english,certificate,name,Vikram Kumar,Vikram Kumar,Vikram Kumar,True,all_same_nonempty,3,1
+english_certificate_025,english,certificate,date,25/01/2026,25/01/2026,25/01/2026,True,all_same_nonempty,3,1
+english_certificate_025,english,certificate,document_id,CERT-0025,CERT-0025,CERT-0025,True,all_same_nonempty,3,1
+english_certificate_025,english,certificate,institution,National Institute of Technology,National Institute of Technology,National Institute of Technology,True,all_same_nonempty,3,1
+english_certificate_025,english,certificate,grade,Distinction,Distinction,Distinction,True,all_same_nonempty,3,1
+english_certificate_026,english,certificate,name,Kiran Menon,Kiran Menon,Kiran Menon,True,all_same_nonempty,3,1
+english_certificate_026,english,certificate,date,26/01/2026,26/01/2026,26/01/2026,True,all_same_nonempty,3,1
+english_certificate_026,english,certificate,document_id,CERT-0026,CERT-0026,CERT-0026,True,all_same_nonempty,3,1
+english_certificate_026,english,certificate,institution,Government Science College,Government Science College,Government Science College,True,all_same_nonempty,3,1
+english_certificate_026,english,certificate,grade,A,A,A,True,all_same_nonempty,3,1
+english_invoice_001,english,invoice,name,Kiran Rao,Kiran Rao,Kiran Rao,True,all_same_nonempty,3,1
+english_invoice_001,english,invoice,date,01/01/2026,01/01/2026,01/01/2026,True,all_same_nonempty,3,1
+english_invoice_001,english,invoice,document_id,INV-0001,INV-0001,INV-0001,True,all_same_nonempty,3,1
+english_invoice_001,english,invoice,address,Bengaluru,Bengaluru,Bengaluru,True,all_same_nonempty,3,1
+english_invoice_001,english,invoice,amount,1637,1637,1637,True,all_same_nonempty,3,1
+english_invoice_002,english,invoice,name,Kiran Sharma,Kiran Sharma,Kiran Sharma,True,all_same_nonempty,3,1
+english_invoice_002,english,invoice,date,02/01/2026,02/01/2026,02/01/2026,True,all_same_nonempty,3,1
+english_invoice_002,english,invoice,document_id,INV-0002,INV-0002,INV-0002,True,all_same_nonempty,3,1
+english_invoice_002,english,invoice,address,Mysuru,Mysuru,Mysuru,True,all_same_nonempty,3,1
+english_invoice_002,english,invoice,amount,1774,1774,1774,True,all_same_nonempty,3,1
+english_invoice_003,english,invoice,name,Divya Sharma,Divya Sharma,Divya Sharma,True,all_same_nonempty,3,1
+english_invoice_003,english,invoice,date,03/01/2026,03/01/2026,03/01/2026,True,all_same_nonempty,3,1
+english_invoice_003,english,invoice,document_id,INV-0003,INV-0003,INV-0003,True,all_same_nonempty,3,1
+english_invoice_003,english,invoice,address,Mangaluru,Mangaluru,Mangaluru,True,all_same_nonempty,3,1
+english_invoice_003,english,invoice,amount,1911,1911,1911,True,all_same_nonempty,3,1
+english_invoice_004,english,invoice,name,Ravi Menon,Ravi Menon,Ravi Menon,True,all_same_nonempty,3,1
+english_invoice_004,english,invoice,date,04/01/2026,04/01/2026,04/01/2026,True,all_same_nonempty,3,1
+english_invoice_004,english,invoice,document_id,INV-0004,INV-0004,INV-0004,True,all_same_nonempty,3,1
+english_invoice_004,english,invoice,address,Hubballi,Hubballi,Hubballi,True,all_same_nonempty,3,1
+english_invoice_004,english,invoice,amount,2048,2048,2048,True,all_same_nonempty,3,1
+english_invoice_005,english,invoice,name,Rahul Joshi,Rahul Joshi,Rahul Joshi,True,all_same_nonempty,3,1
+english_invoice_005,english,invoice,date,05/01/2026,05/01/2026,05/01/2026,True,all_same_nonempty,3,1
+english_invoice_005,english,invoice,document_id,INV-0005,INV-0005,INV-0005,True,all_same_nonempty,3,1
+english_invoice_005,english,invoice,address,Belagavi,Belagavi,Belagavi,True,all_same_nonempty,3,1
+english_invoice_005,english,invoice,amount,2185,2185,2185,True,all_same_nonempty,3,1
+english_invoice_006,english,invoice,name,Meera Kumar,Meera Kumar,Meera Kumar,True,all_same_nonempty,3,1
+english_invoice_006,english,invoice,date,06/01/2026,06/01/2026,06/01/2026,True,all_same_nonempty,3,1
+english_invoice_006,english,invoice,document_id,INV-0006,INV-0006,INV-0006,True,all_same_nonempty,3,1
+english_invoice_006,english,invoice,address,Shivamogga,Shivamogga,Shivamogga,True,all_same_nonempty,3,1
+english_invoice_006,english,invoice,amount,2322,2322,2322,True,all_same_nonempty,3,1
+hindi_application_041,hindi,application,name,विक्रम जोशी,विक्रम जोशी,विक्रम जोशी,True,all_same_nonempty,3,1
+hindi_application_041,hindi,application,date,10/02/2026,10/02/2026,,False,availability_inconsistency,2,1
+hindi_application_041,hindi,application,document_id,APP-0041,APP-0041,,False,availability_inconsistency,2,1
+hindi_application_041,hindi,application,address,बेंगलुरु,,बेंगलुरु,False,availability_inconsistency,2,1
+hindi_application_041,hindi,application,phone,9000005617,9000005617,,False,availability_inconsistency,2,1
+hindi_application_042,hindi,application,name,,,राहुल रेड्डी,False,availability_inconsistency,1,1
+hindi_application_042,hindi,application,date,11/02/2026,11/02/2026,,False,availability_inconsistency,2,1
+hindi_application_042,hindi,application,document_id,,APP-0042,,False,availability_inconsistency,1,1
+hindi_application_042,hindi,application,address,,मैसूर,मैसूर,False,availability_inconsistency,2,1
+hindi_application_042,hindi,application,phone,9000005754,9000005754,9000005754,True,all_same_nonempty,3,1
+hindi_application_043,hindi,application,name,,स्नेहा मेनन,स्नेहा मेनन,False,availability_inconsistency,2,1
+hindi_application_043,hindi,application,date,12/02/2026,12/02/2026,,False,availability_inconsistency,2,1
+hindi_application_043,hindi,application,document_id,APP-0043,APP-0043,,False,availability_inconsistency,2,1
+hindi_application_043,hindi,application,address,मंगलुरु,मंगलुरु,मंगलुरु,True,all_same_nonempty,3,1
+hindi_application_043,hindi,application,phone,9000005891,9000005891,,False,availability_inconsistency,2,1
+hindi_application_044,hindi,application,name,किरण पटेल,किरण पटेल,किरण पटेल,True,all_same_nonempty,3,1
+hindi_application_044,hindi,application,date,13/02/2026,13/02/2026,,False,availability_inconsistency,2,1
+hindi_application_044,hindi,application,document_id,APP-0044,APP-0044,,False,availability_inconsistency,2,1
+hindi_application_044,hindi,application,address,हुबली,हुबली,हुबली,True,all_same_nonempty,3,1
+hindi_application_044,hindi,application,phone,9000006028,9000006028,9000006028,True,all_same_nonempty,3,1
+hindi_application_045,hindi,application,name,किरण राव,किरण राव,किरण राव,True,all_same_nonempty,3,1
+hindi_application_045,hindi,application,date,14/02/2026,14/02/2026,,False,availability_inconsistency,2,1
+hindi_application_045,hindi,application,document_id,APP-0045,APP-0045,,False,availability_inconsistency,2,1
+hindi_application_045,hindi,application,address,बेलगावी,बेलगावी,बेलगावी,True,all_same_nonempty,3,1
+hindi_application_045,hindi,application,phone,9000006165,9000006165,,False,availability_inconsistency,2,1
+hindi_application_046,hindi,application,name,रवि पटेल,रवि पटेल,रवि पटेल,True,all_same_nonempty,3,1
+hindi_application_046,hindi,application,date,15/02/2026,15/02/2026,,False,availability_inconsistency,2,1
+hindi_application_046,hindi,application,document_id,APP-0046,APP-0046,,False,availability_inconsistency,2,1
+hindi_application_046,hindi,application,address,शिवमोग्गा,,शिवमोग्गा,False,availability_inconsistency,2,1
+hindi_application_046,hindi,application,phone,9000006302,9000006302,9000006302,True,all_same_nonempty,3,1
+hindi_certificate_051,hindi,certificate,name,किरण रेड्डी,किरण रेड्डी,किरण रेड्डी,True,all_same_nonempty,3,1
+hindi_certificate_051,hindi,certificate,date,20/02/2026,20/02/2026,20/02/2026,True,all_same_nonempty,3,1
+hindi_certificate_051,hindi,certificate,document_id,CERT-0051,CERT-0051,,False,availability_inconsistency,2,1
+hindi_certificate_051,hindi,certificate,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,,राष्ट्रीय प्रौद्योगिकी संस्थान,False,availability_inconsistency,2,1
+hindi_certificate_051,hindi,certificate,grade,,A,,False,availability_inconsistency,1,1
+hindi_certificate_052,hindi,certificate,name,दिव्या पटेल,दिव्या पटेल,दिव्या पटेल,True,all_same_nonempty,3,1
+hindi_certificate_052,hindi,certificate,date,21/02/2026,21/02/2026,,False,availability_inconsistency,2,1
+hindi_certificate_052,hindi,certificate,document_id,CERT-0052,CERT-0052,,False,availability_inconsistency,2,1
+hindi_certificate_052,hindi,certificate,institution,सरकारी विज्ञान महाविद्यालय,सरकारी विज्ञान महाविद्यालय,सरकारी विज्ञान महाविद्यालय,True,all_same_nonempty,3,1
+hindi_certificate_052,hindi,certificate,grade,,A+,,False,availability_inconsistency,1,1
+hindi_certificate_053,hindi,certificate,name,,रवि शर्मा,रवि शर्मा,False,availability_inconsistency,2,1
+hindi_certificate_053,hindi,certificate,date,22/02/2026,22/02/2026,22/02/2026,True,all_same_nonempty,3,1
+hindi_certificate_053,hindi,certificate,document_id,CERT-0053,CERT-0053,,False,availability_inconsistency,2,1
+hindi_certificate_053,hindi,certificate,institution,कर्नाटक तकनीकी विश्वविद्यालय,कर्नाटक तकनीकी विश्वविद्यालय,कर्नाटक तकनीकी विश्वविद्यालय,True,all_same_nonempty,3,1
+hindi_certificate_053,hindi,certificate,grade,,B+,,False,availability_inconsistency,1,1
+hindi_certificate_054,hindi,certificate,name,मीरा नायर,मीरा नायर,मीरा नायर,True,all_same_nonempty,3,1
+hindi_certificate_054,hindi,certificate,date,23/02/2026,23/02/2026,23/02/2026,True,all_same_nonempty,3,1
+hindi_certificate_054,hindi,certificate,document_id,CERT-0054,CERT-0054,,False,availability_inconsistency,2,1
+hindi_certificate_054,hindi,certificate,institution,शहर शिक्षा बोर्ड,शहर शिक्षा बोर्ड,शहर शिक्षा बोर्ड,True,all_same_nonempty,3,1
+hindi_certificate_054,hindi,certificate,grade,,B,,False,availability_inconsistency,1,1
+hindi_certificate_055,hindi,certificate,name,विक्रम पटेल,विक्रम पटेल,विक्रम पटेल,True,all_same_nonempty,3,1
+hindi_certificate_055,hindi,certificate,date,24/02/2026,24/02/2026,24/02/2026,True,all_same_nonempty,3,1
+hindi_certificate_055,hindi,certificate,document_id,,CERT-0055,,False,availability_inconsistency,1,1
+hindi_certificate_055,hindi,certificate,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,,राष्ट्रीय प्रौद्योगिकी संस्थान,False,availability_inconsistency,2,1
+hindi_certificate_055,hindi,certificate,grade,Distinction,Distinction,,False,availability_inconsistency,2,1
+hindi_certificate_056,hindi,certificate,name,दिव्या वर्मा,दिव्या वर्मा,दिव्या वर्मा,True,all_same_nonempty,3,1
+hindi_certificate_056,hindi,certificate,date,25/02/2026,25/02/2026,25/02/2026,True,all_same_nonempty,3,1
+hindi_certificate_056,hindi,certificate,document_id,CERT-0056,CERT-0056,,False,availability_inconsistency,2,1
+hindi_certificate_056,hindi,certificate,institution,सरकारी विज्ञान महाविद्यालय,सरकारी विज्ञान महाविद्यालय,सरकारी विज्ञान महाविद्यालय,True,all_same_nonempty,3,1
+hindi_certificate_056,hindi,certificate,grade,,A,,False,availability_inconsistency,1,1
+hindi_invoice_031,hindi,invoice,name,मीरा रेड्डी,,मीरा रेड्डी,False,availability_inconsistency,2,1
+hindi_invoice_031,hindi,invoice,date,31/01/2026,31/01/2026,,False,availability_inconsistency,2,1
+hindi_invoice_031,hindi,invoice,document_id,,INV-0031,,False,availability_inconsistency,1,1
+hindi_invoice_031,hindi,invoice,address,बेंगलुरु,बेंगलुरु,बेंगलुरु,True,all_same_nonempty,3,1
+hindi_invoice_031,hindi,invoice,amount,5747,5747,5747,True,all_same_nonempty,3,1
+hindi_invoice_032,hindi,invoice,name,अर्जुन वर्मा,,अर्जुन वर्मा,False,availability_inconsistency,2,1
+hindi_invoice_032,hindi,invoice,date,01/02/2026,01/02/2026,,False,availability_inconsistency,2,1
+hindi_invoice_032,hindi,invoice,document_id,,INV-0032,,False,availability_inconsistency,1,1
+hindi_invoice_032,hindi,invoice,address,,मैसूर,मैसूर,False,availability_inconsistency,2,1
+hindi_invoice_032,hindi,invoice,amount,5884,5884,5884,True,all_same_nonempty,3,1
+hindi_invoice_033,hindi,invoice,name,,रवि जोशी,रवि जोशी,False,availability_inconsistency,2,1
+hindi_invoice_033,hindi,invoice,date,02/02/2026,02/02/2026,02/02/2026,True,all_same_nonempty,3,1
+hindi_invoice_033,hindi,invoice,document_id,,INV-0033,,False,availability_inconsistency,1,1
+hindi_invoice_033,hindi,invoice,address,मंगलुरु,मंगलुरु,मंगलुरु,True,all_same_nonempty,3,1
+hindi_invoice_033,hindi,invoice,amount,6021,6021,,False,availability_inconsistency,2,1
+hindi_invoice_034,hindi,invoice,name,अनन्या नायर,अनन्या नायर,अनन्या नायर,True,all_same_nonempty,3,1
+hindi_invoice_034,hindi,invoice,date,03/02/2026,03/02/2026,03/02/2026,True,all_same_nonempty,3,1
+hindi_invoice_034,hindi,invoice,document_id,,INV-0034,,False,availability_inconsistency,1,1
+hindi_invoice_034,hindi,invoice,address,हुबली,हुबली,हुबली,True,all_same_nonempty,3,1
+hindi_invoice_034,hindi,invoice,amount,6158,6158,,False,availability_inconsistency,2,1
+hindi_invoice_035,hindi,invoice,name,राहुल शर्मा,राहुल शर्मा,राहुल शर्मा,True,all_same_nonempty,3,1
+hindi_invoice_035,hindi,invoice,date,04/02/2026,04/02/2026,04/02/2026,True,all_same_nonempty,3,1
+hindi_invoice_035,hindi,invoice,document_id,,INV-0035,,False,availability_inconsistency,1,1
+hindi_invoice_035,hindi,invoice,address,बेलगावी,बेलगावी,बेलगावी,True,all_same_nonempty,3,1
+hindi_invoice_035,hindi,invoice,amount,6295,6295,6295,True,all_same_nonempty,3,1
+hindi_invoice_036,hindi,invoice,name,अर्जुन पटेल,अर्जुन पटेल,अर्जुन पटेल,True,all_same_nonempty,3,1
+hindi_invoice_036,hindi,invoice,date,05/02/2026,05/02/2026,05/02/2026,True,all_same_nonempty,3,1
+hindi_invoice_036,hindi,invoice,document_id,,INV-0036,,False,availability_inconsistency,1,1
+hindi_invoice_036,hindi,invoice,address,शिवमोग्गा,,शिवमोग्गा,False,availability_inconsistency,2,1
+hindi_invoice_036,hindi,invoice,amount,6432,6432,6432,True,all_same_nonempty,3,1
+kannada_application_071,kannada,application,name,ಅರ್ಜುನ್ ನಾಯರ್,,ಅರ್ಜುನ್ ನಾಯರ್,False,availability_inconsistency,2,1
+kannada_application_071,kannada,application,date,12/03/2026,,12/03/2026,False,availability_inconsistency,2,1
+kannada_application_071,kannada,application,document_id,APP-0071,,,False,availability_inconsistency,1,1
+kannada_application_071,kannada,application,address,ಬೆಂಗಳೂರು,ಬೆಂಗಳೂರು,ಬೆಂಗಳೂರು,True,all_same_nonempty,3,1
+kannada_application_071,kannada,application,phone,9000009727,,9000009727,False,availability_inconsistency,2,1
+kannada_application_072,kannada,application,name,ಪ್ರಿಯಾ ನಾಯರ್,,ಪ್ರಿಯಾ ನಾಯರ್,False,availability_inconsistency,2,1
+kannada_application_072,kannada,application,date,13/03/2026,,13/03/2026,False,availability_inconsistency,2,1
+kannada_application_072,kannada,application,document_id,APP-0072,,,False,availability_inconsistency,1,1
+kannada_application_072,kannada,application,address,ಮೈಸೂರು,,ಮೈಸೂರು,False,availability_inconsistency,2,1
+kannada_application_072,kannada,application,phone,9000009864,,9000009864,False,availability_inconsistency,2,1
+kannada_application_073,kannada,application,name,,,ಅನನ್ಯಾ ಪಟೇಲ್,False,availability_inconsistency,1,1
+kannada_application_073,kannada,application,date,14/03/2026,,14/03/2026,False,availability_inconsistency,2,1
+kannada_application_073,kannada,application,document_id,APP-0073,,,False,availability_inconsistency,1,1
+kannada_application_073,kannada,application,address,ಮಂಗಳೂರು,ಮಂಗಳೂರು,ಮಂಗಳೂರು,True,all_same_nonempty,3,1
+kannada_application_073,kannada,application,phone,9000010001,,9000010001,False,availability_inconsistency,2,1
+kannada_application_074,kannada,application,name,ಪ್ರಿಯಾ ಸಿಂಗ್,,ಪ್ರಿಯಾ ಸಿಂಗ್,False,availability_inconsistency,2,1
+kannada_application_074,kannada,application,date,15/03/2026,,15/03/2026,False,availability_inconsistency,2,1
+kannada_application_074,kannada,application,document_id,APP-0074,,,False,availability_inconsistency,1,1
+kannada_application_074,kannada,application,address,,,ಹುಬ್ಬಳ್ಳಿ,False,availability_inconsistency,1,1
+kannada_application_074,kannada,application,phone,9000010138,,9000010138,False,availability_inconsistency,2,1
+kannada_application_075,kannada,application,name,,,ಅನನ್ಯಾ ಸಿಂಗ್,False,availability_inconsistency,1,1
+kannada_application_075,kannada,application,date,16/03/2026,,16/03/2026,False,availability_inconsistency,2,1
+kannada_application_075,kannada,application,document_id,APP-0075,,,False,availability_inconsistency,1,1
+kannada_application_075,kannada,application,address,ಬೆಳಗಾವಿ,,ಬೆಳಗಾವಿ,False,availability_inconsistency,2,1
+kannada_application_075,kannada,application,phone,9000010275,,9000010275,False,availability_inconsistency,2,1
+kannada_application_076,kannada,application,name,ರಾಹುಲ್ ರೆಡ್ಡಿ,,ರಾಹುಲ್ ರೆಡ್ಡಿ,False,availability_inconsistency,2,1
+kannada_application_076,kannada,application,date,17/03/2026,,17/03/2026,False,availability_inconsistency,2,1
+kannada_application_076,kannada,application,document_id,APP-0076,,,False,availability_inconsistency,1,1
+kannada_application_076,kannada,application,address,ಶಿವಮೊಗ್ಗ,,ಶಿವಮೊಗ್ಗ,False,availability_inconsistency,2,1
+kannada_application_076,kannada,application,phone,9000010412,,9000010412,False,availability_inconsistency,2,1
+kannada_certificate_081,kannada,certificate,name,ಮೀರಾ ಶರ್ಮಾ,,ಮೀರಾ ಶರ್ಮಾ,False,availability_inconsistency,2,1
+kannada_certificate_081,kannada,certificate,date,22/03/2026,,22/03/2026,False,availability_inconsistency,2,1
+kannada_certificate_081,kannada,certificate,document_id,CERT-0081,,,False,availability_inconsistency,1,1
+kannada_certificate_081,kannada,certificate,institution,,,,True,all_empty,0,0
+kannada_certificate_081,kannada,certificate,grade,,A,,False,availability_inconsistency,1,1
+kannada_certificate_082,kannada,certificate,name,,,ಅನನ್ಯಾ ನಾಯರ್,False,availability_inconsistency,1,1
+kannada_certificate_082,kannada,certificate,date,23/03/2026,,23/03/2026,False,availability_inconsistency,2,1
+kannada_certificate_082,kannada,certificate,document_id,CERT-0082,,,False,availability_inconsistency,1,1
+kannada_certificate_082,kannada,certificate,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,False,availability_inconsistency,2,1
+kannada_certificate_082,kannada,certificate,grade,A+,,,False,availability_inconsistency,1,1
+kannada_certificate_083,kannada,certificate,name,ರವಿ ಜೋಶಿ,,ರವಿ ಜೋಶಿ,False,availability_inconsistency,2,1
+kannada_certificate_083,kannada,certificate,date,24/03/2026,,24/03/2026,False,availability_inconsistency,2,1
+kannada_certificate_083,kannada,certificate,document_id,CERT-0083,,,False,availability_inconsistency,1,1
+kannada_certificate_083,kannada,certificate,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,False,availability_inconsistency,2,1
+kannada_certificate_083,kannada,certificate,grade,B+,,,False,availability_inconsistency,1,1
+kannada_certificate_084,kannada,certificate,name,,,ವಿಕ್ರಮ್ ರಾವ್,False,availability_inconsistency,1,1
+kannada_certificate_084,kannada,certificate,date,25/03/2026,,25/03/2026,False,availability_inconsistency,2,1
+kannada_certificate_084,kannada,certificate,document_id,CERT-0084,,,False,availability_inconsistency,1,1
+kannada_certificate_084,kannada,certificate,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,False,availability_inconsistency,2,1
+kannada_certificate_084,kannada,certificate,grade,B,B,,False,availability_inconsistency,2,1
+kannada_certificate_085,kannada,certificate,name,ಸ್ನೇಹಾ ವರ್ಮಾ,,ಸ್ನೇಹಾ ವರ್ಮಾ,False,availability_inconsistency,2,1
+kannada_certificate_085,kannada,certificate,date,26/03/2026,,26/03/2026,False,availability_inconsistency,2,1
+kannada_certificate_085,kannada,certificate,document_id,CERT-0085,,,False,availability_inconsistency,1,1
+kannada_certificate_085,kannada,certificate,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,,,False,availability_inconsistency,1,1
+kannada_certificate_085,kannada,certificate,grade,Distinction,Distinction,,False,availability_inconsistency,2,1
+kannada_certificate_086,kannada,certificate,name,,,ದಿವ್ಯಾ ಶರ್ಮಾ,False,availability_inconsistency,1,1
+kannada_certificate_086,kannada,certificate,date,27/03/2026,,27/03/2026,False,availability_inconsistency,2,1
+kannada_certificate_086,kannada,certificate,document_id,CERT-0086,,,False,availability_inconsistency,1,1
+kannada_certificate_086,kannada,certificate,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,False,availability_inconsistency,2,1
+kannada_certificate_086,kannada,certificate,grade,,A,,False,availability_inconsistency,1,1
+kannada_invoice_061,kannada,invoice,name,ಕಿರಣ್ ಮೆನನ್,,ಕಿರಣ್ ಮೆನನ್,False,availability_inconsistency,2,1
+kannada_invoice_061,kannada,invoice,date,02/03/2026,,02/03/2026,False,availability_inconsistency,2,1
+kannada_invoice_061,kannada,invoice,document_id,,,,True,all_empty,0,0
+kannada_invoice_061,kannada,invoice,address,ಬೆಂಗಳೂರು,ಬೆಂಗಳೂರು,ಬೆಂಗಳೂರು,True,all_same_nonempty,3,1
+kannada_invoice_061,kannada,invoice,amount,9857,,9857,False,availability_inconsistency,2,1
+kannada_invoice_062,kannada,invoice,name,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,False,availability_inconsistency,2,1
+kannada_invoice_062,kannada,invoice,date,03/03/2026,,03/03/2026,False,availability_inconsistency,2,1
+kannada_invoice_062,kannada,invoice,document_id,,,,True,all_empty,0,0
+kannada_invoice_062,kannada,invoice,address,ಮೈಸೂರು,,ಮೈಸೂರು,False,availability_inconsistency,2,1
+kannada_invoice_062,kannada,invoice,amount,9994,,9994,False,availability_inconsistency,2,1
+kannada_invoice_063,kannada,invoice,name,ಕಿರಣ್ ರೆಡ್ಡಿ,,ಕಿರಣ್ ರೆಡ್ಡಿ,False,availability_inconsistency,2,1
+kannada_invoice_063,kannada,invoice,date,04/03/2026,,04/03/2026,False,availability_inconsistency,2,1
+kannada_invoice_063,kannada,invoice,document_id,,,,True,all_empty,0,0
+kannada_invoice_063,kannada,invoice,address,ಮಂಗಳೂರು,ಮಂಗಳೂರು,ಮಂಗಳೂರು,True,all_same_nonempty,3,1
+kannada_invoice_063,kannada,invoice,amount,10131,10131,10131,True,all_same_nonempty,3,1
+kannada_invoice_064,kannada,invoice,name,ಅನನ್ಯಾ ಮೆನನ್,,ಅನನ್ಯಾ ಮೆನನ್,False,availability_inconsistency,2,1
+kannada_invoice_064,kannada,invoice,date,05/03/2026,,05/03/2026,False,availability_inconsistency,2,1
+kannada_invoice_064,kannada,invoice,document_id,,,,True,all_empty,0,0
+kannada_invoice_064,kannada,invoice,address,,,ಹುಬ್ಬಳ್ಳಿ,False,availability_inconsistency,1,1
+kannada_invoice_064,kannada,invoice,amount,10268,,10268,False,availability_inconsistency,2,1
+kannada_invoice_065,kannada,invoice,name,ಕಿರಣ್ ಸಿಂಗ್,,ಕಿರಣ್ ಸಿಂಗ್,False,availability_inconsistency,2,1
+kannada_invoice_065,kannada,invoice,date,06/03/2026,,06/03/2026,False,availability_inconsistency,2,1
+kannada_invoice_065,kannada,invoice,document_id,,,,True,all_empty,0,0
+kannada_invoice_065,kannada,invoice,address,ಬೆಳಗಾವಿ,,ಬೆಳಗಾವಿ,False,availability_inconsistency,2,1
+kannada_invoice_065,kannada,invoice,amount,10405,10405,10405,True,all_same_nonempty,3,1
+kannada_invoice_066,kannada,invoice,name,,,ಪ್ರಿಯಾ ಮೆನನ್,False,availability_inconsistency,1,1
+kannada_invoice_066,kannada,invoice,date,07/03/2026,,07/03/2026,False,availability_inconsistency,2,1
+kannada_invoice_066,kannada,invoice,document_id,,,,True,all_empty,0,0
+kannada_invoice_066,kannada,invoice,address,ಶಿವಮೊಗ್ಗ,,ಶಿವಮೊಗ್ಗ,False,availability_inconsistency,2,1
+kannada_invoice_066,kannada,invoice,amount,10542,10542,10542,True,all_same_nonempty,3,1

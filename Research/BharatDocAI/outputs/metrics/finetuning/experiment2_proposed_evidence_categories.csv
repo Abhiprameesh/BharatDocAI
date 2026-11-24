@@ -1,0 +1,190 @@
+document_id,language,ocr_engine,field,expected,whole_text_similarity,line_similarity,matched_line,supporting_engines,previous_status,experiment2_status
+english_certificate_022,english,tesseract,grade,A+,0.6667,0.25, Grade:,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+english_certificate_023,english,tesseract,grade,B+,0.6667,0.0667,Certificate Number CERT-0023,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_031,hindi,tesseract,date,31/01/2026,0.75,0.4444,चालान दिनांक: 34/04/2026,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_031,hindi,tesseract,document_id,INV-0031,0.4615,0.24,चालान संख्या: ]9४-003॥,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_031,hindi,easyocr,document_id,INV-0031,0.9231,0.9231,IN//-0031,paddleocr,cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_invoice_031,hindi,paddleocr,name,मीरा रेड्डी,0.9,0.9,मीरा रेडी,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_invoice_032,hindi,tesseract,date,01/02/2026,0.875,0.5185,चालान दिनांक: 04/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_invoice_032,hindi,tesseract,document_id,INV-0032,0.6154,0.3077,चालान संख्या: ]9५४-0032,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_032,hindi,easyocr,document_id,INV-0032,0.7692,0.7143,1N0/-0032,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_032,hindi,easyocr,address,मैसूर,0.4,0.1429,कुल राशिः,"tesseract, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_032,hindi,paddleocr,name,अर्जुन वर्मा,0.9565,0.9565,अर्जन वर्मा,"tesseract, easyocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_invoice_033,hindi,tesseract,document_id,INV-0033,0.6154,0.32,चालान संख्या ]9४-0033,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_033,hindi,tesseract,amount,6021,0.8571,0.4, कुल राशि 602॥,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_invoice_033,hindi,easyocr,name,रवि जोशी,0.6667,0.6667,जोशी,"tesseract, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_033,hindi,easyocr,document_id,INV-0033,0.7692,0.7143,1N0/-0033,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_034,hindi,tesseract,document_id,INV-0034,0.6154,0.3077,चालान संख्या ॥9५४-0034,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_034,hindi,tesseract,amount,6158,0.8571,0.4286, कुल राशि 658,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_invoice_034,hindi,easyocr,document_id,INV-0034,0.7692,0.7143,1N0/-0034,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_035,hindi,tesseract,document_id,INV-0035,0.6154,0.4706,क्‍9५५४-0035,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_035,hindi,easyocr,document_id,INV-0035,0.7692,0.7143,1N/`/-0035,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_036,hindi,tesseract,document_id,INV-0036,0.6154,0.5, क्‍॥३४-0036,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_036,hindi,easyocr,document_id,INV-0036,0.7692,0.7143,1N0/-0036,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_invoice_036,hindi,paddleocr,address,शिवमोग्गा,0.8235,0.875,शिवमोगा,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_041,hindi,tesseract,date,10/02/2026,0.9333,0.9333, 0/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_application_041,hindi,tesseract,document_id,APP-0041,0.4615,0.4, 2077-0044,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_application_041,hindi,tesseract,phone,9000005617,0.9,0.9, 9000005647,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_application_041,hindi,paddleocr,address,बेंगलुरु,0.9333,0.9333,बेंगलुर,"tesseract, easyocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_application_042,hindi,tesseract,date,11/02/2026,0.8,0.8, 4/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_042,hindi,tesseract,document_id,APP-0042,0.6154,0.5714, 277-0042,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_application_042,hindi,easyocr,name,राहुल रेड्डी,0.5455,0.5,राहल,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_application_042,hindi,easyocr,document_id,APP-0042,0.9231,0.8571,^PP-0042,paddleocr,cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_042,hindi,easyocr,address,मैसूर,0.4444,0.2222,राहल,"tesseract, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_application_042,hindi,paddleocr,name,राहुल रेड्डी,0.8696,0.8696,राहुल रेड़ी,tesseract,cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_043,hindi,tesseract,date,12/02/2026,0.9333,0.5385,आवेदन दिनांक 2/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_043,hindi,tesseract,document_id,APP-0043,0.6154,0.32,आवेदन संख्या /77?-0043,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_application_043,hindi,tesseract,phone,9000005891,0.9474,0.6923, फोन नंबर 900000589|,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_043,hindi,easyocr,name,स्नेहा मेनन,0.9,0.9,नेहा मेनन,"tesseract, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_044,hindi,tesseract,date,13/02/2026,0.9333,0.5385,आवेदन दिनांक 3/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_044,hindi,tesseract,document_id,APP-0044,0.6154,0.3077,आवेदन संख्या #77?-0044,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_application_045,hindi,tesseract,date,14/02/2026,0.9333,0.9333,4/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_application_045,hindi,tesseract,document_id,APP-0045,0.6154,0.5,+727?-0045,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_application_045,hindi,tesseract,phone,9000006165,0.9,0.9,9000006465,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_application_046,hindi,tesseract,date,15/02/2026,0.9333,0.5185, 2. आवेदन दिनांक: 5/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_application_046,hindi,tesseract,document_id,APP-0046,0.6154,0.3077,3. आवेदन संख्या: /77?-0046,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_application_046,hindi,paddleocr,address,शिवमोग्गा,0.8235,0.875,शिवमोगा,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+hindi_certificate_051,hindi,tesseract,document_id,CERT-0051,0.4,0.3333, (छारशा-0054,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_051,hindi,tesseract,grade,A,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_051,hindi,easyocr,grade,A,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_051,hindi,paddleocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,0.9655,0.9655,राष्रीय प्रौद्योगिकी संस्थान,"tesseract, easyocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_certificate_052,hindi,tesseract,date,21/02/2026,0.9333,0.9333, 2/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_certificate_052,hindi,tesseract,document_id,CERT-0052,0.5333,0.4211, (छ&ारशा-0052,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_052,hindi,tesseract,grade,A+,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_052,hindi,easyocr,grade,A+,0.6667,0.5,/+,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_053,hindi,tesseract,document_id,CERT-0053,0.5333,0.2424, प्रमाण पत्र संख्या (छारा-0053,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_053,hindi,tesseract,grade,B+,0.6667,0.1818,श्रेणी 8+,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_053,hindi,easyocr,name,रवि शर्मा,0.7059,0.7143,शर्मा,"tesseract, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_053,hindi,easyocr,grade,B+,0.6667,0.5,8+,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_054,hindi,tesseract,document_id,CERT-0054,0.5333,0.2424,प्रमाण पत्र संख्या (छारा-0054,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_054,hindi,tesseract,grade,B,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_054,hindi,easyocr,grade,B,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_055,hindi,tesseract,document_id,CERT-0055,0.5333,0.5,(६ाश-0055,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_055,hindi,tesseract,grade,Distinction,0.0,0.0,,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_055,hindi,easyocr,document_id,CERT-0055,0.6667,0.625,CERT 0OS५,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_055,hindi,paddleocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,0.9655,0.9655,राष्रीय प्रौद्योगिकी संस्थान,"tesseract, easyocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+hindi_certificate_056,hindi,tesseract,document_id,CERT-0056,0.5333,0.2353, 3. प्रमाण पत्र संख्या: (छारा-0056,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_056,hindi,tesseract,grade,A,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+hindi_certificate_056,hindi,easyocr,grade,A,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_061,kannada,tesseract,document_id,INV-0061,0.6154,0.6154, 11/-0061,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_061,kannada,easyocr,document_id,INV-0061,0.9231,0.8571,[NV-0061,,fuzzy_only_candidate,unavailable_or_uncertain
+kannada_invoice_061,kannada,paddleocr,name,ಕಿರಣ್ ಮೆನನ್,0.9,0.9,ಕಿರಣ್ಮನನ್,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_061,kannada,paddleocr,date,02/03/2026,0.8235,0.8889,02 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_061,kannada,paddleocr,document_id,INV-0061,0.6154,0.5714,INV-OO6 I,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_061,kannada,paddleocr,amount,9857,0.5714,0.5,೨೯57,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_062,kannada,tesseract,document_id,INV-0062,0.6154,0.5714, 111-0062,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_062,kannada,easyocr,document_id,INV-0062,0.9231,0.8571,[NV-0062,,fuzzy_only_candidate,unavailable_or_uncertain
+kannada_invoice_062,kannada,paddleocr,name,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,0.5,0.6, ಸೀಹಾರೆಡ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_062,kannada,paddleocr,date,03/03/2026,0.8,0.6667,O310312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_062,kannada,paddleocr,document_id,INV-0062,0.7143,0.7143,INV-OO62,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_062,kannada,paddleocr,address,ಮೈಸೂರು,0.8333,0.8333,ಮೃಸೂರು,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_062,kannada,paddleocr,amount,9994,0.0,0.0,,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_063,kannada,tesseract,document_id,INV-0063,0.6154,0.2759,ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 111-0063,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_063,kannada,easyocr,document_id,INV-0063,0.9231,0.8571,[NV-0063,,fuzzy_only_candidate,unavailable_or_uncertain
+kannada_invoice_063,kannada,paddleocr,name,ಕಿರಣ್ ರೆಡ್ಡಿ,0.6364,0.7368,ಕಿರಣ್ರಡ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_063,kannada,paddleocr,date,04/03/2026,0.8235,0.7778,O4 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_063,kannada,paddleocr,document_id,INV-0063,0.6154,0.6154,INV-OO6,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_064,kannada,tesseract,document_id,INV-0064,0.6154,0.2963,ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ 1/-0064,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_064,kannada,easyocr,document_id,INV-0064,0.9231,0.8571,[NV-0064,,fuzzy_only_candidate,unavailable_or_uncertain
+kannada_invoice_064,kannada,easyocr,address,ಹುಬ್ಬಳ್ಳಿ,0.5882,0.7143,ಹುಬ್ಬ,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_064,kannada,paddleocr,name,ಅನನ್ಯಾ ಮೆನನ್,0.7273,0.7619,ಅನನಾ.ಮನನ್,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_064,kannada,paddleocr,date,05/03/2026,0.8235,0.7778,O510312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_064,kannada,paddleocr,document_id,INV-0064,0.6154,0.5714,INV-OO6A,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_064,kannada,paddleocr,address,ಹುಬ್ಬಳ್ಳಿ,0.5882,0.7143,ಹುಬಳಿ,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_064,kannada,paddleocr,amount,10268,0.8889,0.8,1026೯,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_065,kannada,tesseract,document_id,INV-0065,0.6154,0.5714,111/-0065,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_065,kannada,easyocr,document_id,INV-0065,0.9231,0.8571,[NV-0065,,fuzzy_only_candidate,unavailable_or_uncertain
+kannada_invoice_065,kannada,paddleocr,name,ಕಿರಣ್ ಸಿಂಗ್,0.8,0.8,ಕಿರಣ್ನಂಗ್,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_065,kannada,paddleocr,date,06/03/2026,0.8235,0.8889,06 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_065,kannada,paddleocr,document_id,INV-0065,0.6154,0.6154,INV-OO6,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_065,kannada,paddleocr,address,ಬೆಳಗಾವಿ,0.7692,0.7692,ಬೆಳಗಾಏ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_066,kannada,tesseract,document_id,INV-0066,0.6154,0.6154, 11/-0066,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_066,kannada,easyocr,name,ಪ್ರಿಯಾ ಮೆನನ್,0.75,0.8,ಯಾ ಮೆನನ್,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_066,kannada,easyocr,document_id,INV-0066,0.9231,0.8571,[NV-0066,,fuzzy_only_candidate,unavailable_or_uncertain
+kannada_invoice_066,kannada,paddleocr,name,ಪ್ರಿಯಾ ಮೆನನ್,0.5833,0.6,ಏೃಯಾಮನನ್,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_066,kannada,paddleocr,date,07/03/2026,0.8235,0.7778,O7 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_invoice_066,kannada,paddleocr,document_id,INV-0066,0.6154,0.6154,INV-OO6.,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_invoice_066,kannada,paddleocr,address,ಶಿವಮೊಗ್ಗ,0.5333,0.6154,ಶವವೊಗ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_071,kannada,tesseract,document_id,APP-0071,0.4615,0.2, ದೂರವಾಣಿ ಸಂಖ್ಯೆ: 9000009727,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_071,kannada,paddleocr,name,ಅರ್ಜುನ್ ನಾಯರ್,0.8333,0.8333,ಅಜು೯ನ್ನಾಯರ್,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_application_071,kannada,paddleocr,date,12/03/2026,0.6667,0.4444,1210312025,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_071,kannada,paddleocr,document_id,APP-0071,0.4615,0.4286,APP-OOT I,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_071,kannada,paddleocr,phone,9000009727,0.9474,0.9,೨000009727,"tesseract, easyocr",cross_ocr_fuzzy_candidate,recoverable_candidate
+kannada_application_072,kannada,tesseract,document_id,APP-0072,0.4615,0.2308,ಅರ್ಜಿ ದಿನಾಂಕ: 13/03/2026,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_072,kannada,paddleocr,name,ಪ್ರಿಯಾ ನಾಯರ್,0.6667,0.6667,ಏೃಯಾನಾಯರ್,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_072,kannada,paddleocr,date,13/03/2026,0.8235,0.7778,1310312025,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_application_072,kannada,paddleocr,document_id,APP-0072,0.7143,0.7143,APP-OO72,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_072,kannada,paddleocr,address,ಮೈಸೂರು,0.8333,0.8333,ಮೃಸೂರು,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_application_072,kannada,paddleocr,phone,9000009864,0.4444,0.4211,೧O0OO09ಢ6,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_073,kannada,tesseract,document_id,APP-0073,0.3077,0.1818,ಅರ್ಜಿ ದಿನಾಂಕ 14/03/2026 ಅರ್ಜಿ ಸಂಖ್ಯೆ &೧೧-೦೦73,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_073,kannada,easyocr,name,ಅನನ್ಯಾ ಪಟೇಲ್,0.5455,0.6667,ಅನನ್ಯಾ,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_073,kannada,paddleocr,name,ಅನನ್ಯಾ ಪಟೇಲ್,0.8182,0.8571,ಅನನಾಪಟೇಲ್,tesseract,cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_application_073,kannada,paddleocr,date,14/03/2026,0.875,0.8889,14 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_application_073,kannada,paddleocr,document_id,APP-0073,0.7143,0.7143,APP-OO73,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_073,kannada,paddleocr,phone,9000010001,0.3333,0.3,14 10312026,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_074,kannada,tesseract,document_id,APP-0074,0.3077,0.1818,ಅರ್ಜಿ ದಿನಾಂಕ 15/03/2026 ಅರ್ಜಿ ಸಂಖ್ಯೆ ೦೧೧-೦೦74,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_074,kannada,easyocr,address,ಹುಬ್ಬಳ್ಳಿ,0.7059,0.8,ಹುಬ್ಬಳ,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_074,kannada,paddleocr,name,ಪ್ರಿಯಾ ಸಿಂಗ್,0.5217,0.5,ಏೃಯಾನಂಗ್,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_074,kannada,paddleocr,date,15/03/2026,0.875,0.8889,15 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_application_074,kannada,paddleocr,document_id,APP-0074,0.7143,0.7143,APP-OO7 4,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_074,kannada,paddleocr,address,ಹುಬ್ಬಳ್ಳಿ,0.5882,0.7143,ಹುಬಳಿ,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_074,kannada,paddleocr,phone,9000010138,0.7778,0.7,೨0O001013ಃ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_075,kannada,tesseract,document_id,APP-0075,0.6154,0.4706,9000010275,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_075,kannada,easyocr,name,ಅನನ್ಯಾ ಸಿಂಗ್,0.5455,0.6667,ಅನನ್ಯಾ,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_075,kannada,paddleocr,name,ಅನನ್ಯಾ ಸಿಂಗ್,0.6364,0.6667,ಅನನಾ.ನಂಗ್,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_075,kannada,paddleocr,date,16/03/2026,0.875,0.8889,16 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_application_075,kannada,paddleocr,document_id,APP-0075,0.5714,0.5714,APP-OOT5,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_075,kannada,paddleocr,address,ಬೆಳಗಾವಿ,0.7692,0.7692,ಬೆಳಗಾಏ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_075,kannada,paddleocr,phone,9000010275,0.5556,0.5,YOOOO10275,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_076,kannada,tesseract,document_id,APP-0076,0.6154,0.5333, ಓಿ00-0076,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_076,kannada,paddleocr,name,ರಾಹುಲ್ ರೆಡ್ಡಿ,0.75,0.8182,ರಾಹುಲ್ರೆಡ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_076,kannada,paddleocr,date,17/03/2026,0.875,0.8889,17 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_application_076,kannada,paddleocr,document_id,APP-0076,0.7143,0.7143,APP-OO76,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_076,kannada,paddleocr,address,ಶಿವಮೊಗ್ಗ,0.5333,0.6154,ಶವವೊಗ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_application_076,kannada,paddleocr,phone,9000010412,0.4444,0.4,17 10312026,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_081,kannada,tesseract,document_id,CERT-0081,0.5333,0.5, ೮೯೯1-0081,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_081,kannada,tesseract,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,0.92,0.92, ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂ,,fuzzy_only_candidate,unavailable_or_uncertain
+kannada_certificate_081,kannada,tesseract,grade,A,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_081,kannada,easyocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,0.963,0.963,ರಾಷ್ಕ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,,fuzzy_only_candidate,unavailable_or_uncertain
+kannada_certificate_081,kannada,easyocr,grade,A,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_081,kannada,paddleocr,name,ಮೀರಾ ಶರ್ಮಾ,0.5556,0.5556,ಏುರಾಶಮಾನ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_081,kannada,paddleocr,date,22/03/2026,0.8235,0.8889,22 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_certificate_081,kannada,paddleocr,document_id,CERT-0081,0.6667,0.625,CERT-OO8 I,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_081,kannada,paddleocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,0.5306,0.619,ರಾವೀಯತಂತೃಜಾನಸಂಸ,,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_082,kannada,tesseract,document_id,CERT-0082,0.5333,0.5, ೮೯೯1-0082,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_082,kannada,tesseract,grade,A+,0.0,0.0,,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_082,kannada,easyocr,name,ಅನನ್ಯಾ ನಾಯರ್,0.5455,0.6667,ಅನನ್ಯಾ,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_082,kannada,paddleocr,name,ಅನನ್ಯಾ ನಾಯರ್,0.8182,0.8182,ಅನನಾ.ನಾಯರ್,tesseract,cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_certificate_082,kannada,paddleocr,date,23/03/2026,0.8235,0.8889,2310312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_certificate_082,kannada,paddleocr,document_id,CERT-0082,0.75,0.75,CERT-OO82,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_082,kannada,paddleocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,0.6,0.6486,ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_082,kannada,paddleocr,grade,A+,0.6667,0.5,At,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_083,kannada,tesseract,document_id,CERT-0083,0.5333,0.25,ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೫7-0083,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_083,kannada,tesseract,grade,B+,0.0,0.0,,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_083,kannada,paddleocr,name,ರವಿ ಜೋಶಿ,0.5333,0.4615,ರಏಜೋ೩,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_083,kannada,paddleocr,date,24/03/2026,0.8235,0.8889,24 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_certificate_083,kannada,paddleocr,document_id,CERT-0083,0.75,0.75,CERT-OO83,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_083,kannada,paddleocr,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,0.5556,0.5882,ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾ.ಲಯ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_083,kannada,paddleocr,grade,B+,0.6667,0.5,Bt,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_084,kannada,tesseract,document_id,CERT-0084,0.4,0.1875,ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೦೯೯7-೦084,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_084,kannada,tesseract,grade,B,0.0,0.0,,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_084,kannada,easyocr,name,ವಿಕ್ರಮ್ ರಾವ್,0.7273,0.7368,ವಿಕ್ರಮ್,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_084,kannada,paddleocr,name,ವಿಕ್ರಮ್ ರಾವ್,0.6364,0.6667,ಏಕೃಮ್ರಾವ್,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_084,kannada,paddleocr,date,25/03/2026,0.8235,0.8889,25 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_certificate_084,kannada,paddleocr,document_id,CERT-0084,0.75,0.75,CERT-OO84,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_084,kannada,paddleocr,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,0.6207,0.6923,ನಗರ೫ಕಣಮಂಡಳ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_085,kannada,tesseract,document_id,CERT-0085,0.5333,0.5, ೮೯೧1-0085,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_085,kannada,tesseract,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,0.8163,0.8333, ಬೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,easyocr,cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_certificate_085,kannada,tesseract,grade,Distinction,0.0,0.0,,"easyocr, paddleocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_085,kannada,paddleocr,name,ಸ್ನೇಹಾ ವರ್ಮಾ,0.5455,0.6,ಸೀಹಾವಮಾನ,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_085,kannada,paddleocr,date,26/03/2026,0.8235,0.8889,26 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_certificate_085,kannada,paddleocr,document_id,CERT-0085,0.5333,0.5333,CERT-OO೯,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_085,kannada,paddleocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,0.2449,0.2273,ಸೀಹಾವಮಾನ ನಡದಏನಾಂಕ,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_086,kannada,tesseract,document_id,CERT-0086,0.5333,0.5, ೮೯೯1-0086,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_086,kannada,tesseract,grade,A,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_086,kannada,easyocr,name,ದಿವ್ಯಾ ಶರ್ಮಾ,0.6364,0.7368,ದಿವ್ಯಾ್,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_086,kannada,easyocr,grade,A,0.0,0.0,,paddleocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_086,kannada,paddleocr,name,ದಿವ್ಯಾ ಶರ್ಮಾ,0.5455,0.6316,ದವಾಶಮಾನ,tesseract,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_086,kannada,paddleocr,date,27/03/2026,0.8235,0.8889,27 10312026,"tesseract, easyocr",cross_ocr_fuzzy_candidate,unavailable_or_uncertain
+kannada_certificate_086,kannada,paddleocr,document_id,CERT-0086,0.75,0.75,CERT-OO86,easyocr,unavailable_or_uncertain,unavailable_or_uncertain
+kannada_certificate_086,kannada,paddleocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,0.6,0.6486,ಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು,"tesseract, easyocr",unavailable_or_uncertain,unavailable_or_uncertain

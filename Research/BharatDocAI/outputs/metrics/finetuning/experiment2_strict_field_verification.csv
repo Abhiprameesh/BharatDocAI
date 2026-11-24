@@ -1,0 +1,20 @@
+document_id,language,ocr_engine,field,expected,extracted_near_label,label,exact_context_match,independent_ocr_support,supporting_engines,eligible_for_further_review
+hindi_application_041,hindi,tesseract,date,10/02/2026,आवेदन संख्या:,आवेदन दिनांक,False,True,"easyocr, paddleocr",False
+hindi_application_041,hindi,tesseract,phone,9000005617,ः,फोन नंबर,False,True,"easyocr, paddleocr",False
+hindi_application_043,hindi,tesseract,date,12/02/2026,2/02/2026,आवेदन दिनांक,False,True,"easyocr, paddleocr",False
+hindi_application_043,hindi,tesseract,phone,9000005891,900000589|,फोन नंबर,False,True,"easyocr, paddleocr",False
+hindi_application_044,hindi,tesseract,date,13/02/2026,3/02/2026,आवेदन दिनांक,False,True,"easyocr, paddleocr",False
+hindi_application_045,hindi,tesseract,date,14/02/2026,4/02/2026,आवेदन दिनांक,False,True,"easyocr, paddleocr",False
+hindi_application_045,hindi,tesseract,phone,9000006165,9000006465,फोन नंबर,False,True,"easyocr, paddleocr",False
+hindi_application_046,hindi,tesseract,date,15/02/2026,2. : 5/02/2026,आवेदन दिनांक,False,True,"easyocr, paddleocr",False
+hindi_certificate_052,hindi,tesseract,date,21/02/2026,प्रमाण पत्र संख्या:,जारी करने की तारीख,False,True,"easyocr, paddleocr",False
+hindi_application_042,hindi,easyocr,document_id,APP-0042,ः,आवेदन संख्या,False,True,paddleocr,False
+hindi_application_043,hindi,easyocr,name,स्नेहा मेनन,नेहा मेनन,आवेदक का नाम,False,True,"tesseract, paddleocr",False
+hindi_invoice_031,hindi,easyocr,document_id,INV-0031,ः,चालान संख्या,False,True,paddleocr,False
+hindi_application_041,hindi,paddleocr,address,बेंगलुरु,बेंगलुर,पता,False,True,"tesseract, easyocr",False
+hindi_certificate_051,hindi,paddleocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,ः,संस्थान,False,True,"tesseract, easyocr",False
+hindi_certificate_055,hindi,paddleocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,,संस्थान,False,True,"tesseract, easyocr",False
+hindi_invoice_031,hindi,paddleocr,name,मीरा रेड्डी,चालान दिनांक:,ग्राहक का नाम,False,True,"tesseract, easyocr",False
+hindi_invoice_032,hindi,paddleocr,name,अर्जुन वर्मा,चालान दिनांक:,ग्राहक का नाम,False,True,"tesseract, easyocr",False
+kannada_application_071,kannada,paddleocr,phone,9000009727,,,False,True,"tesseract, easyocr",False
+kannada_invoice_061,kannada,paddleocr,name,ಕಿರಣ್ ಮೆನನ್,ಗಾಹಕರಃ,ಹೆಸರು,False,True,"tesseract, easyocr",False

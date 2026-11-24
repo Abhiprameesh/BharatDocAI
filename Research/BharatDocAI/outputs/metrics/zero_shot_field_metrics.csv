@@ -1,0 +1,41 @@
+language,engine,field,expected,predicted,correct,missing
+english,Tesseract,name,Ravi Kumar,Ravi Kumar,True,False
+english,Tesseract,date,12/08/2026,12/08/2026,True,False
+english,Tesseract,invoice_number,INV-1045,INV-1045,True,False
+english,Tesseract,address,Bengaluru,Bengaluru,True,False
+english,Tesseract,amount,2500,2500,True,False
+hindi,Tesseract,name,रवि कुमार,,False,True
+hindi,Tesseract,date,12/08/2026,,False,True
+hindi,Tesseract,invoice_number,INV-1045,,False,True
+hindi,Tesseract,address,बेंगलुरु,बेंगलुरु,True,False
+hindi,Tesseract,amount,2500,2500,True,False
+kannada,Tesseract,name,ರವಿ ಕುಮಾರ್,,False,True
+kannada,Tesseract,date,12/08/2026,,False,True
+kannada,Tesseract,invoice_number,INV-1045,,False,True
+kannada,Tesseract,address,ಬೆಂಗಳೂರು,బెంగళూరు,False,False
+kannada,Tesseract,amount,2500,2500,True,False
+english,EasyOCR,name,Ravi Kumar,Ravi Kumar,True,False
+english,EasyOCR,date,12/08/2026,12/08/2026,True,False
+english,EasyOCR,invoice_number,INV-1045,INV-1045,True,False
+english,EasyOCR,address,Bengaluru,Bengaluru,True,False
+english,EasyOCR,amount,2500,2500,True,False
+hindi,EasyOCR,name,रवि कुमार,,False,True
+hindi,EasyOCR,date,12/08/2026,12/08/2026,True,False
+hindi,EasyOCR,invoice_number,INV-1045,DD-1045,False,False
+hindi,EasyOCR,address,बेंगलुरु,बेंगलुरु,True,False
+hindi,EasyOCR,amount,2500,2500,True,False
+kannada,EasyOCR,name,ರವಿ ಕುಮಾರ್,,False,True
+kannada,EasyOCR,date,12/08/2026,,False,True
+kannada,EasyOCR,invoice_number,INV-1045,,False,True
+kannada,EasyOCR,address,ಬೆಂಗಳೂರು,బెంగలూరు,False,False
+kannada,EasyOCR,amount,2500,2500,True,False
+english,PaddleOCR,name,Ravi Kumar,Ravi Kumar,True,False
+english,PaddleOCR,date,12/08/2026,12/08/2026,True,False
+english,PaddleOCR,invoice_number,INV-1045,INV-1045,True,False
+english,PaddleOCR,address,Bengaluru,Bengaluru,True,False
+english,PaddleOCR,amount,2500,2500,True,False
+hindi,PaddleOCR,name,रवि कुमार,,False,True
+hindi,PaddleOCR,date,12/08/2026,,False,True
+hindi,PaddleOCR,invoice_number,INV-1045,,False,True
+hindi,PaddleOCR,address,बेंगलुरु,,False,True
+hindi,PaddleOCR,amount,2500,,False,True

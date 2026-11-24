@@ -1,0 +1,23 @@
+{
+    "english": {
+        "name": "Ravi Kumar",
+        "date": "12/08/2026",
+        "invoice_number": "INV-1045",
+        "address": "Bengaluru",
+        "amount": "2500"
+    },
+    "hindi": {
+        "name": "रवि कुमार",
+        "date": "12/08/2026",
+        "invoice_number": "INV-1045",
+        "address": "बेंगलुरु",
+        "amount": "2500"
+    },
+    "kannada": {
+        "name": "ರವಿ ಕುಮಾರ್",
+        "date": "12/08/2026",
+        "invoice_number": "INV-1045",
+        "address": "ಬೆಂಗಳೂರು",
+        "amount": "2500"
+    }
+}

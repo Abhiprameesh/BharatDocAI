@@ -1,0 +1,163 @@
+document_id,language,category,ocr_engine,supported_fields,masked_fields,supported_count,masked_count
+english_invoice_001,english,invoice,tesseract,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_002,english,invoice,tesseract,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_003,english,invoice,tesseract,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_004,english,invoice,tesseract,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_005,english,invoice,tesseract,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_006,english,invoice,tesseract,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_application_011,english,application,tesseract,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_012,english,application,tesseract,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_013,english,application,tesseract,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_014,english,application,tesseract,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_015,english,application,tesseract,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_016,english,application,tesseract,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_certificate_021,english,certificate,tesseract,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_022,english,certificate,tesseract,"['name', 'date', 'document_id', 'institution']",['grade'],4,1
+english_certificate_023,english,certificate,tesseract,"['name', 'date', 'document_id', 'institution']",['grade'],4,1
+english_certificate_024,english,certificate,tesseract,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_025,english,certificate,tesseract,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_026,english,certificate,tesseract,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+hindi_invoice_031,hindi,invoice,tesseract,"['name', 'address', 'amount']","['date', 'document_id']",3,2
+hindi_invoice_032,hindi,invoice,tesseract,"['name', 'address', 'amount']","['date', 'document_id']",3,2
+hindi_invoice_033,hindi,invoice,tesseract,"['name', 'date', 'address']","['document_id', 'amount']",3,2
+hindi_invoice_034,hindi,invoice,tesseract,"['name', 'date', 'address']","['document_id', 'amount']",3,2
+hindi_invoice_035,hindi,invoice,tesseract,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+hindi_invoice_036,hindi,invoice,tesseract,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+hindi_application_041,hindi,application,tesseract,"['name', 'address']","['date', 'document_id', 'phone']",2,3
+hindi_application_042,hindi,application,tesseract,"['name', 'address', 'phone']","['date', 'document_id']",3,2
+hindi_application_043,hindi,application,tesseract,"['name', 'address']","['date', 'document_id', 'phone']",2,3
+hindi_application_044,hindi,application,tesseract,"['name', 'address', 'phone']","['date', 'document_id']",3,2
+hindi_application_045,hindi,application,tesseract,"['name', 'address']","['date', 'document_id', 'phone']",2,3
+hindi_application_046,hindi,application,tesseract,"['name', 'address', 'phone']","['date', 'document_id']",3,2
+hindi_certificate_051,hindi,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+hindi_certificate_052,hindi,certificate,tesseract,"['name', 'institution']","['date', 'document_id', 'grade']",2,3
+hindi_certificate_053,hindi,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+hindi_certificate_054,hindi,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+hindi_certificate_055,hindi,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+hindi_certificate_056,hindi,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+kannada_invoice_061,kannada,invoice,tesseract,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_062,kannada,invoice,tesseract,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_063,kannada,invoice,tesseract,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_064,kannada,invoice,tesseract,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_065,kannada,invoice,tesseract,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_066,kannada,invoice,tesseract,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_application_071,kannada,application,tesseract,"['name', 'date', 'address', 'phone']",['document_id'],4,1
+kannada_application_072,kannada,application,tesseract,"['name', 'date', 'address', 'phone']",['document_id'],4,1
+kannada_application_073,kannada,application,tesseract,"['name', 'date', 'address', 'phone']",['document_id'],4,1
+kannada_application_074,kannada,application,tesseract,"['name', 'date', 'address', 'phone']",['document_id'],4,1
+kannada_application_075,kannada,application,tesseract,"['name', 'date', 'address', 'phone']",['document_id'],4,1
+kannada_application_076,kannada,application,tesseract,"['name', 'date', 'address', 'phone']",['document_id'],4,1
+kannada_certificate_081,kannada,certificate,tesseract,"['name', 'date']","['document_id', 'institution', 'grade']",2,3
+kannada_certificate_082,kannada,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+kannada_certificate_083,kannada,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+kannada_certificate_084,kannada,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+kannada_certificate_085,kannada,certificate,tesseract,"['name', 'date']","['document_id', 'institution', 'grade']",2,3
+kannada_certificate_086,kannada,certificate,tesseract,"['name', 'date', 'institution']","['document_id', 'grade']",3,2
+english_application_011,english,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_012,english,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_013,english,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_014,english,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_015,english,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_016,english,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_certificate_021,english,certificate,easyocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_022,english,certificate,easyocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_023,english,certificate,easyocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_024,english,certificate,easyocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_025,english,certificate,easyocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_026,english,certificate,easyocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_invoice_001,english,invoice,easyocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_002,english,invoice,easyocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_003,english,invoice,easyocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_004,english,invoice,easyocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_005,english,invoice,easyocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_006,english,invoice,easyocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+hindi_application_041,hindi,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+hindi_application_042,hindi,application,easyocr,"['date', 'phone']","['name', 'document_id', 'address']",2,3
+hindi_application_043,hindi,application,easyocr,"['date', 'document_id', 'address', 'phone']",['name'],4,1
+hindi_application_044,hindi,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+hindi_application_045,hindi,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+hindi_application_046,hindi,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+hindi_certificate_051,hindi,certificate,easyocr,"['name', 'date', 'document_id', 'institution']",['grade'],4,1
+hindi_certificate_052,hindi,certificate,easyocr,"['name', 'date', 'document_id', 'institution']",['grade'],4,1
+hindi_certificate_053,hindi,certificate,easyocr,"['date', 'document_id', 'institution']","['name', 'grade']",3,2
+hindi_certificate_054,hindi,certificate,easyocr,"['name', 'date', 'document_id', 'institution']",['grade'],4,1
+hindi_certificate_055,hindi,certificate,easyocr,"['name', 'date', 'institution', 'grade']",['document_id'],4,1
+hindi_certificate_056,hindi,certificate,easyocr,"['name', 'date', 'document_id', 'institution']",['grade'],4,1
+hindi_invoice_031,hindi,invoice,easyocr,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+hindi_invoice_032,hindi,invoice,easyocr,"['name', 'date', 'amount']","['document_id', 'address']",3,2
+hindi_invoice_033,hindi,invoice,easyocr,"['date', 'address', 'amount']","['name', 'document_id']",3,2
+hindi_invoice_034,hindi,invoice,easyocr,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+hindi_invoice_035,hindi,invoice,easyocr,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+hindi_invoice_036,hindi,invoice,easyocr,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_application_071,kannada,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+kannada_application_072,kannada,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+kannada_application_073,kannada,application,easyocr,"['date', 'document_id', 'address', 'phone']",['name'],4,1
+kannada_application_074,kannada,application,easyocr,"['name', 'date', 'document_id', 'phone']",['address'],4,1
+kannada_application_075,kannada,application,easyocr,"['date', 'document_id', 'address', 'phone']",['name'],4,1
+kannada_application_076,kannada,application,easyocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+kannada_certificate_081,kannada,certificate,easyocr,"['name', 'date', 'document_id']","['institution', 'grade']",3,2
+kannada_certificate_082,kannada,certificate,easyocr,"['date', 'document_id', 'institution', 'grade']",['name'],4,1
+kannada_certificate_083,kannada,certificate,easyocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+kannada_certificate_084,kannada,certificate,easyocr,"['date', 'document_id', 'institution', 'grade']",['name'],4,1
+kannada_certificate_085,kannada,certificate,easyocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+kannada_certificate_086,kannada,certificate,easyocr,"['date', 'document_id', 'institution']","['name', 'grade']",3,2
+kannada_invoice_061,kannada,invoice,easyocr,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_062,kannada,invoice,easyocr,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_063,kannada,invoice,easyocr,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_064,kannada,invoice,easyocr,"['name', 'date', 'amount']","['document_id', 'address']",3,2
+kannada_invoice_065,kannada,invoice,easyocr,"['name', 'date', 'address', 'amount']",['document_id'],4,1
+kannada_invoice_066,kannada,invoice,easyocr,"['date', 'address', 'amount']","['name', 'document_id']",3,2
+english_application_011,english,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_012,english,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_013,english,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_014,english,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_015,english,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_application_016,english,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+english_certificate_021,english,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_022,english,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_023,english,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_024,english,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_025,english,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_certificate_026,english,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+english_invoice_001,english,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_002,english,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_003,english,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_004,english,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_005,english,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+english_invoice_006,english,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+hindi_application_041,hindi,application,paddleocr,"['name', 'date', 'document_id', 'phone']",['address'],4,1
+hindi_application_042,hindi,application,paddleocr,"['date', 'document_id', 'address', 'phone']",['name'],4,1
+hindi_application_043,hindi,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+hindi_application_044,hindi,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+hindi_application_045,hindi,application,paddleocr,"['name', 'date', 'document_id', 'address', 'phone']",[],5,0
+hindi_application_046,hindi,application,paddleocr,"['name', 'date', 'document_id', 'phone']",['address'],4,1
+hindi_certificate_051,hindi,certificate,paddleocr,"['name', 'date', 'document_id', 'grade']",['institution'],4,1
+hindi_certificate_052,hindi,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+hindi_certificate_053,hindi,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+hindi_certificate_054,hindi,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+hindi_certificate_055,hindi,certificate,paddleocr,"['name', 'date', 'document_id', 'grade']",['institution'],4,1
+hindi_certificate_056,hindi,certificate,paddleocr,"['name', 'date', 'document_id', 'institution', 'grade']",[],5,0
+hindi_invoice_031,hindi,invoice,paddleocr,"['date', 'document_id', 'address', 'amount']",['name'],4,1
+hindi_invoice_032,hindi,invoice,paddleocr,"['date', 'document_id', 'address', 'amount']",['name'],4,1
+hindi_invoice_033,hindi,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+hindi_invoice_034,hindi,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+hindi_invoice_035,hindi,invoice,paddleocr,"['name', 'date', 'document_id', 'address', 'amount']",[],5,0
+hindi_invoice_036,hindi,invoice,paddleocr,"['name', 'date', 'document_id', 'amount']",['address'],4,1
+kannada_application_071,kannada,application,paddleocr,['address'],"['name', 'date', 'document_id', 'phone']",1,4
+kannada_application_072,kannada,application,paddleocr,[],"['name', 'date', 'document_id', 'address', 'phone']",0,5
+kannada_application_073,kannada,application,paddleocr,['address'],"['name', 'date', 'document_id', 'phone']",1,4
+kannada_application_074,kannada,application,paddleocr,[],"['name', 'date', 'document_id', 'address', 'phone']",0,5
+kannada_application_075,kannada,application,paddleocr,[],"['name', 'date', 'document_id', 'address', 'phone']",0,5
+kannada_application_076,kannada,application,paddleocr,[],"['name', 'date', 'document_id', 'address', 'phone']",0,5
+kannada_certificate_081,kannada,certificate,paddleocr,['grade'],"['name', 'date', 'document_id', 'institution']",1,4
+kannada_certificate_082,kannada,certificate,paddleocr,[],"['name', 'date', 'document_id', 'institution', 'grade']",0,5
+kannada_certificate_083,kannada,certificate,paddleocr,[],"['name', 'date', 'document_id', 'institution', 'grade']",0,5
+kannada_certificate_084,kannada,certificate,paddleocr,['grade'],"['name', 'date', 'document_id', 'institution']",1,4
+kannada_certificate_085,kannada,certificate,paddleocr,['grade'],"['name', 'date', 'document_id', 'institution']",1,4
+kannada_certificate_086,kannada,certificate,paddleocr,['grade'],"['name', 'date', 'document_id', 'institution']",1,4
+kannada_invoice_061,kannada,invoice,paddleocr,['address'],"['name', 'date', 'document_id', 'amount']",1,4
+kannada_invoice_062,kannada,invoice,paddleocr,[],"['name', 'date', 'document_id', 'address', 'amount']",0,5
+kannada_invoice_063,kannada,invoice,paddleocr,"['address', 'amount']","['name', 'date', 'document_id']",2,3
+kannada_invoice_064,kannada,invoice,paddleocr,[],"['name', 'date', 'document_id', 'address', 'amount']",0,5
+kannada_invoice_065,kannada,invoice,paddleocr,['amount'],"['name', 'date', 'document_id', 'address']",1,4
+kannada_invoice_066,kannada,invoice,paddleocr,['amount'],"['name', 'date', 'document_id', 'address']",1,4

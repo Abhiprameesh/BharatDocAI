@@ -1,0 +1,2 @@
+model,experiment,documents_evaluated,correct_fields,total_fields,overall_field_accuracy,exact_document_match_rate,json_validity_rate,missing_field_rate
+Qwen3-1.7B,zero_shot,8,22,40,0.55,0.375,1.0,0.375

@@ -1,0 +1,13 @@
+{
+    "model": "Qwen/Qwen3-4B",
+    "experiment": "few_shot",
+    "demonstrations": 9,
+    "validation_documents": 18,
+    "document_engine_evaluations": 54,
+    "total_fields": 270,
+    "valid_json": 54,
+    "valid_schemas": 54,
+    "raw_field_accuracy": 72.96,
+    "normalized_field_accuracy": 77.04,
+    "normalized_exact_document_match": 42.59
+}

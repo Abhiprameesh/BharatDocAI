@@ -1,0 +1,10 @@
+document_id,ocr_engine,field,expected,zero_shot,zero_shot_correct,few_shot,few_shot_correct,lora,lora_correct
+hindi_invoice_037,tesseract,date,06/02/2026,06/02/2026,True,06/02/2026,True,,False
+hindi_invoice_037,tesseract,amount,6569,6569,True,6569,True,,False
+hindi_application_047,tesseract,name,राहुल मेनन,राहुल मेनन,True,राहुल मेनन,True,,False
+hindi_application_047,tesseract,address,तुमकुरु,तुमकुरु,True,तुमकुरु,True,,False
+hindi_application_047,tesseract,phone,9000006439,9000006439,True,9000006439,True,,False
+hindi_certificate_058,tesseract,date,27/02/2026,27/02/2026,True,27/02/2026,True,,False
+hindi_application_047,easyocr,name,राहुल मेनन,राहुल मेनन,True,राहुल मेनन,True,,False
+hindi_application_047,paddleocr,name,राहुल मेनन,राहुल मेनन,True,राहुल मेनन,True,,False
+hindi_invoice_037,paddleocr,address,तुमकुरु,तुमकुरु,True,तुमकुरु,True,,False

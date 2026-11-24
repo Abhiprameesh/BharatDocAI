@@ -1,0 +1,54 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit runtime data
+.streamlit/*
+!.streamlit/config.toml
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Large model binaries & checkpoint weights (>50MB GitHub limit)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+
+# Bulky synthetic degraded image variants (667 MB / 1,350 images)
+# Note: Manifests and raw clean documents are retained for research transparency
+Research/BharatDocAI/data/processed/degraded/
+!Research/BharatDocAI/data/processed/degradation_manifest.csv
+!Research/BharatDocAI/data/processed/dataset_manifest.csv
+
+# Temporary outputs & logs
+*.log
+tmp/
+temp/
+outputs/temp/

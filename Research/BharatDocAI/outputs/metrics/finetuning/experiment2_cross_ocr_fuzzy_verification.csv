@@ -1,0 +1,811 @@
+document_id,language,category,ocr_engine,field,expected,current_exact_match,best_similarity,best_ocr_candidate,supporting_engines,status
+english_invoice_001,english,invoice,tesseract,name,Kiran Rao,True,1.0,kiranrao,"easyocr, paddleocr",exact_supported
+english_invoice_001,english,invoice,tesseract,date,01/01/2026,True,1.0,01/01/2026,"easyocr, paddleocr",exact_supported
+english_invoice_001,english,invoice,tesseract,document_id,INV-0001,True,1.0,inv-0001,"easyocr, paddleocr",exact_supported
+english_invoice_001,english,invoice,tesseract,address,Bengaluru,True,1.0,bengaluru,"easyocr, paddleocr",exact_supported
+english_invoice_001,english,invoice,tesseract,amount,1637,True,1.0,1637,"easyocr, paddleocr",exact_supported
+english_invoice_001,english,invoice,easyocr,name,Kiran Rao,True,1.0,kiranrao,"tesseract, paddleocr",exact_supported
+english_invoice_001,english,invoice,easyocr,date,01/01/2026,True,1.0,01/01/2026,"tesseract, paddleocr",exact_supported
+english_invoice_001,english,invoice,easyocr,document_id,INV-0001,True,1.0,inv-0001,"tesseract, paddleocr",exact_supported
+english_invoice_001,english,invoice,easyocr,address,Bengaluru,True,1.0,bengaluru,"tesseract, paddleocr",exact_supported
+english_invoice_001,english,invoice,easyocr,amount,1637,True,1.0,1637,"tesseract, paddleocr",exact_supported
+english_invoice_001,english,invoice,paddleocr,name,Kiran Rao,True,1.0,kiranrao,"tesseract, easyocr",exact_supported
+english_invoice_001,english,invoice,paddleocr,date,01/01/2026,True,1.0,01/01/2026,"tesseract, easyocr",exact_supported
+english_invoice_001,english,invoice,paddleocr,document_id,INV-0001,True,1.0,inv-0001,"tesseract, easyocr",exact_supported
+english_invoice_001,english,invoice,paddleocr,address,Bengaluru,True,1.0,bengaluru,"tesseract, easyocr",exact_supported
+english_invoice_001,english,invoice,paddleocr,amount,1637,True,1.0,1637,"tesseract, easyocr",exact_supported
+english_invoice_002,english,invoice,tesseract,name,Kiran Sharma,True,1.0,kiransharma,"easyocr, paddleocr",exact_supported
+english_invoice_002,english,invoice,tesseract,date,02/01/2026,True,1.0,02/01/2026,"easyocr, paddleocr",exact_supported
+english_invoice_002,english,invoice,tesseract,document_id,INV-0002,True,1.0,inv-0002,"easyocr, paddleocr",exact_supported
+english_invoice_002,english,invoice,tesseract,address,Mysuru,True,1.0,mysuru,"easyocr, paddleocr",exact_supported
+english_invoice_002,english,invoice,tesseract,amount,1774,True,1.0,1774,"easyocr, paddleocr",exact_supported
+english_invoice_002,english,invoice,easyocr,name,Kiran Sharma,True,1.0,kiransharma,"tesseract, paddleocr",exact_supported
+english_invoice_002,english,invoice,easyocr,date,02/01/2026,True,1.0,02/01/2026,"tesseract, paddleocr",exact_supported
+english_invoice_002,english,invoice,easyocr,document_id,INV-0002,True,1.0,inv-0002,"tesseract, paddleocr",exact_supported
+english_invoice_002,english,invoice,easyocr,address,Mysuru,True,1.0,mysuru,"tesseract, paddleocr",exact_supported
+english_invoice_002,english,invoice,easyocr,amount,1774,True,1.0,1774,"tesseract, paddleocr",exact_supported
+english_invoice_002,english,invoice,paddleocr,name,Kiran Sharma,True,1.0,kiransharma,"tesseract, easyocr",exact_supported
+english_invoice_002,english,invoice,paddleocr,date,02/01/2026,True,1.0,02/01/2026,"tesseract, easyocr",exact_supported
+english_invoice_002,english,invoice,paddleocr,document_id,INV-0002,True,1.0,inv-0002,"tesseract, easyocr",exact_supported
+english_invoice_002,english,invoice,paddleocr,address,Mysuru,True,1.0,mysuru,"tesseract, easyocr",exact_supported
+english_invoice_002,english,invoice,paddleocr,amount,1774,True,1.0,1774,"tesseract, easyocr",exact_supported
+english_invoice_003,english,invoice,tesseract,name,Divya Sharma,True,1.0,divyasharma,"easyocr, paddleocr",exact_supported
+english_invoice_003,english,invoice,tesseract,date,03/01/2026,True,1.0,03/01/2026,"easyocr, paddleocr",exact_supported
+english_invoice_003,english,invoice,tesseract,document_id,INV-0003,True,1.0,inv-0003,"easyocr, paddleocr",exact_supported
+english_invoice_003,english,invoice,tesseract,address,Mangaluru,True,1.0,mangaluru,"easyocr, paddleocr",exact_supported
+english_invoice_003,english,invoice,tesseract,amount,1911,True,1.0,1911,"easyocr, paddleocr",exact_supported
+english_invoice_003,english,invoice,easyocr,name,Divya Sharma,True,1.0,divyasharma,"tesseract, paddleocr",exact_supported
+english_invoice_003,english,invoice,easyocr,date,03/01/2026,True,1.0,03/01/2026,"tesseract, paddleocr",exact_supported
+english_invoice_003,english,invoice,easyocr,document_id,INV-0003,True,1.0,inv-0003,"tesseract, paddleocr",exact_supported
+english_invoice_003,english,invoice,easyocr,address,Mangaluru,True,1.0,mangaluru,"tesseract, paddleocr",exact_supported
+english_invoice_003,english,invoice,easyocr,amount,1911,True,1.0,1911,"tesseract, paddleocr",exact_supported
+english_invoice_003,english,invoice,paddleocr,name,Divya Sharma,True,1.0,divyasharma,"tesseract, easyocr",exact_supported
+english_invoice_003,english,invoice,paddleocr,date,03/01/2026,True,1.0,03/01/2026,"tesseract, easyocr",exact_supported
+english_invoice_003,english,invoice,paddleocr,document_id,INV-0003,True,1.0,inv-0003,"tesseract, easyocr",exact_supported
+english_invoice_003,english,invoice,paddleocr,address,Mangaluru,True,1.0,mangaluru,"tesseract, easyocr",exact_supported
+english_invoice_003,english,invoice,paddleocr,amount,1911,True,1.0,1911,"tesseract, easyocr",exact_supported
+english_invoice_004,english,invoice,tesseract,name,Ravi Menon,True,1.0,ravimenon,"easyocr, paddleocr",exact_supported
+english_invoice_004,english,invoice,tesseract,date,04/01/2026,True,1.0,04/01/2026,"easyocr, paddleocr",exact_supported
+english_invoice_004,english,invoice,tesseract,document_id,INV-0004,True,1.0,inv-0004,"easyocr, paddleocr",exact_supported
+english_invoice_004,english,invoice,tesseract,address,Hubballi,True,1.0,hubballi,"easyocr, paddleocr",exact_supported
+english_invoice_004,english,invoice,tesseract,amount,2048,True,1.0,2048,"easyocr, paddleocr",exact_supported
+english_invoice_004,english,invoice,easyocr,name,Ravi Menon,True,1.0,ravimenon,"tesseract, paddleocr",exact_supported
+english_invoice_004,english,invoice,easyocr,date,04/01/2026,True,1.0,04/01/2026,"tesseract, paddleocr",exact_supported
+english_invoice_004,english,invoice,easyocr,document_id,INV-0004,True,1.0,inv-0004,"tesseract, paddleocr",exact_supported
+english_invoice_004,english,invoice,easyocr,address,Hubballi,True,1.0,hubballi,"tesseract, paddleocr",exact_supported
+english_invoice_004,english,invoice,easyocr,amount,2048,True,1.0,2048,"tesseract, paddleocr",exact_supported
+english_invoice_004,english,invoice,paddleocr,name,Ravi Menon,True,1.0,ravimenon,"tesseract, easyocr",exact_supported
+english_invoice_004,english,invoice,paddleocr,date,04/01/2026,True,1.0,04/01/2026,"tesseract, easyocr",exact_supported
+english_invoice_004,english,invoice,paddleocr,document_id,INV-0004,True,1.0,inv-0004,"tesseract, easyocr",exact_supported
+english_invoice_004,english,invoice,paddleocr,address,Hubballi,True,1.0,hubballi,"tesseract, easyocr",exact_supported
+english_invoice_004,english,invoice,paddleocr,amount,2048,True,1.0,2048,"tesseract, easyocr",exact_supported
+english_invoice_005,english,invoice,tesseract,name,Rahul Joshi,True,1.0,rahuljoshi,"easyocr, paddleocr",exact_supported
+english_invoice_005,english,invoice,tesseract,date,05/01/2026,True,1.0,05/01/2026,"easyocr, paddleocr",exact_supported
+english_invoice_005,english,invoice,tesseract,document_id,INV-0005,True,1.0,inv-0005,"easyocr, paddleocr",exact_supported
+english_invoice_005,english,invoice,tesseract,address,Belagavi,True,1.0,belagavi,"easyocr, paddleocr",exact_supported
+english_invoice_005,english,invoice,tesseract,amount,2185,True,1.0,2185,"easyocr, paddleocr",exact_supported
+english_invoice_005,english,invoice,easyocr,name,Rahul Joshi,True,1.0,rahuljoshi,"tesseract, paddleocr",exact_supported
+english_invoice_005,english,invoice,easyocr,date,05/01/2026,True,1.0,05/01/2026,"tesseract, paddleocr",exact_supported
+english_invoice_005,english,invoice,easyocr,document_id,INV-0005,True,1.0,inv-0005,"tesseract, paddleocr",exact_supported
+english_invoice_005,english,invoice,easyocr,address,Belagavi,True,1.0,belagavi,"tesseract, paddleocr",exact_supported
+english_invoice_005,english,invoice,easyocr,amount,2185,True,1.0,2185,"tesseract, paddleocr",exact_supported
+english_invoice_005,english,invoice,paddleocr,name,Rahul Joshi,True,1.0,rahuljoshi,"tesseract, easyocr",exact_supported
+english_invoice_005,english,invoice,paddleocr,date,05/01/2026,True,1.0,05/01/2026,"tesseract, easyocr",exact_supported
+english_invoice_005,english,invoice,paddleocr,document_id,INV-0005,True,1.0,inv-0005,"tesseract, easyocr",exact_supported
+english_invoice_005,english,invoice,paddleocr,address,Belagavi,True,1.0,belagavi,"tesseract, easyocr",exact_supported
+english_invoice_005,english,invoice,paddleocr,amount,2185,True,1.0,2185,"tesseract, easyocr",exact_supported
+english_invoice_006,english,invoice,tesseract,name,Meera Kumar,True,1.0,meerakumar,"easyocr, paddleocr",exact_supported
+english_invoice_006,english,invoice,tesseract,date,06/01/2026,True,1.0,06/01/2026,"easyocr, paddleocr",exact_supported
+english_invoice_006,english,invoice,tesseract,document_id,INV-0006,True,1.0,inv-0006,"easyocr, paddleocr",exact_supported
+english_invoice_006,english,invoice,tesseract,address,Shivamogga,True,1.0,shivamogga,"easyocr, paddleocr",exact_supported
+english_invoice_006,english,invoice,tesseract,amount,2322,True,1.0,2322,"easyocr, paddleocr",exact_supported
+english_invoice_006,english,invoice,easyocr,name,Meera Kumar,True,1.0,meerakumar,"tesseract, paddleocr",exact_supported
+english_invoice_006,english,invoice,easyocr,date,06/01/2026,True,1.0,06/01/2026,"tesseract, paddleocr",exact_supported
+english_invoice_006,english,invoice,easyocr,document_id,INV-0006,True,1.0,inv-0006,"tesseract, paddleocr",exact_supported
+english_invoice_006,english,invoice,easyocr,address,Shivamogga,True,1.0,shivamogga,"tesseract, paddleocr",exact_supported
+english_invoice_006,english,invoice,easyocr,amount,2322,True,1.0,2322,"tesseract, paddleocr",exact_supported
+english_invoice_006,english,invoice,paddleocr,name,Meera Kumar,True,1.0,meerakumar,"tesseract, easyocr",exact_supported
+english_invoice_006,english,invoice,paddleocr,date,06/01/2026,True,1.0,06/01/2026,"tesseract, easyocr",exact_supported
+english_invoice_006,english,invoice,paddleocr,document_id,INV-0006,True,1.0,inv-0006,"tesseract, easyocr",exact_supported
+english_invoice_006,english,invoice,paddleocr,address,Shivamogga,True,1.0,shivamogga,"tesseract, easyocr",exact_supported
+english_invoice_006,english,invoice,paddleocr,amount,2322,True,1.0,2322,"tesseract, easyocr",exact_supported
+english_application_011,english,application,tesseract,name,Sneha Nair,True,1.0,snehanair,"easyocr, paddleocr",exact_supported
+english_application_011,english,application,tesseract,date,11/01/2026,True,1.0,11/01/2026,"easyocr, paddleocr",exact_supported
+english_application_011,english,application,tesseract,document_id,APP-0011,True,1.0,app-0011,"easyocr, paddleocr",exact_supported
+english_application_011,english,application,tesseract,address,Bengaluru,True,1.0,bengaluru,"easyocr, paddleocr",exact_supported
+english_application_011,english,application,tesseract,phone,9000001507,True,1.0,9000001507,"easyocr, paddleocr",exact_supported
+english_application_011,english,application,easyocr,name,Sneha Nair,True,1.0,snehanair,"tesseract, paddleocr",exact_supported
+english_application_011,english,application,easyocr,date,11/01/2026,True,1.0,11/01/2026,"tesseract, paddleocr",exact_supported
+english_application_011,english,application,easyocr,document_id,APP-0011,True,1.0,app-0011,"tesseract, paddleocr",exact_supported
+english_application_011,english,application,easyocr,address,Bengaluru,True,1.0,bengaluru,"tesseract, paddleocr",exact_supported
+english_application_011,english,application,easyocr,phone,9000001507,True,1.0,9000001507,"tesseract, paddleocr",exact_supported
+english_application_011,english,application,paddleocr,name,Sneha Nair,True,1.0,snehanair,"tesseract, easyocr",exact_supported
+english_application_011,english,application,paddleocr,date,11/01/2026,True,1.0,11/01/2026,"tesseract, easyocr",exact_supported
+english_application_011,english,application,paddleocr,document_id,APP-0011,True,1.0,app-0011,"tesseract, easyocr",exact_supported
+english_application_011,english,application,paddleocr,address,Bengaluru,True,1.0,bengaluru,"tesseract, easyocr",exact_supported
+english_application_011,english,application,paddleocr,phone,9000001507,True,1.0,9000001507,"tesseract, easyocr",exact_supported
+english_application_012,english,application,tesseract,name,Ananya Kumar,True,1.0,ananyakumar,"easyocr, paddleocr",exact_supported
+english_application_012,english,application,tesseract,date,12/01/2026,True,1.0,12/01/2026,"easyocr, paddleocr",exact_supported
+english_application_012,english,application,tesseract,document_id,APP-0012,True,1.0,app-0012,"easyocr, paddleocr",exact_supported
+english_application_012,english,application,tesseract,address,Mysuru,True,1.0,mysuru,"easyocr, paddleocr",exact_supported
+english_application_012,english,application,tesseract,phone,9000001644,True,1.0,9000001644,"easyocr, paddleocr",exact_supported
+english_application_012,english,application,easyocr,name,Ananya Kumar,True,1.0,ananyakumar,"tesseract, paddleocr",exact_supported
+english_application_012,english,application,easyocr,date,12/01/2026,True,1.0,12/01/2026,"tesseract, paddleocr",exact_supported
+english_application_012,english,application,easyocr,document_id,APP-0012,True,1.0,app-0012,"tesseract, paddleocr",exact_supported
+english_application_012,english,application,easyocr,address,Mysuru,True,1.0,mysuru,"tesseract, paddleocr",exact_supported
+english_application_012,english,application,easyocr,phone,9000001644,True,1.0,9000001644,"tesseract, paddleocr",exact_supported
+english_application_012,english,application,paddleocr,name,Ananya Kumar,True,1.0,ananyakumar,"tesseract, easyocr",exact_supported
+english_application_012,english,application,paddleocr,date,12/01/2026,True,1.0,12/01/2026,"tesseract, easyocr",exact_supported
+english_application_012,english,application,paddleocr,document_id,APP-0012,True,1.0,app-0012,"tesseract, easyocr",exact_supported
+english_application_012,english,application,paddleocr,address,Mysuru,True,1.0,mysuru,"tesseract, easyocr",exact_supported
+english_application_012,english,application,paddleocr,phone,9000001644,True,1.0,9000001644,"tesseract, easyocr",exact_supported
+english_application_013,english,application,tesseract,name,Meera Joshi,True,1.0,meerajoshi,"easyocr, paddleocr",exact_supported
+english_application_013,english,application,tesseract,date,13/01/2026,True,1.0,13/01/2026,"easyocr, paddleocr",exact_supported
+english_application_013,english,application,tesseract,document_id,APP-0013,True,1.0,app-0013,"easyocr, paddleocr",exact_supported
+english_application_013,english,application,tesseract,address,Mangaluru,True,1.0,mangaluru,"easyocr, paddleocr",exact_supported
+english_application_013,english,application,tesseract,phone,9000001781,True,1.0,9000001781,"easyocr, paddleocr",exact_supported
+english_application_013,english,application,easyocr,name,Meera Joshi,True,1.0,meerajoshi,"tesseract, paddleocr",exact_supported
+english_application_013,english,application,easyocr,date,13/01/2026,True,1.0,13/01/2026,"tesseract, paddleocr",exact_supported
+english_application_013,english,application,easyocr,document_id,APP-0013,True,1.0,app-0013,"tesseract, paddleocr",exact_supported
+english_application_013,english,application,easyocr,address,Mangaluru,True,1.0,mangaluru,"tesseract, paddleocr",exact_supported
+english_application_013,english,application,easyocr,phone,9000001781,True,1.0,9000001781,"tesseract, paddleocr",exact_supported
+english_application_013,english,application,paddleocr,name,Meera Joshi,True,1.0,meerajoshi,"tesseract, easyocr",exact_supported
+english_application_013,english,application,paddleocr,date,13/01/2026,True,1.0,13/01/2026,"tesseract, easyocr",exact_supported
+english_application_013,english,application,paddleocr,document_id,APP-0013,True,1.0,app-0013,"tesseract, easyocr",exact_supported
+english_application_013,english,application,paddleocr,address,Mangaluru,True,1.0,mangaluru,"tesseract, easyocr",exact_supported
+english_application_013,english,application,paddleocr,phone,9000001781,True,1.0,9000001781,"tesseract, easyocr",exact_supported
+english_application_014,english,application,tesseract,name,Meera Verma,True,1.0,meeraverma,"easyocr, paddleocr",exact_supported
+english_application_014,english,application,tesseract,date,14/01/2026,True,1.0,14/01/2026,"easyocr, paddleocr",exact_supported
+english_application_014,english,application,tesseract,document_id,APP-0014,True,1.0,app-0014,"easyocr, paddleocr",exact_supported
+english_application_014,english,application,tesseract,address,Hubballi,True,1.0,hubballi,"easyocr, paddleocr",exact_supported
+english_application_014,english,application,tesseract,phone,9000001918,True,1.0,9000001918,"easyocr, paddleocr",exact_supported
+english_application_014,english,application,easyocr,name,Meera Verma,True,1.0,meeraverma,"tesseract, paddleocr",exact_supported
+english_application_014,english,application,easyocr,date,14/01/2026,True,1.0,14/01/2026,"tesseract, paddleocr",exact_supported
+english_application_014,english,application,easyocr,document_id,APP-0014,True,1.0,app-0014,"tesseract, paddleocr",exact_supported
+english_application_014,english,application,easyocr,address,Hubballi,True,1.0,hubballi,"tesseract, paddleocr",exact_supported
+english_application_014,english,application,easyocr,phone,9000001918,True,1.0,9000001918,"tesseract, paddleocr",exact_supported
+english_application_014,english,application,paddleocr,name,Meera Verma,True,1.0,meeraverma,"tesseract, easyocr",exact_supported
+english_application_014,english,application,paddleocr,date,14/01/2026,True,1.0,14/01/2026,"tesseract, easyocr",exact_supported
+english_application_014,english,application,paddleocr,document_id,APP-0014,True,1.0,app-0014,"tesseract, easyocr",exact_supported
+english_application_014,english,application,paddleocr,address,Hubballi,True,1.0,hubballi,"tesseract, easyocr",exact_supported
+english_application_014,english,application,paddleocr,phone,9000001918,True,1.0,9000001918,"tesseract, easyocr",exact_supported
+english_application_015,english,application,tesseract,name,Sneha Rao,True,1.0,sneharao,"easyocr, paddleocr",exact_supported
+english_application_015,english,application,tesseract,date,15/01/2026,True,1.0,15/01/2026,"easyocr, paddleocr",exact_supported
+english_application_015,english,application,tesseract,document_id,APP-0015,True,1.0,app-0015,"easyocr, paddleocr",exact_supported
+english_application_015,english,application,tesseract,address,Belagavi,True,1.0,belagavi,"easyocr, paddleocr",exact_supported
+english_application_015,english,application,tesseract,phone,9000002055,True,1.0,9000002055,"easyocr, paddleocr",exact_supported
+english_application_015,english,application,easyocr,name,Sneha Rao,True,1.0,sneharao,"tesseract, paddleocr",exact_supported
+english_application_015,english,application,easyocr,date,15/01/2026,True,1.0,15/01/2026,"tesseract, paddleocr",exact_supported
+english_application_015,english,application,easyocr,document_id,APP-0015,True,1.0,app-0015,"tesseract, paddleocr",exact_supported
+english_application_015,english,application,easyocr,address,Belagavi,True,1.0,belagavi,"tesseract, paddleocr",exact_supported
+english_application_015,english,application,easyocr,phone,9000002055,True,1.0,9000002055,"tesseract, paddleocr",exact_supported
+english_application_015,english,application,paddleocr,name,Sneha Rao,True,1.0,sneharao,"tesseract, easyocr",exact_supported
+english_application_015,english,application,paddleocr,date,15/01/2026,True,1.0,15/01/2026,"tesseract, easyocr",exact_supported
+english_application_015,english,application,paddleocr,document_id,APP-0015,True,1.0,app-0015,"tesseract, easyocr",exact_supported
+english_application_015,english,application,paddleocr,address,Belagavi,True,1.0,belagavi,"tesseract, easyocr",exact_supported
+english_application_015,english,application,paddleocr,phone,9000002055,True,1.0,9000002055,"tesseract, easyocr",exact_supported
+english_application_016,english,application,tesseract,name,Kiran Joshi,True,1.0,kiranjoshi,"easyocr, paddleocr",exact_supported
+english_application_016,english,application,tesseract,date,16/01/2026,True,1.0,16/01/2026,"easyocr, paddleocr",exact_supported
+english_application_016,english,application,tesseract,document_id,APP-0016,True,1.0,app-0016,"easyocr, paddleocr",exact_supported
+english_application_016,english,application,tesseract,address,Shivamogga,True,1.0,shivamogga,"easyocr, paddleocr",exact_supported
+english_application_016,english,application,tesseract,phone,9000002192,True,1.0,9000002192,"easyocr, paddleocr",exact_supported
+english_application_016,english,application,easyocr,name,Kiran Joshi,True,1.0,kiranjoshi,"tesseract, paddleocr",exact_supported
+english_application_016,english,application,easyocr,date,16/01/2026,True,1.0,16/01/2026,"tesseract, paddleocr",exact_supported
+english_application_016,english,application,easyocr,document_id,APP-0016,True,1.0,app-0016,"tesseract, paddleocr",exact_supported
+english_application_016,english,application,easyocr,address,Shivamogga,True,1.0,shivamogga,"tesseract, paddleocr",exact_supported
+english_application_016,english,application,easyocr,phone,9000002192,True,1.0,9000002192,"tesseract, paddleocr",exact_supported
+english_application_016,english,application,paddleocr,name,Kiran Joshi,True,1.0,kiranjoshi,"tesseract, easyocr",exact_supported
+english_application_016,english,application,paddleocr,date,16/01/2026,True,1.0,16/01/2026,"tesseract, easyocr",exact_supported
+english_application_016,english,application,paddleocr,document_id,APP-0016,True,1.0,app-0016,"tesseract, easyocr",exact_supported
+english_application_016,english,application,paddleocr,address,Shivamogga,True,1.0,shivamogga,"tesseract, easyocr",exact_supported
+english_application_016,english,application,paddleocr,phone,9000002192,True,1.0,9000002192,"tesseract, easyocr",exact_supported
+english_certificate_021,english,certificate,tesseract,name,Priya Kumar,True,1.0,priyakumar,"easyocr, paddleocr",exact_supported
+english_certificate_021,english,certificate,tesseract,date,21/01/2026,True,1.0,21/01/2026,"easyocr, paddleocr",exact_supported
+english_certificate_021,english,certificate,tesseract,document_id,CERT-0021,True,1.0,cert-0021,"easyocr, paddleocr",exact_supported
+english_certificate_021,english,certificate,tesseract,institution,National Institute of Technology,True,1.0,nationalinstituteoftechnology,"easyocr, paddleocr",exact_supported
+english_certificate_021,english,certificate,tesseract,grade,A,True,1.0,a,"easyocr, paddleocr",exact_supported
+english_certificate_021,english,certificate,easyocr,name,Priya Kumar,True,1.0,priyakumar,"tesseract, paddleocr",exact_supported
+english_certificate_021,english,certificate,easyocr,date,21/01/2026,True,1.0,21/01/2026,"tesseract, paddleocr",exact_supported
+english_certificate_021,english,certificate,easyocr,document_id,CERT-0021,True,1.0,cert-0021,"tesseract, paddleocr",exact_supported
+english_certificate_021,english,certificate,easyocr,institution,National Institute of Technology,True,1.0,nationalinstituteoftechnology,"tesseract, paddleocr",exact_supported
+english_certificate_021,english,certificate,easyocr,grade,A,True,1.0,a,"tesseract, paddleocr",exact_supported
+english_certificate_021,english,certificate,paddleocr,name,Priya Kumar,True,1.0,priyakumar,"tesseract, easyocr",exact_supported
+english_certificate_021,english,certificate,paddleocr,date,21/01/2026,True,1.0,21/01/2026,"tesseract, easyocr",exact_supported
+english_certificate_021,english,certificate,paddleocr,document_id,CERT-0021,True,1.0,cert-0021,"tesseract, easyocr",exact_supported
+english_certificate_021,english,certificate,paddleocr,institution,National Institute of Technology,True,1.0,nationalinstituteoftechnology,"tesseract, easyocr",exact_supported
+english_certificate_021,english,certificate,paddleocr,grade,A,True,1.0,a,"tesseract, easyocr",exact_supported
+english_certificate_022,english,certificate,tesseract,name,Arjun Sharma,True,1.0,arjunsharma,"easyocr, paddleocr",exact_supported
+english_certificate_022,english,certificate,tesseract,date,22/01/2026,True,1.0,22/01/2026,"easyocr, paddleocr",exact_supported
+english_certificate_022,english,certificate,tesseract,document_id,CERT-0022,True,1.0,cert-0022,"easyocr, paddleocr",exact_supported
+english_certificate_022,english,certificate,tesseract,institution,Government Science College,True,1.0,governmentsciencecollege,"easyocr, paddleocr",exact_supported
+english_certificate_022,english,certificate,tesseract,grade,A+,False,0.6667,a,"easyocr, paddleocr",unavailable_or_uncertain
+english_certificate_022,english,certificate,easyocr,name,Arjun Sharma,True,1.0,arjunsharma,"tesseract, paddleocr",exact_supported
+english_certificate_022,english,certificate,easyocr,date,22/01/2026,True,1.0,22/01/2026,"tesseract, paddleocr",exact_supported
+english_certificate_022,english,certificate,easyocr,document_id,CERT-0022,True,1.0,cert-0022,"tesseract, paddleocr",exact_supported
+english_certificate_022,english,certificate,easyocr,institution,Government Science College,True,1.0,governmentsciencecollege,"tesseract, paddleocr",exact_supported
+english_certificate_022,english,certificate,easyocr,grade,A+,True,1.0,a+,paddleocr,exact_supported
+english_certificate_022,english,certificate,paddleocr,name,Arjun Sharma,True,1.0,arjunsharma,"tesseract, easyocr",exact_supported
+english_certificate_022,english,certificate,paddleocr,date,22/01/2026,True,1.0,22/01/2026,"tesseract, easyocr",exact_supported
+english_certificate_022,english,certificate,paddleocr,document_id,CERT-0022,True,1.0,cert-0022,"tesseract, easyocr",exact_supported
+english_certificate_022,english,certificate,paddleocr,institution,Government Science College,True,1.0,governmentsciencecollege,"tesseract, easyocr",exact_supported
+english_certificate_022,english,certificate,paddleocr,grade,A+,True,1.0,a+,easyocr,exact_supported
+english_certificate_023,english,certificate,tesseract,name,Priya Rao,True,1.0,priyarao,"easyocr, paddleocr",exact_supported
+english_certificate_023,english,certificate,tesseract,date,23/01/2026,True,1.0,23/01/2026,"easyocr, paddleocr",exact_supported
+english_certificate_023,english,certificate,tesseract,document_id,CERT-0023,True,1.0,cert-0023,"easyocr, paddleocr",exact_supported
+english_certificate_023,english,certificate,tesseract,institution,Karnataka Technical University,True,1.0,karnatakatechnicaluniversity,"easyocr, paddleocr",exact_supported
+english_certificate_023,english,certificate,tesseract,grade,B+,False,0.6667,b,"easyocr, paddleocr",unavailable_or_uncertain
+english_certificate_023,english,certificate,easyocr,name,Priya Rao,True,1.0,priyarao,"tesseract, paddleocr",exact_supported
+english_certificate_023,english,certificate,easyocr,date,23/01/2026,True,1.0,23/01/2026,"tesseract, paddleocr",exact_supported
+english_certificate_023,english,certificate,easyocr,document_id,CERT-0023,True,1.0,cert-0023,"tesseract, paddleocr",exact_supported
+english_certificate_023,english,certificate,easyocr,institution,Karnataka Technical University,True,1.0,karnatakatechnicaluniversity,"tesseract, paddleocr",exact_supported
+english_certificate_023,english,certificate,easyocr,grade,B+,True,1.0,b+,paddleocr,exact_supported
+english_certificate_023,english,certificate,paddleocr,name,Priya Rao,True,1.0,priyarao,"tesseract, easyocr",exact_supported
+english_certificate_023,english,certificate,paddleocr,date,23/01/2026,True,1.0,23/01/2026,"tesseract, easyocr",exact_supported
+english_certificate_023,english,certificate,paddleocr,document_id,CERT-0023,True,1.0,cert-0023,"tesseract, easyocr",exact_supported
+english_certificate_023,english,certificate,paddleocr,institution,Karnataka Technical University,True,1.0,karnatakatechnicaluniversity,"tesseract, easyocr",exact_supported
+english_certificate_023,english,certificate,paddleocr,grade,B+,True,1.0,b+,easyocr,exact_supported
+english_certificate_024,english,certificate,tesseract,name,Divya Verma,True,1.0,divyaverma,"easyocr, paddleocr",exact_supported
+english_certificate_024,english,certificate,tesseract,date,24/01/2026,True,1.0,24/01/2026,"easyocr, paddleocr",exact_supported
+english_certificate_024,english,certificate,tesseract,document_id,CERT-0024,True,1.0,cert-0024,"easyocr, paddleocr",exact_supported
+english_certificate_024,english,certificate,tesseract,institution,City Education Board,True,1.0,cityeducationboard,"easyocr, paddleocr",exact_supported
+english_certificate_024,english,certificate,tesseract,grade,B,True,1.0,b,"easyocr, paddleocr",exact_supported
+english_certificate_024,english,certificate,easyocr,name,Divya Verma,True,1.0,divyaverma,"tesseract, paddleocr",exact_supported
+english_certificate_024,english,certificate,easyocr,date,24/01/2026,True,1.0,24/01/2026,"tesseract, paddleocr",exact_supported
+english_certificate_024,english,certificate,easyocr,document_id,CERT-0024,True,1.0,cert-0024,"tesseract, paddleocr",exact_supported
+english_certificate_024,english,certificate,easyocr,institution,City Education Board,True,1.0,cityeducationboard,"tesseract, paddleocr",exact_supported
+english_certificate_024,english,certificate,easyocr,grade,B,True,1.0,b,"tesseract, paddleocr",exact_supported
+english_certificate_024,english,certificate,paddleocr,name,Divya Verma,True,1.0,divyaverma,"tesseract, easyocr",exact_supported
+english_certificate_024,english,certificate,paddleocr,date,24/01/2026,True,1.0,24/01/2026,"tesseract, easyocr",exact_supported
+english_certificate_024,english,certificate,paddleocr,document_id,CERT-0024,True,1.0,cert-0024,"tesseract, easyocr",exact_supported
+english_certificate_024,english,certificate,paddleocr,institution,City Education Board,True,1.0,cityeducationboard,"tesseract, easyocr",exact_supported
+english_certificate_024,english,certificate,paddleocr,grade,B,True,1.0,b,"tesseract, easyocr",exact_supported
+english_certificate_025,english,certificate,tesseract,name,Vikram Kumar,True,1.0,vikramkumar,"easyocr, paddleocr",exact_supported
+english_certificate_025,english,certificate,tesseract,date,25/01/2026,True,1.0,25/01/2026,"easyocr, paddleocr",exact_supported
+english_certificate_025,english,certificate,tesseract,document_id,CERT-0025,True,1.0,cert-0025,"easyocr, paddleocr",exact_supported
+english_certificate_025,english,certificate,tesseract,institution,National Institute of Technology,True,1.0,nationalinstituteoftechnology,"easyocr, paddleocr",exact_supported
+english_certificate_025,english,certificate,tesseract,grade,Distinction,True,1.0,distinction,"easyocr, paddleocr",exact_supported
+english_certificate_025,english,certificate,easyocr,name,Vikram Kumar,True,1.0,vikramkumar,"tesseract, paddleocr",exact_supported
+english_certificate_025,english,certificate,easyocr,date,25/01/2026,True,1.0,25/01/2026,"tesseract, paddleocr",exact_supported
+english_certificate_025,english,certificate,easyocr,document_id,CERT-0025,True,1.0,cert-0025,"tesseract, paddleocr",exact_supported
+english_certificate_025,english,certificate,easyocr,institution,National Institute of Technology,True,1.0,nationalinstituteoftechnology,"tesseract, paddleocr",exact_supported
+english_certificate_025,english,certificate,easyocr,grade,Distinction,True,1.0,distinction,"tesseract, paddleocr",exact_supported
+english_certificate_025,english,certificate,paddleocr,name,Vikram Kumar,True,1.0,vikramkumar,"tesseract, easyocr",exact_supported
+english_certificate_025,english,certificate,paddleocr,date,25/01/2026,True,1.0,25/01/2026,"tesseract, easyocr",exact_supported
+english_certificate_025,english,certificate,paddleocr,document_id,CERT-0025,True,1.0,cert-0025,"tesseract, easyocr",exact_supported
+english_certificate_025,english,certificate,paddleocr,institution,National Institute of Technology,True,1.0,nationalinstituteoftechnology,"tesseract, easyocr",exact_supported
+english_certificate_025,english,certificate,paddleocr,grade,Distinction,True,1.0,distinction,"tesseract, easyocr",exact_supported
+english_certificate_026,english,certificate,tesseract,name,Kiran Menon,True,1.0,kiranmenon,"easyocr, paddleocr",exact_supported
+english_certificate_026,english,certificate,tesseract,date,26/01/2026,True,1.0,26/01/2026,"easyocr, paddleocr",exact_supported
+english_certificate_026,english,certificate,tesseract,document_id,CERT-0026,True,1.0,cert-0026,"easyocr, paddleocr",exact_supported
+english_certificate_026,english,certificate,tesseract,institution,Government Science College,True,1.0,governmentsciencecollege,"easyocr, paddleocr",exact_supported
+english_certificate_026,english,certificate,tesseract,grade,A,True,1.0,a,"easyocr, paddleocr",exact_supported
+english_certificate_026,english,certificate,easyocr,name,Kiran Menon,True,1.0,kiranmenon,"tesseract, paddleocr",exact_supported
+english_certificate_026,english,certificate,easyocr,date,26/01/2026,True,1.0,26/01/2026,"tesseract, paddleocr",exact_supported
+english_certificate_026,english,certificate,easyocr,document_id,CERT-0026,True,1.0,cert-0026,"tesseract, paddleocr",exact_supported
+english_certificate_026,english,certificate,easyocr,institution,Government Science College,True,1.0,governmentsciencecollege,"tesseract, paddleocr",exact_supported
+english_certificate_026,english,certificate,easyocr,grade,A,True,1.0,a,"tesseract, paddleocr",exact_supported
+english_certificate_026,english,certificate,paddleocr,name,Kiran Menon,True,1.0,kiranmenon,"tesseract, easyocr",exact_supported
+english_certificate_026,english,certificate,paddleocr,date,26/01/2026,True,1.0,26/01/2026,"tesseract, easyocr",exact_supported
+english_certificate_026,english,certificate,paddleocr,document_id,CERT-0026,True,1.0,cert-0026,"tesseract, easyocr",exact_supported
+english_certificate_026,english,certificate,paddleocr,institution,Government Science College,True,1.0,governmentsciencecollege,"tesseract, easyocr",exact_supported
+english_certificate_026,english,certificate,paddleocr,grade,A,True,1.0,a,"tesseract, easyocr",exact_supported
+hindi_invoice_031,hindi,invoice,tesseract,name,मीरा रेड्डी,True,1.0,मीरारेड्डी,easyocr,exact_supported
+hindi_invoice_031,hindi,invoice,tesseract,date,31/01/2026,False,0.8,34/04/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_invoice_031,hindi,invoice,tesseract,document_id,INV-0031,False,0.5714,9४-003,paddleocr,unavailable_or_uncertain
+hindi_invoice_031,hindi,invoice,tesseract,address,बेंगलुरु,True,1.0,बेंगलुरु,"easyocr, paddleocr",exact_supported
+hindi_invoice_031,hindi,invoice,tesseract,amount,5747,True,1.0,5747,"easyocr, paddleocr",exact_supported
+hindi_invoice_031,hindi,invoice,easyocr,name,मीरा रेड्डी,True,1.0,मीरारेड्डी,tesseract,exact_supported
+hindi_invoice_031,hindi,invoice,easyocr,date,31/01/2026,True,1.0,31/01/2026,paddleocr,exact_supported
+hindi_invoice_031,hindi,invoice,easyocr,document_id,INV-0031,False,0.8235,in//-0031,paddleocr,cross_ocr_fuzzy_candidate
+hindi_invoice_031,hindi,invoice,easyocr,address,बेंगलुरु,True,1.0,बेंगलुरु,"tesseract, paddleocr",exact_supported
+hindi_invoice_031,hindi,invoice,easyocr,amount,5747,True,1.0,5747,"tesseract, paddleocr",exact_supported
+hindi_invoice_031,hindi,invoice,paddleocr,name,मीरा रेड्डी,False,0.8889,मीरारेडी,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+hindi_invoice_031,hindi,invoice,paddleocr,date,31/01/2026,True,1.0,31/01/2026,easyocr,exact_supported
+hindi_invoice_031,hindi,invoice,paddleocr,document_id,INV-0031,True,1.0,inv-0031,,exact_supported
+hindi_invoice_031,hindi,invoice,paddleocr,address,बेंगलुरु,True,1.0,बेंगलुरु,"tesseract, easyocr",exact_supported
+hindi_invoice_031,hindi,invoice,paddleocr,amount,5747,True,1.0,5747,"tesseract, easyocr",exact_supported
+hindi_invoice_032,hindi,invoice,tesseract,name,अर्जुन वर्मा,True,1.0,अर्जुनवर्मा,easyocr,exact_supported
+hindi_invoice_032,hindi,invoice,tesseract,date,01/02/2026,False,0.9,04/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_invoice_032,hindi,invoice,tesseract,document_id,INV-0032,False,0.7143,४-0032,paddleocr,unavailable_or_uncertain
+hindi_invoice_032,hindi,invoice,tesseract,address,मैसूर,True,1.0,मैसूर,paddleocr,exact_supported
+hindi_invoice_032,hindi,invoice,tesseract,amount,5884,True,1.0,5884,"easyocr, paddleocr",exact_supported
+hindi_invoice_032,hindi,invoice,easyocr,name,अर्जुन वर्मा,True,1.0,अर्जुनवर्मा,tesseract,exact_supported
+hindi_invoice_032,hindi,invoice,easyocr,date,01/02/2026,True,1.0,01/02/2026,paddleocr,exact_supported
+hindi_invoice_032,hindi,invoice,easyocr,document_id,INV-0032,False,0.75,n0/-0032,paddleocr,unavailable_or_uncertain
+hindi_invoice_032,hindi,invoice,easyocr,address,मैसूर,False,0.4444,मःअर,"tesseract, paddleocr",unavailable_or_uncertain
+hindi_invoice_032,hindi,invoice,easyocr,amount,5884,True,1.0,5884,"tesseract, paddleocr",exact_supported
+hindi_invoice_032,hindi,invoice,paddleocr,name,अर्जुन वर्मा,False,0.9524,अर्जनवर्मा,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+hindi_invoice_032,hindi,invoice,paddleocr,date,01/02/2026,True,1.0,01/02/2026,easyocr,exact_supported
+hindi_invoice_032,hindi,invoice,paddleocr,document_id,INV-0032,True,1.0,inv-0032,,exact_supported
+hindi_invoice_032,hindi,invoice,paddleocr,address,मैसूर,True,1.0,मैसूर,tesseract,exact_supported
+hindi_invoice_032,hindi,invoice,paddleocr,amount,5884,True,1.0,5884,"tesseract, easyocr",exact_supported
+hindi_invoice_033,hindi,invoice,tesseract,name,रवि जोशी,True,1.0,रविजोशी,paddleocr,exact_supported
+hindi_invoice_033,hindi,invoice,tesseract,date,02/02/2026,True,1.0,02/02/2026,"easyocr, paddleocr",exact_supported
+hindi_invoice_033,hindi,invoice,tesseract,document_id,INV-0033,False,0.7143,४-0033,paddleocr,unavailable_or_uncertain
+hindi_invoice_033,hindi,invoice,tesseract,address,मंगलुरु,True,1.0,मंगलुरु,"easyocr, paddleocr",exact_supported
+hindi_invoice_033,hindi,invoice,tesseract,amount,6021,False,0.8571,602,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_invoice_033,hindi,invoice,easyocr,name,रवि जोशी,False,0.6667,मजोशी,"tesseract, paddleocr",unavailable_or_uncertain
+hindi_invoice_033,hindi,invoice,easyocr,date,02/02/2026,True,1.0,02/02/2026,"tesseract, paddleocr",exact_supported
+hindi_invoice_033,hindi,invoice,easyocr,document_id,INV-0033,False,0.75,n0/-0033,paddleocr,unavailable_or_uncertain
+hindi_invoice_033,hindi,invoice,easyocr,address,मंगलुरु,True,1.0,मंगलुरु,"tesseract, paddleocr",exact_supported
+hindi_invoice_033,hindi,invoice,easyocr,amount,6021,True,1.0,6021,paddleocr,exact_supported
+hindi_invoice_033,hindi,invoice,paddleocr,name,रवि जोशी,True,1.0,रविजोशी,tesseract,exact_supported
+hindi_invoice_033,hindi,invoice,paddleocr,date,02/02/2026,True,1.0,02/02/2026,"tesseract, easyocr",exact_supported
+hindi_invoice_033,hindi,invoice,paddleocr,document_id,INV-0033,True,1.0,inv-0033,,exact_supported
+hindi_invoice_033,hindi,invoice,paddleocr,address,मंगलुरु,True,1.0,मंगलुरु,"tesseract, easyocr",exact_supported
+hindi_invoice_033,hindi,invoice,paddleocr,amount,6021,True,1.0,6021,easyocr,exact_supported
+hindi_invoice_034,hindi,invoice,tesseract,name,अनन्या नायर,True,1.0,अनन्यानायर,"easyocr, paddleocr",exact_supported
+hindi_invoice_034,hindi,invoice,tesseract,date,03/02/2026,True,1.0,03/02/2026,"easyocr, paddleocr",exact_supported
+hindi_invoice_034,hindi,invoice,tesseract,document_id,INV-0034,False,0.7143,४-0034,paddleocr,unavailable_or_uncertain
+hindi_invoice_034,hindi,invoice,tesseract,address,हुबली,True,1.0,हुबली,"easyocr, paddleocr",exact_supported
+hindi_invoice_034,hindi,invoice,tesseract,amount,6158,False,0.8571,658,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_invoice_034,hindi,invoice,easyocr,name,अनन्या नायर,True,1.0,अनन्यानायर,"tesseract, paddleocr",exact_supported
+hindi_invoice_034,hindi,invoice,easyocr,date,03/02/2026,True,1.0,03/02/2026,"tesseract, paddleocr",exact_supported
+hindi_invoice_034,hindi,invoice,easyocr,document_id,INV-0034,False,0.75,n0/-0034,paddleocr,unavailable_or_uncertain
+hindi_invoice_034,hindi,invoice,easyocr,address,हुबली,True,1.0,हुबली,"tesseract, paddleocr",exact_supported
+hindi_invoice_034,hindi,invoice,easyocr,amount,6158,True,1.0,6158,paddleocr,exact_supported
+hindi_invoice_034,hindi,invoice,paddleocr,name,अनन्या नायर,True,1.0,अनन्यानायर,"tesseract, easyocr",exact_supported
+hindi_invoice_034,hindi,invoice,paddleocr,date,03/02/2026,True,1.0,03/02/2026,"tesseract, easyocr",exact_supported
+hindi_invoice_034,hindi,invoice,paddleocr,document_id,INV-0034,True,1.0,inv-0034,,exact_supported
+hindi_invoice_034,hindi,invoice,paddleocr,address,हुबली,True,1.0,हुबली,"tesseract, easyocr",exact_supported
+hindi_invoice_034,hindi,invoice,paddleocr,amount,6158,True,1.0,6158,easyocr,exact_supported
+hindi_invoice_035,hindi,invoice,tesseract,name,राहुल शर्मा,True,1.0,राहुलशर्मा,"easyocr, paddleocr",exact_supported
+hindi_invoice_035,hindi,invoice,tesseract,date,04/02/2026,True,1.0,04/02/2026,"easyocr, paddleocr",exact_supported
+hindi_invoice_035,hindi,invoice,tesseract,document_id,INV-0035,False,0.7143,४-0035,paddleocr,unavailable_or_uncertain
+hindi_invoice_035,hindi,invoice,tesseract,address,बेलगावी,True,1.0,बेलगावी,"easyocr, paddleocr",exact_supported
+hindi_invoice_035,hindi,invoice,tesseract,amount,6295,True,1.0,6295,"easyocr, paddleocr",exact_supported
+hindi_invoice_035,hindi,invoice,easyocr,name,राहुल शर्मा,True,1.0,राहुलशर्मा,"tesseract, paddleocr",exact_supported
+hindi_invoice_035,hindi,invoice,easyocr,date,04/02/2026,True,1.0,04/02/2026,"tesseract, paddleocr",exact_supported
+hindi_invoice_035,hindi,invoice,easyocr,document_id,INV-0035,False,0.7143,/-0035,paddleocr,unavailable_or_uncertain
+hindi_invoice_035,hindi,invoice,easyocr,address,बेलगावी,True,1.0,बेलगावी,"tesseract, paddleocr",exact_supported
+hindi_invoice_035,hindi,invoice,easyocr,amount,6295,True,1.0,6295,"tesseract, paddleocr",exact_supported
+hindi_invoice_035,hindi,invoice,paddleocr,name,राहुल शर्मा,True,1.0,राहुलशर्मा,"tesseract, easyocr",exact_supported
+hindi_invoice_035,hindi,invoice,paddleocr,date,04/02/2026,True,1.0,04/02/2026,"tesseract, easyocr",exact_supported
+hindi_invoice_035,hindi,invoice,paddleocr,document_id,INV-0035,True,1.0,inv-0035,,exact_supported
+hindi_invoice_035,hindi,invoice,paddleocr,address,बेलगावी,True,1.0,बेलगावी,"tesseract, easyocr",exact_supported
+hindi_invoice_035,hindi,invoice,paddleocr,amount,6295,True,1.0,6295,"tesseract, easyocr",exact_supported
+hindi_invoice_036,hindi,invoice,tesseract,name,अर्जुन पटेल,True,1.0,अर्जुनपटेल,"easyocr, paddleocr",exact_supported
+hindi_invoice_036,hindi,invoice,tesseract,date,05/02/2026,True,1.0,05/02/2026,"easyocr, paddleocr",exact_supported
+hindi_invoice_036,hindi,invoice,tesseract,document_id,INV-0036,False,0.7143,४-0036,paddleocr,unavailable_or_uncertain
+hindi_invoice_036,hindi,invoice,tesseract,address,शिवमोग्गा,True,1.0,शिवमोग्गा,easyocr,exact_supported
+hindi_invoice_036,hindi,invoice,tesseract,amount,6432,True,1.0,6432,"easyocr, paddleocr",exact_supported
+hindi_invoice_036,hindi,invoice,easyocr,name,अर्जुन पटेल,True,1.0,अर्जुनपटेल,"tesseract, paddleocr",exact_supported
+hindi_invoice_036,hindi,invoice,easyocr,date,05/02/2026,True,1.0,05/02/2026,"tesseract, paddleocr",exact_supported
+hindi_invoice_036,hindi,invoice,easyocr,document_id,INV-0036,False,0.75,n0/-0036,paddleocr,unavailable_or_uncertain
+hindi_invoice_036,hindi,invoice,easyocr,address,शिवमोग्गा,True,1.0,शिवमोग्गा,tesseract,exact_supported
+hindi_invoice_036,hindi,invoice,easyocr,amount,6432,True,1.0,6432,"tesseract, paddleocr",exact_supported
+hindi_invoice_036,hindi,invoice,paddleocr,name,अर्जुन पटेल,True,1.0,अर्जुनपटेल,"tesseract, easyocr",exact_supported
+hindi_invoice_036,hindi,invoice,paddleocr,date,05/02/2026,True,1.0,05/02/2026,"tesseract, easyocr",exact_supported
+hindi_invoice_036,hindi,invoice,paddleocr,document_id,INV-0036,True,1.0,inv-0036,,exact_supported
+hindi_invoice_036,hindi,invoice,paddleocr,address,शिवमोग्गा,False,0.875,शिवमोगा,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+hindi_invoice_036,hindi,invoice,paddleocr,amount,6432,True,1.0,6432,"tesseract, easyocr",exact_supported
+hindi_application_041,hindi,application,tesseract,name,विक्रम जोशी,True,1.0,विक्रमजोशी,"easyocr, paddleocr",exact_supported
+hindi_application_041,hindi,application,tesseract,date,10/02/2026,False,0.9474,0/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_041,hindi,application,tesseract,document_id,APP-0041,False,0.5714,77-004,"easyocr, paddleocr",unavailable_or_uncertain
+hindi_application_041,hindi,application,tesseract,address,बेंगलुरु,True,1.0,बेंगलुरु,easyocr,exact_supported
+hindi_application_041,hindi,application,tesseract,phone,9000005617,False,0.9,9000005647,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_041,hindi,application,easyocr,name,विक्रम जोशी,True,1.0,विक्रमजोशी,"tesseract, paddleocr",exact_supported
+hindi_application_041,hindi,application,easyocr,date,10/02/2026,True,1.0,10/02/2026,paddleocr,exact_supported
+hindi_application_041,hindi,application,easyocr,document_id,APP-0041,True,1.0,app-0041,paddleocr,exact_supported
+hindi_application_041,hindi,application,easyocr,address,बेंगलुरु,True,1.0,बेंगलुरु,tesseract,exact_supported
+hindi_application_041,hindi,application,easyocr,phone,9000005617,True,1.0,9000005617,paddleocr,exact_supported
+hindi_application_041,hindi,application,paddleocr,name,विक्रम जोशी,True,1.0,विक्रमजोशी,"tesseract, easyocr",exact_supported
+hindi_application_041,hindi,application,paddleocr,date,10/02/2026,True,1.0,10/02/2026,easyocr,exact_supported
+hindi_application_041,hindi,application,paddleocr,document_id,APP-0041,True,1.0,app-0041,easyocr,exact_supported
+hindi_application_041,hindi,application,paddleocr,address,बेंगलुरु,False,0.9333,बेंगलुर,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+hindi_application_041,hindi,application,paddleocr,phone,9000005617,True,1.0,9000005617,easyocr,exact_supported
+hindi_application_042,hindi,application,tesseract,name,राहुल रेड्डी,True,1.0,राहुलरेड्डी,,exact_supported
+hindi_application_042,hindi,application,tesseract,date,11/02/2026,False,0.8889,/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_042,hindi,application,tesseract,document_id,APP-0042,False,0.7143,7-0042,paddleocr,unavailable_or_uncertain
+hindi_application_042,hindi,application,tesseract,address,मैसूर,True,1.0,मैसूर,paddleocr,exact_supported
+hindi_application_042,hindi,application,tesseract,phone,9000005754,True,1.0,9000005754,"easyocr, paddleocr",exact_supported
+hindi_application_042,hindi,application,easyocr,name,राहुल रेड्डी,False,0.5,मःराहलआवे,tesseract,unavailable_or_uncertain
+hindi_application_042,hindi,application,easyocr,date,11/02/2026,True,1.0,11/02/2026,paddleocr,exact_supported
+hindi_application_042,hindi,application,easyocr,document_id,APP-0042,False,0.9333,pp-0042,paddleocr,cross_ocr_fuzzy_candidate
+hindi_application_042,hindi,application,easyocr,address,मैसूर,False,0.5,मःर,"tesseract, paddleocr",unavailable_or_uncertain
+hindi_application_042,hindi,application,easyocr,phone,9000005754,True,1.0,9000005754,"tesseract, paddleocr",exact_supported
+hindi_application_042,hindi,application,paddleocr,name,राहुल रेड्डी,False,0.8571,राहुलरेड़ी,tesseract,cross_ocr_fuzzy_candidate
+hindi_application_042,hindi,application,paddleocr,date,11/02/2026,True,1.0,11/02/2026,easyocr,exact_supported
+hindi_application_042,hindi,application,paddleocr,document_id,APP-0042,True,1.0,app-0042,,exact_supported
+hindi_application_042,hindi,application,paddleocr,address,मैसूर,True,1.0,मैसूर,tesseract,exact_supported
+hindi_application_042,hindi,application,paddleocr,phone,9000005754,True,1.0,9000005754,"tesseract, easyocr",exact_supported
+hindi_application_043,hindi,application,tesseract,name,स्नेहा मेनन,True,1.0,स्नेहामेनन,paddleocr,exact_supported
+hindi_application_043,hindi,application,tesseract,date,12/02/2026,False,0.9474,2/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_043,hindi,application,tesseract,document_id,APP-0043,False,0.7143,?-0043,"easyocr, paddleocr",unavailable_or_uncertain
+hindi_application_043,hindi,application,tesseract,address,मंगलुरु,True,1.0,मंगलुरु,"easyocr, paddleocr",exact_supported
+hindi_application_043,hindi,application,tesseract,phone,9000005891,False,0.9474,900000589,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_043,hindi,application,easyocr,name,स्नेहा मेनन,False,0.8889,नेहामेनन,"tesseract, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_043,hindi,application,easyocr,date,12/02/2026,True,1.0,12/02/2026,paddleocr,exact_supported
+hindi_application_043,hindi,application,easyocr,document_id,APP-0043,True,1.0,app-0043,paddleocr,exact_supported
+hindi_application_043,hindi,application,easyocr,address,मंगलुरु,True,1.0,मंगलुरु,"tesseract, paddleocr",exact_supported
+hindi_application_043,hindi,application,easyocr,phone,9000005891,True,1.0,9000005891,paddleocr,exact_supported
+hindi_application_043,hindi,application,paddleocr,name,स्नेहा मेनन,True,1.0,स्नेहामेनन,tesseract,exact_supported
+hindi_application_043,hindi,application,paddleocr,date,12/02/2026,True,1.0,12/02/2026,easyocr,exact_supported
+hindi_application_043,hindi,application,paddleocr,document_id,APP-0043,True,1.0,app-0043,easyocr,exact_supported
+hindi_application_043,hindi,application,paddleocr,address,मंगलुरु,True,1.0,मंगलुरु,"tesseract, easyocr",exact_supported
+hindi_application_043,hindi,application,paddleocr,phone,9000005891,True,1.0,9000005891,easyocr,exact_supported
+hindi_application_044,hindi,application,tesseract,name,किरण पटेल,True,1.0,किरणपटेल,"easyocr, paddleocr",exact_supported
+hindi_application_044,hindi,application,tesseract,date,13/02/2026,False,0.9474,3/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_044,hindi,application,tesseract,document_id,APP-0044,False,0.7143,?-0044,"easyocr, paddleocr",unavailable_or_uncertain
+hindi_application_044,hindi,application,tesseract,address,हुबली,True,1.0,हुबली,"easyocr, paddleocr",exact_supported
+hindi_application_044,hindi,application,tesseract,phone,9000006028,True,1.0,9000006028,"easyocr, paddleocr",exact_supported
+hindi_application_044,hindi,application,easyocr,name,किरण पटेल,True,1.0,किरणपटेल,"tesseract, paddleocr",exact_supported
+hindi_application_044,hindi,application,easyocr,date,13/02/2026,True,1.0,13/02/2026,paddleocr,exact_supported
+hindi_application_044,hindi,application,easyocr,document_id,APP-0044,True,1.0,app-0044,paddleocr,exact_supported
+hindi_application_044,hindi,application,easyocr,address,हुबली,True,1.0,हुबली,"tesseract, paddleocr",exact_supported
+hindi_application_044,hindi,application,easyocr,phone,9000006028,True,1.0,9000006028,"tesseract, paddleocr",exact_supported
+hindi_application_044,hindi,application,paddleocr,name,किरण पटेल,True,1.0,किरणपटेल,"tesseract, easyocr",exact_supported
+hindi_application_044,hindi,application,paddleocr,date,13/02/2026,True,1.0,13/02/2026,easyocr,exact_supported
+hindi_application_044,hindi,application,paddleocr,document_id,APP-0044,True,1.0,app-0044,easyocr,exact_supported
+hindi_application_044,hindi,application,paddleocr,address,हुबली,True,1.0,हुबली,"tesseract, easyocr",exact_supported
+hindi_application_044,hindi,application,paddleocr,phone,9000006028,True,1.0,9000006028,"tesseract, easyocr",exact_supported
+hindi_application_045,hindi,application,tesseract,name,किरण राव,True,1.0,किरणराव,"easyocr, paddleocr",exact_supported
+hindi_application_045,hindi,application,tesseract,date,14/02/2026,False,0.9474,4/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_045,hindi,application,tesseract,document_id,APP-0045,False,0.7143,?-0045,"easyocr, paddleocr",unavailable_or_uncertain
+hindi_application_045,hindi,application,tesseract,address,बेलगावी,True,1.0,बेलगावी,"easyocr, paddleocr",exact_supported
+hindi_application_045,hindi,application,tesseract,phone,9000006165,False,0.9,9000006465,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_045,hindi,application,easyocr,name,किरण राव,True,1.0,किरणराव,"tesseract, paddleocr",exact_supported
+hindi_application_045,hindi,application,easyocr,date,14/02/2026,True,1.0,14/02/2026,paddleocr,exact_supported
+hindi_application_045,hindi,application,easyocr,document_id,APP-0045,True,1.0,app-0045,paddleocr,exact_supported
+hindi_application_045,hindi,application,easyocr,address,बेलगावी,True,1.0,बेलगावी,"tesseract, paddleocr",exact_supported
+hindi_application_045,hindi,application,easyocr,phone,9000006165,True,1.0,9000006165,paddleocr,exact_supported
+hindi_application_045,hindi,application,paddleocr,name,किरण राव,True,1.0,किरणराव,"tesseract, easyocr",exact_supported
+hindi_application_045,hindi,application,paddleocr,date,14/02/2026,True,1.0,14/02/2026,easyocr,exact_supported
+hindi_application_045,hindi,application,paddleocr,document_id,APP-0045,True,1.0,app-0045,easyocr,exact_supported
+hindi_application_045,hindi,application,paddleocr,address,बेलगावी,True,1.0,बेलगावी,"tesseract, easyocr",exact_supported
+hindi_application_045,hindi,application,paddleocr,phone,9000006165,True,1.0,9000006165,easyocr,exact_supported
+hindi_application_046,hindi,application,tesseract,name,रवि पटेल,True,1.0,रविपटेल,"easyocr, paddleocr",exact_supported
+hindi_application_046,hindi,application,tesseract,date,15/02/2026,False,0.9474,5/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_application_046,hindi,application,tesseract,document_id,APP-0046,False,0.7143,?-0046,"easyocr, paddleocr",unavailable_or_uncertain
+hindi_application_046,hindi,application,tesseract,address,शिवमोग्गा,True,1.0,शिवमोग्गा,easyocr,exact_supported
+hindi_application_046,hindi,application,tesseract,phone,9000006302,True,1.0,9000006302,"easyocr, paddleocr",exact_supported
+hindi_application_046,hindi,application,easyocr,name,रवि पटेल,True,1.0,रविपटेल,"tesseract, paddleocr",exact_supported
+hindi_application_046,hindi,application,easyocr,date,15/02/2026,True,1.0,15/02/2026,paddleocr,exact_supported
+hindi_application_046,hindi,application,easyocr,document_id,APP-0046,True,1.0,app-0046,paddleocr,exact_supported
+hindi_application_046,hindi,application,easyocr,address,शिवमोग्गा,True,1.0,शिवमोग्गा,tesseract,exact_supported
+hindi_application_046,hindi,application,easyocr,phone,9000006302,True,1.0,9000006302,"tesseract, paddleocr",exact_supported
+hindi_application_046,hindi,application,paddleocr,name,रवि पटेल,True,1.0,रविपटेल,"tesseract, easyocr",exact_supported
+hindi_application_046,hindi,application,paddleocr,date,15/02/2026,True,1.0,15/02/2026,easyocr,exact_supported
+hindi_application_046,hindi,application,paddleocr,document_id,APP-0046,True,1.0,app-0046,easyocr,exact_supported
+hindi_application_046,hindi,application,paddleocr,address,शिवमोग्गा,False,0.875,शिवमोगा,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+hindi_application_046,hindi,application,paddleocr,phone,9000006302,True,1.0,9000006302,"tesseract, easyocr",exact_supported
+hindi_certificate_051,hindi,certificate,tesseract,name,किरण रेड्डी,True,1.0,किरणरेड्डी,"easyocr, paddleocr",exact_supported
+hindi_certificate_051,hindi,certificate,tesseract,date,20/02/2026,True,1.0,20/02/2026,"easyocr, paddleocr",exact_supported
+hindi_certificate_051,hindi,certificate,tesseract,document_id,CERT-0051,False,0.5,रशा-005,paddleocr,unavailable_or_uncertain
+hindi_certificate_051,hindi,certificate,tesseract,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,True,1.0,राष्ट्रीयप्रौद्योगिकीसंस्थान,easyocr,exact_supported
+hindi_certificate_051,hindi,certificate,tesseract,grade,A,False,0.0,,paddleocr,unavailable_or_uncertain
+hindi_certificate_051,hindi,certificate,easyocr,name,किरण रेड्डी,True,1.0,किरणरेड्डी,"tesseract, paddleocr",exact_supported
+hindi_certificate_051,hindi,certificate,easyocr,date,20/02/2026,True,1.0,20/02/2026,"tesseract, paddleocr",exact_supported
+hindi_certificate_051,hindi,certificate,easyocr,document_id,CERT-0051,False,0.9412,cert0051,paddleocr,cross_ocr_fuzzy_candidate
+hindi_certificate_051,hindi,certificate,easyocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,True,1.0,राष्ट्रीयप्रौद्योगिकीसंस्थान,tesseract,exact_supported
+hindi_certificate_051,hindi,certificate,easyocr,grade,A,False,0.0,,paddleocr,unavailable_or_uncertain
+hindi_certificate_051,hindi,certificate,paddleocr,name,किरण रेड्डी,True,1.0,किरणरेड्डी,"tesseract, easyocr",exact_supported
+hindi_certificate_051,hindi,certificate,paddleocr,date,20/02/2026,True,1.0,20/02/2026,"tesseract, easyocr",exact_supported
+hindi_certificate_051,hindi,certificate,paddleocr,document_id,CERT-0051,True,1.0,cert-0051,,exact_supported
+hindi_certificate_051,hindi,certificate,paddleocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,False,0.963,राष्रीयप्रौद्योगिकीसंस्थान,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+hindi_certificate_051,hindi,certificate,paddleocr,grade,A,True,1.0,a,,exact_supported
+hindi_certificate_052,hindi,certificate,tesseract,name,दिव्या पटेल,True,1.0,दिव्यापटेल,"easyocr, paddleocr",exact_supported
+hindi_certificate_052,hindi,certificate,tesseract,date,21/02/2026,False,0.9474,2/02/2026,"easyocr, paddleocr",cross_ocr_fuzzy_candidate
+hindi_certificate_052,hindi,certificate,tesseract,document_id,CERT-0052,False,0.625,शा-0052,paddleocr,unavailable_or_uncertain
+hindi_certificate_052,hindi,certificate,tesseract,institution,सरकारी विज्ञान महाविद्यालय,True,1.0,सरकारीविज्ञानमहाविद्यालय,"easyocr, paddleocr",exact_supported
+hindi_certificate_052,hindi,certificate,tesseract,grade,A+,False,0.0,,paddleocr,unavailable_or_uncertain
+hindi_certificate_052,hindi,certificate,easyocr,name,दिव्या पटेल,True,1.0,दिव्यापटेल,"tesseract, paddleocr",exact_supported
+hindi_certificate_052,hindi,certificate,easyocr,date,21/02/2026,True,1.0,21/02/2026,paddleocr,exact_supported
+hindi_certificate_052,hindi,certificate,easyocr,document_id,CERT-0052,False,0.9412,cert0052,paddleocr,cross_ocr_fuzzy_candidate
+hindi_certificate_052,hindi,certificate,easyocr,institution,सरकारी विज्ञान महाविद्यालय,True,1.0,सरकारीविज्ञानमहाविद्यालय,"tesseract, paddleocr",exact_supported
+hindi_certificate_052,hindi,certificate,easyocr,grade,A+,False,0.6667,+,paddleocr,unavailable_or_uncertain
+hindi_certificate_052,hindi,certificate,paddleocr,name,दिव्या पटेल,True,1.0,दिव्यापटेल,"tesseract, easyocr",exact_supported
+hindi_certificate_052,hindi,certificate,paddleocr,date,21/02/2026,True,1.0,21/02/2026,easyocr,exact_supported
+hindi_certificate_052,hindi,certificate,paddleocr,document_id,CERT-0052,True,1.0,cert-0052,,exact_supported
+hindi_certificate_052,hindi,certificate,paddleocr,institution,सरकारी विज्ञान महाविद्यालय,True,1.0,सरकारीविज्ञानमहाविद्यालय,"tesseract, easyocr",exact_supported
+hindi_certificate_052,hindi,certificate,paddleocr,grade,A+,True,1.0,a+,,exact_supported
+hindi_certificate_053,hindi,certificate,tesseract,name,रवि शर्मा,True,1.0,रविशर्मा,paddleocr,exact_supported
+hindi_certificate_053,hindi,certificate,tesseract,date,22/02/2026,True,1.0,22/02/2026,"easyocr, paddleocr",exact_supported
+hindi_certificate_053,hindi,certificate,tesseract,document_id,CERT-0053,False,0.625,रा-0053,paddleocr,unavailable_or_uncertain
+hindi_certificate_053,hindi,certificate,tesseract,institution,कर्नाटक तकनीकी विश्वविद्यालय,True,1.0,कर्नाटकतकनीकीविश्वविद्यालय,"easyocr, paddleocr",exact_supported
+hindi_certificate_053,hindi,certificate,tesseract,grade,B+,False,0.6667,+,paddleocr,unavailable_or_uncertain
+hindi_certificate_053,hindi,certificate,easyocr,name,रवि शर्मा,False,0.7143,मशर्मा,"tesseract, paddleocr",unavailable_or_uncertain
+hindi_certificate_053,hindi,certificate,easyocr,date,22/02/2026,True,1.0,22/02/2026,"tesseract, paddleocr",exact_supported
+hindi_certificate_053,hindi,certificate,easyocr,document_id,CERT-0053,False,0.9412,cert0053,paddleocr,cross_ocr_fuzzy_candidate
+hindi_certificate_053,hindi,certificate,easyocr,institution,कर्नाटक तकनीकी विश्वविद्यालय,True,1.0,कर्नाटकतकनीकीविश्वविद्यालय,"tesseract, paddleocr",exact_supported
+hindi_certificate_053,hindi,certificate,easyocr,grade,B+,False,0.6667,+,paddleocr,unavailable_or_uncertain
+hindi_certificate_053,hindi,certificate,paddleocr,name,रवि शर्मा,True,1.0,रविशर्मा,tesseract,exact_supported
+hindi_certificate_053,hindi,certificate,paddleocr,date,22/02/2026,True,1.0,22/02/2026,"tesseract, easyocr",exact_supported
+hindi_certificate_053,hindi,certificate,paddleocr,document_id,CERT-0053,True,1.0,cert-0053,,exact_supported
+hindi_certificate_053,hindi,certificate,paddleocr,institution,कर्नाटक तकनीकी विश्वविद्यालय,True,1.0,कर्नाटकतकनीकीविश्वविद्यालय,"tesseract, easyocr",exact_supported
+hindi_certificate_053,hindi,certificate,paddleocr,grade,B+,True,1.0,b+,,exact_supported
+hindi_certificate_054,hindi,certificate,tesseract,name,मीरा नायर,True,1.0,मीरानायर,"easyocr, paddleocr",exact_supported
+hindi_certificate_054,hindi,certificate,tesseract,date,23/02/2026,True,1.0,23/02/2026,"easyocr, paddleocr",exact_supported
+hindi_certificate_054,hindi,certificate,tesseract,document_id,CERT-0054,False,0.625,रा-0054,paddleocr,unavailable_or_uncertain
+hindi_certificate_054,hindi,certificate,tesseract,institution,शहर शिक्षा बोर्ड,True,1.0,शहरशिक्षाबोर्ड,"easyocr, paddleocr",exact_supported
+hindi_certificate_054,hindi,certificate,tesseract,grade,B,False,0.0,,paddleocr,unavailable_or_uncertain
+hindi_certificate_054,hindi,certificate,easyocr,name,मीरा नायर,True,1.0,मीरानायर,"tesseract, paddleocr",exact_supported
+hindi_certificate_054,hindi,certificate,easyocr,date,23/02/2026,True,1.0,23/02/2026,"tesseract, paddleocr",exact_supported
+hindi_certificate_054,hindi,certificate,easyocr,document_id,CERT-0054,False,0.9412,cert0054,paddleocr,cross_ocr_fuzzy_candidate
+hindi_certificate_054,hindi,certificate,easyocr,institution,शहर शिक्षा बोर्ड,True,1.0,शहरशिक्षाबोर्ड,"tesseract, paddleocr",exact_supported
+hindi_certificate_054,hindi,certificate,easyocr,grade,B,False,0.0,,paddleocr,unavailable_or_uncertain
+hindi_certificate_054,hindi,certificate,paddleocr,name,मीरा नायर,True,1.0,मीरानायर,"tesseract, easyocr",exact_supported
+hindi_certificate_054,hindi,certificate,paddleocr,date,23/02/2026,True,1.0,23/02/2026,"tesseract, easyocr",exact_supported
+hindi_certificate_054,hindi,certificate,paddleocr,document_id,CERT-0054,True,1.0,cert-0054,,exact_supported
+hindi_certificate_054,hindi,certificate,paddleocr,institution,शहर शिक्षा बोर्ड,True,1.0,शहरशिक्षाबोर्ड,"tesseract, easyocr",exact_supported
+hindi_certificate_054,hindi,certificate,paddleocr,grade,B,True,1.0,b,,exact_supported
+hindi_certificate_055,hindi,certificate,tesseract,name,विक्रम पटेल,True,1.0,विक्रमपटेल,"easyocr, paddleocr",exact_supported
+hindi_certificate_055,hindi,certificate,tesseract,date,24/02/2026,True,1.0,24/02/2026,"easyocr, paddleocr",exact_supported
+hindi_certificate_055,hindi,certificate,tesseract,document_id,CERT-0055,False,0.625,ाश-0055,paddleocr,unavailable_or_uncertain
+hindi_certificate_055,hindi,certificate,tesseract,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,True,1.0,राष्ट्रीयप्रौद्योगिकीसंस्थान,easyocr,exact_supported
+hindi_certificate_055,hindi,certificate,tesseract,grade,Distinction,False,0.0,,"easyocr, paddleocr",unavailable_or_uncertain
+hindi_certificate_055,hindi,certificate,easyocr,name,विक्रम पटेल,True,1.0,विक्रमपटेल,"tesseract, paddleocr",exact_supported
+hindi_certificate_055,hindi,certificate,easyocr,date,24/02/2026,True,1.0,24/02/2026,"tesseract, paddleocr",exact_supported
+hindi_certificate_055,hindi,certificate,easyocr,document_id,CERT-0055,False,0.625,याcert0,paddleocr,unavailable_or_uncertain
+hindi_certificate_055,hindi,certificate,easyocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,True,1.0,राष्ट्रीयप्रौद्योगिकीसंस्थान,tesseract,exact_supported
+hindi_certificate_055,hindi,certificate,easyocr,grade,Distinction,True,1.0,distinction,paddleocr,exact_supported
+hindi_certificate_055,hindi,certificate,paddleocr,name,विक्रम पटेल,True,1.0,विक्रमपटेल,"tesseract, easyocr",exact_supported
+hindi_certificate_055,hindi,certificate,paddleocr,date,24/02/2026,True,1.0,24/02/2026,"tesseract, easyocr",exact_supported
+hindi_certificate_055,hindi,certificate,paddleocr,document_id,CERT-0055,True,1.0,cert-0055,,exact_supported
+hindi_certificate_055,hindi,certificate,paddleocr,institution,राष्ट्रीय प्रौद्योगिकी संस्थान,False,0.963,राष्रीयप्रौद्योगिकीसंस्थान,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+hindi_certificate_055,hindi,certificate,paddleocr,grade,Distinction,True,1.0,distinction,easyocr,exact_supported
+hindi_certificate_056,hindi,certificate,tesseract,name,दिव्या वर्मा,True,1.0,दिव्यावर्मा,"easyocr, paddleocr",exact_supported
+hindi_certificate_056,hindi,certificate,tesseract,date,25/02/2026,True,1.0,25/02/2026,"easyocr, paddleocr",exact_supported
+hindi_certificate_056,hindi,certificate,tesseract,document_id,CERT-0056,False,0.625,रा-0056,paddleocr,unavailable_or_uncertain
+hindi_certificate_056,hindi,certificate,tesseract,institution,सरकारी विज्ञान महाविद्यालय,True,1.0,सरकारीविज्ञानमहाविद्यालय,"easyocr, paddleocr",exact_supported
+hindi_certificate_056,hindi,certificate,tesseract,grade,A,False,0.0,,paddleocr,unavailable_or_uncertain
+hindi_certificate_056,hindi,certificate,easyocr,name,दिव्या वर्मा,True,1.0,दिव्यावर्मा,"tesseract, paddleocr",exact_supported
+hindi_certificate_056,hindi,certificate,easyocr,date,25/02/2026,True,1.0,25/02/2026,"tesseract, paddleocr",exact_supported
+hindi_certificate_056,hindi,certificate,easyocr,document_id,CERT-0056,False,0.9412,cert0056,paddleocr,cross_ocr_fuzzy_candidate
+hindi_certificate_056,hindi,certificate,easyocr,institution,सरकारी विज्ञान महाविद्यालय,True,1.0,सरकारीविज्ञानमहाविद्यालय,"tesseract, paddleocr",exact_supported
+hindi_certificate_056,hindi,certificate,easyocr,grade,A,False,0.0,,paddleocr,unavailable_or_uncertain
+hindi_certificate_056,hindi,certificate,paddleocr,name,दिव्या वर्मा,True,1.0,दिव्यावर्मा,"tesseract, easyocr",exact_supported
+hindi_certificate_056,hindi,certificate,paddleocr,date,25/02/2026,True,1.0,25/02/2026,"tesseract, easyocr",exact_supported
+hindi_certificate_056,hindi,certificate,paddleocr,document_id,CERT-0056,True,1.0,cert-0056,,exact_supported
+hindi_certificate_056,hindi,certificate,paddleocr,institution,सरकारी विज्ञान महाविद्यालय,True,1.0,सरकारीविज्ञानमहाविद्यालय,"tesseract, easyocr",exact_supported
+hindi_certificate_056,hindi,certificate,paddleocr,grade,A,True,1.0,a,,exact_supported
+kannada_invoice_061,kannada,invoice,tesseract,name,ಕಿರಣ್ ಮೆನನ್,True,1.0,ಕಿರಣ್ಮೆನನ್,easyocr,exact_supported
+kannada_invoice_061,kannada,invoice,tesseract,date,02/03/2026,True,1.0,02/03/2026,,exact_supported
+kannada_invoice_061,kannada,invoice,tesseract,document_id,INV-0061,False,0.7143,/-0061,,unavailable_or_uncertain
+kannada_invoice_061,kannada,invoice,tesseract,address,ಬೆಂಗಳೂರು,True,1.0,ಬೆಂಗಳೂರು,"easyocr, paddleocr",exact_supported
+kannada_invoice_061,kannada,invoice,tesseract,amount,9857,True,1.0,9857,easyocr,exact_supported
+kannada_invoice_061,kannada,invoice,easyocr,name,ಕಿರಣ್ ಮೆನನ್,True,1.0,ಕಿರಣ್ಮೆನನ್,tesseract,exact_supported
+kannada_invoice_061,kannada,invoice,easyocr,date,02/03/2026,False,0.8,02|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_invoice_061,kannada,invoice,easyocr,document_id,INV-0061,False,0.9333,nv-0061,,fuzzy_only_candidate
+kannada_invoice_061,kannada,invoice,easyocr,address,ಬೆಂಗಳೂರು,True,1.0,ಬೆಂಗಳೂರು,"tesseract, paddleocr",exact_supported
+kannada_invoice_061,kannada,invoice,easyocr,amount,9857,True,1.0,9857,tesseract,exact_supported
+kannada_invoice_061,kannada,invoice,paddleocr,name,ಕಿರಣ್ ಮೆನನ್,False,0.9474,ಕಿರಣ್ಮನನ್,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_invoice_061,kannada,invoice,paddleocr,date,02/03/2026,False,0.8,0210312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_invoice_061,kannada,invoice,paddleocr,document_id,INV-0061,False,0.6667,inv-oo6,,unavailable_or_uncertain
+kannada_invoice_061,kannada,invoice,paddleocr,address,ಬೆಂಗಳೂರು,True,1.0,ಬೆಂಗಳೂರು,"tesseract, easyocr",exact_supported
+kannada_invoice_061,kannada,invoice,paddleocr,amount,9857,False,0.6667,57,"tesseract, easyocr",unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,tesseract,name,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,True,1.0,ಸ್ನೇಹಾರೆಡ್ಡಿ,easyocr,exact_supported
+kannada_invoice_062,kannada,invoice,tesseract,date,03/03/2026,True,1.0,03/03/2026,,exact_supported
+kannada_invoice_062,kannada,invoice,tesseract,document_id,INV-0062,False,0.7143,1-0062,,unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,tesseract,address,ಮೈಸೂರು,True,1.0,ಮೈಸೂರು,easyocr,exact_supported
+kannada_invoice_062,kannada,invoice,tesseract,amount,9994,True,1.0,9994,easyocr,exact_supported
+kannada_invoice_062,kannada,invoice,easyocr,name,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,True,1.0,ಸ್ನೇಹಾರೆಡ್ಡಿ,tesseract,exact_supported
+kannada_invoice_062,kannada,invoice,easyocr,date,03/03/2026,False,0.8,03|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_invoice_062,kannada,invoice,easyocr,document_id,INV-0062,False,0.9333,nv-0062,,fuzzy_only_candidate
+kannada_invoice_062,kannada,invoice,easyocr,address,ಮೈಸೂರು,True,1.0,ಮೈಸೂರು,tesseract,exact_supported
+kannada_invoice_062,kannada,invoice,easyocr,amount,9994,True,1.0,9994,tesseract,exact_supported
+kannada_invoice_062,kannada,invoice,paddleocr,name,ಸ್ನೇಹಾ ರೆಡ್ಡಿ,False,0.5455,ರುಃಸೀಹಾರೆಡ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,paddleocr,date,03/03/2026,False,0.6667,10312026,tesseract,unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,paddleocr,document_id,INV-0062,False,0.75,inv-oo62,,unavailable_or_uncertain
+kannada_invoice_062,kannada,invoice,paddleocr,address,ಮೈಸೂರು,False,0.8333,ಮೃಸೂರು,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_invoice_062,kannada,invoice,paddleocr,amount,9994,False,0.0,,"tesseract, easyocr",unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,tesseract,name,ಕಿರಣ್ ರೆಡ್ಡಿ,True,1.0,ಕಿರಣ್ರೆಡ್ಡಿ,easyocr,exact_supported
+kannada_invoice_063,kannada,invoice,tesseract,date,04/03/2026,True,1.0,04/03/2026,,exact_supported
+kannada_invoice_063,kannada,invoice,tesseract,document_id,INV-0063,False,0.7143,1-0063,,unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,tesseract,address,ಮಂಗಳೂರು,True,1.0,ಮಂಗಳೂರು,"easyocr, paddleocr",exact_supported
+kannada_invoice_063,kannada,invoice,tesseract,amount,10131,True,1.0,10131,"easyocr, paddleocr",exact_supported
+kannada_invoice_063,kannada,invoice,easyocr,name,ಕಿರಣ್ ರೆಡ್ಡಿ,True,1.0,ಕಿರಣ್ರೆಡ್ಡಿ,tesseract,exact_supported
+kannada_invoice_063,kannada,invoice,easyocr,date,04/03/2026,False,0.8,04|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_invoice_063,kannada,invoice,easyocr,document_id,INV-0063,False,0.9333,nv-0063,,fuzzy_only_candidate
+kannada_invoice_063,kannada,invoice,easyocr,address,ಮಂಗಳೂರು,True,1.0,ಮಂಗಳೂರು,"tesseract, paddleocr",exact_supported
+kannada_invoice_063,kannada,invoice,easyocr,amount,10131,True,1.0,10131,"tesseract, paddleocr",exact_supported
+kannada_invoice_063,kannada,invoice,paddleocr,name,ಕಿರಣ್ ರೆಡ್ಡಿ,False,0.7,ರುಕಿರಣ್ರಡ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,paddleocr,date,04/03/2026,False,0.7368,410312026,tesseract,unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,paddleocr,document_id,INV-0063,False,0.6667,inv-oo6,,unavailable_or_uncertain
+kannada_invoice_063,kannada,invoice,paddleocr,address,ಮಂಗಳೂರು,True,1.0,ಮಂಗಳೂರು,"tesseract, easyocr",exact_supported
+kannada_invoice_063,kannada,invoice,paddleocr,amount,10131,True,1.0,10131,"tesseract, easyocr",exact_supported
+kannada_invoice_064,kannada,invoice,tesseract,name,ಅನನ್ಯಾ ಮೆನನ್,True,1.0,ಅನನ್ಯಾಮೆನನ್,easyocr,exact_supported
+kannada_invoice_064,kannada,invoice,tesseract,date,05/03/2026,True,1.0,05/03/2026,,exact_supported
+kannada_invoice_064,kannada,invoice,tesseract,document_id,INV-0064,False,0.7143,/-0064,,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,tesseract,address,ಹುಬ್ಬಳ್ಳಿ,True,1.0,ಹುಬ್ಬಳ್ಳಿ,,exact_supported
+kannada_invoice_064,kannada,invoice,tesseract,amount,10268,True,1.0,10268,easyocr,exact_supported
+kannada_invoice_064,kannada,invoice,easyocr,name,ಅನನ್ಯಾ ಮೆನನ್,True,1.0,ಅನನ್ಯಾಮೆನನ್,tesseract,exact_supported
+kannada_invoice_064,kannada,invoice,easyocr,date,05/03/2026,False,0.8,05|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_invoice_064,kannada,invoice,easyocr,document_id,INV-0064,False,0.9333,nv-0064,,fuzzy_only_candidate
+kannada_invoice_064,kannada,invoice,easyocr,address,ಹುಬ್ಬಳ್ಳಿ,False,0.625,68ಹುಬ್ಬ,tesseract,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,easyocr,amount,10268,True,1.0,10268,tesseract,exact_supported
+kannada_invoice_064,kannada,invoice,paddleocr,name,ಅನನ್ಯಾ ಮೆನನ್,False,0.8,ಅನನಾ.ಮನನ್,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_invoice_064,kannada,invoice,paddleocr,date,05/03/2026,False,0.7368,510312026,tesseract,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,paddleocr,document_id,INV-0064,False,0.6667,inv-oo6,,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,paddleocr,address,ಹುಬ್ಬಳ್ಳಿ,False,0.625,ಾಸಹುಬಳಿ,tesseract,unavailable_or_uncertain
+kannada_invoice_064,kannada,invoice,paddleocr,amount,10268,False,0.8889,1026,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_invoice_065,kannada,invoice,tesseract,name,ಕಿರಣ್ ಸಿಂಗ್,True,1.0,ಕಿರಣ್ಸಿಂಗ್,easyocr,exact_supported
+kannada_invoice_065,kannada,invoice,tesseract,date,06/03/2026,True,1.0,06/03/2026,,exact_supported
+kannada_invoice_065,kannada,invoice,tesseract,document_id,INV-0065,False,0.7143,/-0065,,unavailable_or_uncertain
+kannada_invoice_065,kannada,invoice,tesseract,address,ಬೆಳಗಾವಿ,True,1.0,ಬೆಳಗಾವಿ,easyocr,exact_supported
+kannada_invoice_065,kannada,invoice,tesseract,amount,10405,True,1.0,10405,"easyocr, paddleocr",exact_supported
+kannada_invoice_065,kannada,invoice,easyocr,name,ಕಿರಣ್ ಸಿಂಗ್,True,1.0,ಕಿರಣ್ಸಿಂಗ್,tesseract,exact_supported
+kannada_invoice_065,kannada,invoice,easyocr,date,06/03/2026,False,0.8,06|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_invoice_065,kannada,invoice,easyocr,document_id,INV-0065,False,0.9333,nv-0065,,fuzzy_only_candidate
+kannada_invoice_065,kannada,invoice,easyocr,address,ಬೆಳಗಾವಿ,True,1.0,ಬೆಳಗಾವಿ,tesseract,exact_supported
+kannada_invoice_065,kannada,invoice,easyocr,amount,10405,True,1.0,10405,"tesseract, paddleocr",exact_supported
+kannada_invoice_065,kannada,invoice,paddleocr,name,ಕಿರಣ್ ಸಿಂಗ್,False,0.8421,ಕಿರಣ್ನಂಗ್,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_invoice_065,kannada,invoice,paddleocr,date,06/03/2026,False,0.8,0610312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_invoice_065,kannada,invoice,paddleocr,document_id,INV-0065,False,0.6667,inv-oo6,,unavailable_or_uncertain
+kannada_invoice_065,kannada,invoice,paddleocr,address,ಬೆಳಗಾವಿ,False,0.8333,ಬೆಳಗಾ,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_invoice_065,kannada,invoice,paddleocr,amount,10405,True,1.0,10405,"tesseract, easyocr",exact_supported
+kannada_invoice_066,kannada,invoice,tesseract,name,ಪ್ರಿಯಾ ಮೆನನ್,True,1.0,ಪ್ರಿಯಾಮೆನನ್,,exact_supported
+kannada_invoice_066,kannada,invoice,tesseract,date,07/03/2026,True,1.0,07/03/2026,,exact_supported
+kannada_invoice_066,kannada,invoice,tesseract,document_id,INV-0066,False,0.7143,/-0066,,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,tesseract,address,ಶಿವಮೊಗ್ಗ,True,1.0,ಶಿವಮೊಗ್ಗ,easyocr,exact_supported
+kannada_invoice_066,kannada,invoice,tesseract,amount,10542,True,1.0,10542,"easyocr, paddleocr",exact_supported
+kannada_invoice_066,kannada,invoice,easyocr,name,ಪ್ರಿಯಾ ಮೆನನ್,False,0.7619,ರು:ಯಾಮೆನನ್,tesseract,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,easyocr,date,07/03/2026,False,0.8,07|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_invoice_066,kannada,invoice,easyocr,document_id,INV-0066,False,0.9333,nv-0066,,fuzzy_only_candidate
+kannada_invoice_066,kannada,invoice,easyocr,address,ಶಿವಮೊಗ್ಗ,True,1.0,ಶಿವಮೊಗ್ಗ,tesseract,exact_supported
+kannada_invoice_066,kannada,invoice,easyocr,amount,10542,True,1.0,10542,"tesseract, paddleocr",exact_supported
+kannada_invoice_066,kannada,invoice,paddleocr,name,ಪ್ರಿಯಾ ಮೆನನ್,False,0.6364,ರುಃಏೃಯಾಮನನ್,tesseract,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,paddleocr,date,07/03/2026,False,0.7368,710312026,tesseract,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,paddleocr,document_id,INV-0066,False,0.6667,inv-oo6,,unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,paddleocr,address,ಶಿವಮೊಗ್ಗ,False,0.5714,ಃಶವವೊಗ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_invoice_066,kannada,invoice,paddleocr,amount,10542,True,1.0,10542,"tesseract, easyocr",exact_supported
+kannada_application_071,kannada,application,tesseract,name,ಅರ್ಜುನ್ ನಾಯರ್,True,1.0,ಅರ್ಜುನ್ನಾಯರ್,easyocr,exact_supported
+kannada_application_071,kannada,application,tesseract,date,12/03/2026,True,1.0,12/03/2026,,exact_supported
+kannada_application_071,kannada,application,tesseract,document_id,APP-0071,False,0.4286,೧-೦೦71,easyocr,unavailable_or_uncertain
+kannada_application_071,kannada,application,tesseract,address,ಬೆಂಗಳೂರು,True,1.0,ಬೆಂಗಳೂರು,"easyocr, paddleocr",exact_supported
+kannada_application_071,kannada,application,tesseract,phone,9000009727,True,1.0,9000009727,easyocr,exact_supported
+kannada_application_071,kannada,application,easyocr,name,ಅರ್ಜುನ್ ನಾಯರ್,True,1.0,ಅರ್ಜುನ್ನಾಯರ್,tesseract,exact_supported
+kannada_application_071,kannada,application,easyocr,date,12/03/2026,False,0.8,12|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_071,kannada,application,easyocr,document_id,APP-0071,True,1.0,app-0071,,exact_supported
+kannada_application_071,kannada,application,easyocr,address,ಬೆಂಗಳೂರು,True,1.0,ಬೆಂಗಳೂರು,"tesseract, paddleocr",exact_supported
+kannada_application_071,kannada,application,easyocr,phone,9000009727,True,1.0,9000009727,tesseract,exact_supported
+kannada_application_071,kannada,application,paddleocr,name,ಅರ್ಜುನ್ ನಾಯರ್,False,0.8696,ಅಜು೯ನ್ನಾಯರ್,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_application_071,kannada,application,paddleocr,date,12/03/2026,False,0.7368,121031202,tesseract,unavailable_or_uncertain
+kannada_application_071,kannada,application,paddleocr,document_id,APP-0071,False,0.5714,ೈ.app-,easyocr,unavailable_or_uncertain
+kannada_application_071,kannada,application,paddleocr,address,ಬೆಂಗಳೂರು,True,1.0,ಬೆಂಗಳೂರು,"tesseract, easyocr",exact_supported
+kannada_application_071,kannada,application,paddleocr,phone,9000009727,False,0.9474,000009727,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_application_072,kannada,application,tesseract,name,ಪ್ರಿಯಾ ನಾಯರ್,True,1.0,ಪ್ರಿಯಾನಾಯರ್,easyocr,exact_supported
+kannada_application_072,kannada,application,tesseract,date,13/03/2026,True,1.0,13/03/2026,,exact_supported
+kannada_application_072,kannada,application,tesseract,document_id,APP-0072,False,0.4286,03/202,easyocr,unavailable_or_uncertain
+kannada_application_072,kannada,application,tesseract,address,ಮೈಸೂರು,True,1.0,ಮೈಸೂರು,easyocr,exact_supported
+kannada_application_072,kannada,application,tesseract,phone,9000009864,True,1.0,9000009864,easyocr,exact_supported
+kannada_application_072,kannada,application,easyocr,name,ಪ್ರಿಯಾ ನಾಯರ್,True,1.0,ಪ್ರಿಯಾನಾಯರ್,tesseract,exact_supported
+kannada_application_072,kannada,application,easyocr,date,13/03/2026,False,0.8,13|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_072,kannada,application,easyocr,document_id,APP-0072,True,1.0,app-0072,,exact_supported
+kannada_application_072,kannada,application,easyocr,address,ಮೈಸೂರು,True,1.0,ಮೈಸೂರು,tesseract,exact_supported
+kannada_application_072,kannada,application,easyocr,phone,9000009864,True,1.0,9000009864,tesseract,exact_supported
+kannada_application_072,kannada,application,paddleocr,name,ಪ್ರಿಯಾ ನಾಯರ್,False,0.7273,ರುಏೃಯಾನಾಯರ್,"tesseract, easyocr",unavailable_or_uncertain
+kannada_application_072,kannada,application,paddleocr,date,13/03/2026,False,0.7368,131031202,tesseract,unavailable_or_uncertain
+kannada_application_072,kannada,application,paddleocr,document_id,APP-0072,False,0.75,app-oo72,easyocr,unavailable_or_uncertain
+kannada_application_072,kannada,application,paddleocr,address,ಮೈಸೂರು,False,0.8333,ಮೃಸೂರು,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_application_072,kannada,application,paddleocr,phone,9000009864,False,0.4444,o0oo09ಢ6,"tesseract, easyocr",unavailable_or_uncertain
+kannada_application_073,kannada,application,tesseract,name,ಅನನ್ಯಾ ಪಟೇಲ್,True,1.0,ಅನನ್ಯಾಪಟೇಲ್,,exact_supported
+kannada_application_073,kannada,application,tesseract,date,14/03/2026,True,1.0,14/03/2026,,exact_supported
+kannada_application_073,kannada,application,tesseract,document_id,APP-0073,False,0.4286,೧-೦೦73,easyocr,unavailable_or_uncertain
+kannada_application_073,kannada,application,tesseract,address,ಮಂಗಳೂರು,True,1.0,ಮಂಗಳೂರು,"easyocr, paddleocr",exact_supported
+kannada_application_073,kannada,application,tesseract,phone,9000010001,True,1.0,9000010001,easyocr,exact_supported
+kannada_application_073,kannada,application,easyocr,name,ಅನನ್ಯಾ ಪಟೇಲ್,False,0.6,001ಅನನ್ಯಾ,tesseract,unavailable_or_uncertain
+kannada_application_073,kannada,application,easyocr,date,14/03/2026,False,0.8,14|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_073,kannada,application,easyocr,document_id,APP-0073,True,1.0,app-0073,,exact_supported
+kannada_application_073,kannada,application,easyocr,address,ಮಂಗಳೂರು,True,1.0,ಮಂಗಳೂರು,"tesseract, paddleocr",exact_supported
+kannada_application_073,kannada,application,easyocr,phone,9000010001,True,1.0,9000010001,tesseract,exact_supported
+kannada_application_073,kannada,application,paddleocr,name,ಅನನ್ಯಾ ಪಟೇಲ್,False,0.9,ಅನನಾಪಟೇಲ್,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_073,kannada,application,paddleocr,date,14/03/2026,False,0.8,1410312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_073,kannada,application,paddleocr,document_id,APP-0073,False,0.75,app-oo73,easyocr,unavailable_or_uncertain
+kannada_application_073,kannada,application,paddleocr,address,ಮಂಗಳೂರು,True,1.0,ಮಂಗಳೂರು,"tesseract, easyocr",exact_supported
+kannada_application_073,kannada,application,paddleocr,phone,9000010001,False,0.3333,ಂಕ141031,"tesseract, easyocr",unavailable_or_uncertain
+kannada_application_074,kannada,application,tesseract,name,ಪ್ರಿಯಾ ಸಿಂಗ್,True,1.0,ಪ್ರಿಯಾಸಿಂಗ್,easyocr,exact_supported
+kannada_application_074,kannada,application,tesseract,date,15/03/2026,True,1.0,15/03/2026,,exact_supported
+kannada_application_074,kannada,application,tesseract,document_id,APP-0074,False,0.4286,೧-೦೦74,easyocr,unavailable_or_uncertain
+kannada_application_074,kannada,application,tesseract,address,ಹುಬ್ಬಳ್ಳಿ,True,1.0,ಹುಬ್ಬಳ್ಳಿ,,exact_supported
+kannada_application_074,kannada,application,tesseract,phone,9000010138,True,1.0,9000010138,easyocr,exact_supported
+kannada_application_074,kannada,application,easyocr,name,ಪ್ರಿಯಾ ಸಿಂಗ್,True,1.0,ಪ್ರಿಯಾಸಿಂಗ್,tesseract,exact_supported
+kannada_application_074,kannada,application,easyocr,date,15/03/2026,False,0.8,15|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_074,kannada,application,easyocr,document_id,APP-0074,True,1.0,app-0074,,exact_supported
+kannada_application_074,kannada,application,easyocr,address,ಹುಬ್ಬಳ್ಳಿ,False,0.75,8ಹುಬ್ಬಳ,tesseract,unavailable_or_uncertain
+kannada_application_074,kannada,application,easyocr,phone,9000010138,True,1.0,9000010138,tesseract,exact_supported
+kannada_application_074,kannada,application,paddleocr,name,ಪ್ರಿಯಾ ಸಿಂಗ್,False,0.5714,ರುಏೃಯಾನಂಗ್,"tesseract, easyocr",unavailable_or_uncertain
+kannada_application_074,kannada,application,paddleocr,date,15/03/2026,False,0.8,1510312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_074,kannada,application,paddleocr,document_id,APP-0074,False,0.75,app-oo74,easyocr,unavailable_or_uncertain
+kannada_application_074,kannada,application,paddleocr,address,ಹುಬ್ಬಳ್ಳಿ,False,0.625,ಾಸಹುಬಳಿ,tesseract,unavailable_or_uncertain
+kannada_application_074,kannada,application,paddleocr,phone,9000010138,False,0.7778,0o001013,"tesseract, easyocr",unavailable_or_uncertain
+kannada_application_075,kannada,application,tesseract,name,ಅನನ್ಯಾ ಸಿಂಗ್,True,1.0,ಅನನ್ಯಾಸಿಂಗ್,,exact_supported
+kannada_application_075,kannada,application,tesseract,date,16/03/2026,True,1.0,16/03/2026,,exact_supported
+kannada_application_075,kannada,application,tesseract,document_id,APP-0075,False,0.5714,010275,easyocr,unavailable_or_uncertain
+kannada_application_075,kannada,application,tesseract,address,ಬೆಳಗಾವಿ,True,1.0,ಬೆಳಗಾವಿ,easyocr,exact_supported
+kannada_application_075,kannada,application,tesseract,phone,9000010275,True,1.0,9000010275,easyocr,exact_supported
+kannada_application_075,kannada,application,easyocr,name,ಅನನ್ಯಾ ಸಿಂಗ್,False,0.6,275ಅನನ್ಯಾ,tesseract,unavailable_or_uncertain
+kannada_application_075,kannada,application,easyocr,date,16/03/2026,False,0.8,16|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_075,kannada,application,easyocr,document_id,APP-0075,True,1.0,app-0075,,exact_supported
+kannada_application_075,kannada,application,easyocr,address,ಬೆಳಗಾವಿ,True,1.0,ಬೆಳಗಾವಿ,tesseract,exact_supported
+kannada_application_075,kannada,application,easyocr,phone,9000010275,True,1.0,9000010275,tesseract,exact_supported
+kannada_application_075,kannada,application,paddleocr,name,ಅನನ್ಯಾ ಸಿಂಗ್,False,0.7,ಅನನಾ.ನಂಗ್,tesseract,unavailable_or_uncertain
+kannada_application_075,kannada,application,paddleocr,date,16/03/2026,False,0.8,1610312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_075,kannada,application,paddleocr,document_id,APP-0075,False,0.625,app-oot5,easyocr,unavailable_or_uncertain
+kannada_application_075,kannada,application,paddleocr,address,ಬೆಳಗಾವಿ,False,0.8333,ಬೆಳಗಾ,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_application_075,kannada,application,paddleocr,phone,9000010275,False,0.5556,ooo10275,"tesseract, easyocr",unavailable_or_uncertain
+kannada_application_076,kannada,application,tesseract,name,ರಾಹುಲ್ ರೆಡ್ಡಿ,True,1.0,ರಾಹುಲ್ರೆಡ್ಡಿ,easyocr,exact_supported
+kannada_application_076,kannada,application,tesseract,date,17/03/2026,True,1.0,17/03/2026,,exact_supported
+kannada_application_076,kannada,application,tesseract,document_id,APP-0076,False,0.7143,0-0076,easyocr,unavailable_or_uncertain
+kannada_application_076,kannada,application,tesseract,address,ಶಿವಮೊಗ್ಗ,True,1.0,ಶಿವಮೊಗ್ಗ,easyocr,exact_supported
+kannada_application_076,kannada,application,tesseract,phone,9000010412,True,1.0,9000010412,easyocr,exact_supported
+kannada_application_076,kannada,application,easyocr,name,ರಾಹುಲ್ ರೆಡ್ಡಿ,True,1.0,ರಾಹುಲ್ರೆಡ್ಡಿ,tesseract,exact_supported
+kannada_application_076,kannada,application,easyocr,date,17/03/2026,False,0.8,17|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_076,kannada,application,easyocr,document_id,APP-0076,True,1.0,app-0076,,exact_supported
+kannada_application_076,kannada,application,easyocr,address,ಶಿವಮೊಗ್ಗ,True,1.0,ಶಿವಮೊಗ್ಗ,tesseract,exact_supported
+kannada_application_076,kannada,application,easyocr,phone,9000010412,True,1.0,9000010412,tesseract,exact_supported
+kannada_application_076,kannada,application,paddleocr,name,ರಾಹುಲ್ ರೆಡ್ಡಿ,False,0.8182,ುರಾಹುಲ್ರೆಡ,"tesseract, easyocr",cross_ocr_fuzzy_candidate
+kannada_application_076,kannada,application,paddleocr,date,17/03/2026,False,0.8,1710312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_application_076,kannada,application,paddleocr,document_id,APP-0076,False,0.75,app-oo76,easyocr,unavailable_or_uncertain
+kannada_application_076,kannada,application,paddleocr,address,ಶಿವಮೊಗ್ಗ,False,0.5714,ಃಶವವೊಗ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_application_076,kannada,application,paddleocr,phone,9000010412,False,0.4444,ಃ1710312,"tesseract, easyocr",unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,tesseract,name,ಮೀರಾ ಶರ್ಮಾ,True,1.0,ಮೀರಾಶರ್ಮಾ,easyocr,exact_supported
+kannada_certificate_081,kannada,certificate,tesseract,date,22/03/2026,True,1.0,22/03/2026,,exact_supported
+kannada_certificate_081,kannada,certificate,tesseract,document_id,CERT-0081,False,0.625,೯1-0081,easyocr,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,tesseract,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,False,0.913,ರಾಷ್ಟ್ರೀಯತಂತ್ರಜ್ಞಾನಸಂ,,fuzzy_only_candidate
+kannada_certificate_081,kannada,certificate,tesseract,grade,A,False,0.0,,paddleocr,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,easyocr,name,ಮೀರಾ ಶರ್ಮಾ,True,1.0,ಮೀರಾಶರ್ಮಾ,tesseract,exact_supported
+kannada_certificate_081,kannada,certificate,easyocr,date,22/03/2026,False,0.9,22/03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_081,kannada,certificate,easyocr,document_id,CERT-0081,True,1.0,cert-0081,,exact_supported
+kannada_certificate_081,kannada,certificate,easyocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,False,0.96,ರಾಷ್ಕ್ರೀಯತಂತ್ರಜ್ಞಾನಸಂಸ್ಥೆ,,fuzzy_only_candidate
+kannada_certificate_081,kannada,certificate,easyocr,grade,A,False,0.0,,paddleocr,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,paddleocr,name,ಮೀರಾ ಶರ್ಮಾ,False,0.625,ಏುರಾಶಮಾ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,paddleocr,date,22/03/2026,False,0.8,2210312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_081,kannada,certificate,paddleocr,document_id,CERT-0081,False,0.7059,cert-oo8,easyocr,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,paddleocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,False,0.5778,ಸಂಸೆಃರಾವೀಯತಂತೃಜಾನಸಂಸ,,unavailable_or_uncertain
+kannada_certificate_081,kannada,certificate,paddleocr,grade,A,True,1.0,a,,exact_supported
+kannada_certificate_082,kannada,certificate,tesseract,name,ಅನನ್ಯಾ ನಾಯರ್,True,1.0,ಅನನ್ಯಾನಾಯರ್,,exact_supported
+kannada_certificate_082,kannada,certificate,tesseract,date,23/03/2026,True,1.0,23/03/2026,,exact_supported
+kannada_certificate_082,kannada,certificate,tesseract,document_id,CERT-0082,False,0.625,೯1-0082,easyocr,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,tesseract,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,True,1.0,ಸರ್ಕಾರಿವಿಜ್ಞಾನಕಾಲೇಜು,easyocr,exact_supported
+kannada_certificate_082,kannada,certificate,tesseract,grade,A+,False,0.0,,easyocr,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,easyocr,name,ಅನನ್ಯಾ ನಾಯರ್,False,0.6,:a+ಅನನ್ಯಾ,tesseract,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,easyocr,date,23/03/2026,False,0.8,23|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_082,kannada,certificate,easyocr,document_id,CERT-0082,True,1.0,cert-0082,,exact_supported
+kannada_certificate_082,kannada,certificate,easyocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,True,1.0,ಸರ್ಕಾರಿವಿಜ್ಞಾನಕಾಲೇಜು,tesseract,exact_supported
+kannada_certificate_082,kannada,certificate,easyocr,grade,A+,True,1.0,a+,,exact_supported
+kannada_certificate_082,kannada,certificate,paddleocr,name,ಅನನ್ಯಾ ನಾಯರ್,False,0.8571,ಅನನಾ.ನಾಯರ್,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_082,kannada,certificate,paddleocr,date,23/03/2026,False,0.8,2310312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_082,kannada,certificate,paddleocr,document_id,CERT-0082,False,0.7778,cert-oo82,easyocr,unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,paddleocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,False,0.6667,ಃಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು,"tesseract, easyocr",unavailable_or_uncertain
+kannada_certificate_082,kannada,certificate,paddleocr,grade,A+,False,0.6667,a,easyocr,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,tesseract,name,ರವಿ ಜೋಶಿ,True,1.0,ರವಿಜೋಶಿ,easyocr,exact_supported
+kannada_certificate_083,kannada,certificate,tesseract,date,24/03/2026,True,1.0,24/03/2026,,exact_supported
+kannada_certificate_083,kannada,certificate,tesseract,document_id,CERT-0083,False,0.625,೫7-0083,easyocr,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,tesseract,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,True,1.0,ಕರ್ನಾಟಕತಾಂತ್ರಿಕವಿಶ್ವವಿದ್ಯಾಲಯ,easyocr,exact_supported
+kannada_certificate_083,kannada,certificate,tesseract,grade,B+,False,0.0,,easyocr,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,easyocr,name,ರವಿ ಜೋಶಿ,True,1.0,ರವಿಜೋಶಿ,tesseract,exact_supported
+kannada_certificate_083,kannada,certificate,easyocr,date,24/03/2026,False,0.8,24|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_083,kannada,certificate,easyocr,document_id,CERT-0083,True,1.0,cert-0083,,exact_supported
+kannada_certificate_083,kannada,certificate,easyocr,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,True,1.0,ಕರ್ನಾಟಕತಾಂತ್ರಿಕವಿಶ್ವವಿದ್ಯಾಲಯ,tesseract,exact_supported
+kannada_certificate_083,kannada,certificate,easyocr,grade,B+,True,1.0,b+,,exact_supported
+kannada_certificate_083,kannada,certificate,paddleocr,name,ರವಿ ಜೋಶಿ,False,0.5,ುರಏಜೋ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,paddleocr,date,24/03/2026,False,0.8,2410312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_083,kannada,certificate,paddleocr,document_id,CERT-0083,False,0.7778,cert-oo83,easyocr,unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,paddleocr,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,False,0.5882,ಸೆಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾ.ಲಯ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_certificate_083,kannada,certificate,paddleocr,grade,B+,False,0.6667,b,easyocr,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,tesseract,name,ವಿಕ್ರಮ್ ರಾವ್,True,1.0,ವಿಕ್ರಮ್ರಾವ್,,exact_supported
+kannada_certificate_084,kannada,certificate,tesseract,date,25/03/2026,True,1.0,25/03/2026,,exact_supported
+kannada_certificate_084,kannada,certificate,tesseract,document_id,CERT-0084,False,0.5,೯7-೦084,easyocr,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,tesseract,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,True,1.0,ನಗರಶಿಕ್ಷಣಮಂಡಳಿ,easyocr,exact_supported
+kannada_certificate_084,kannada,certificate,tesseract,grade,B,False,0.0,,"easyocr, paddleocr",unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,easyocr,name,ವಿಕ್ರಮ್ ರಾವ್,False,0.7,ರುವಿಕ್ರಮ್,tesseract,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,easyocr,date,25/03/2026,False,0.8,25|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_084,kannada,certificate,easyocr,document_id,CERT-0084,True,1.0,cert-0084,,exact_supported
+kannada_certificate_084,kannada,certificate,easyocr,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,True,1.0,ನಗರಶಿಕ್ಷಣಮಂಡಳಿ,tesseract,exact_supported
+kannada_certificate_084,kannada,certificate,easyocr,grade,B,True,1.0,b,paddleocr,exact_supported
+kannada_certificate_084,kannada,certificate,paddleocr,name,ವಿಕ್ರಮ್ ರಾವ್,False,0.7,ಏಕೃಮ್ರಾವ್,tesseract,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,paddleocr,date,25/03/2026,False,0.8,2510312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_084,kannada,certificate,paddleocr,document_id,CERT-0084,False,0.7778,cert-oo84,easyocr,unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,paddleocr,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,False,0.6923,ಸೆನಗರ೫ಕಣಮಂಡಳ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_certificate_084,kannada,certificate,paddleocr,grade,B,True,1.0,b,easyocr,exact_supported
+kannada_certificate_085,kannada,certificate,tesseract,name,ಸ್ನೇಹಾ ವರ್ಮಾ,True,1.0,ಸ್ನೇಹಾವರ್ಮಾ,easyocr,exact_supported
+kannada_certificate_085,kannada,certificate,tesseract,date,26/03/2026,True,1.0,26/03/2026,,exact_supported
+kannada_certificate_085,kannada,certificate,tesseract,document_id,CERT-0085,False,0.625,೧1-0085,easyocr,unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,tesseract,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,False,0.8,ಿಬೀಯತಂತ್ರಜ್ಞಾನಸಂಸ್ಥೆ,easyocr,cross_ocr_fuzzy_candidate
+kannada_certificate_085,kannada,certificate,tesseract,grade,Distinction,False,0.0,,"easyocr, paddleocr",unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,easyocr,name,ಸ್ನೇಹಾ ವರ್ಮಾ,True,1.0,ಸ್ನೇಹಾವರ್ಮಾ,tesseract,exact_supported
+kannada_certificate_085,kannada,certificate,easyocr,date,26/03/2026,False,0.8,26|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_085,kannada,certificate,easyocr,document_id,CERT-0085,True,1.0,cert-0085,,exact_supported
+kannada_certificate_085,kannada,certificate,easyocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,True,1.0,ರಾಷ್ಟ್ರೀಯತಂತ್ರಜ್ಞಾನಸಂಸ್ಥೆ,,exact_supported
+kannada_certificate_085,kannada,certificate,easyocr,grade,Distinction,True,1.0,distinction,paddleocr,exact_supported
+kannada_certificate_085,kannada,certificate,paddleocr,name,ಸ್ನೇಹಾ ವರ್ಮಾ,False,0.6,ರುಸೀಹಾವಮಾ,"tesseract, easyocr",unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,paddleocr,date,26/03/2026,False,0.8,2610312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_085,kannada,certificate,paddleocr,document_id,CERT-0085,False,0.625,ಖೈcert-,easyocr,unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,paddleocr,institution,ರಾಷ್ಟ್ರೀಯ ತಂತ್ರಜ್ಞಾನ ಸಂಸ್ಥೆ,False,0.2667,ಾಣಪತೃಸಂಖೈcert-oo೯ಸಂಸ,easyocr,unavailable_or_uncertain
+kannada_certificate_085,kannada,certificate,paddleocr,grade,Distinction,True,1.0,distinction,easyocr,exact_supported
+kannada_certificate_086,kannada,certificate,tesseract,name,ದಿವ್ಯಾ ಶರ್ಮಾ,True,1.0,ದಿವ್ಯಾಶರ್ಮಾ,,exact_supported
+kannada_certificate_086,kannada,certificate,tesseract,date,27/03/2026,True,1.0,27/03/2026,,exact_supported
+kannada_certificate_086,kannada,certificate,tesseract,document_id,CERT-0086,False,0.625,೯1-0086,easyocr,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,tesseract,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,True,1.0,ಸರ್ಕಾರಿವಿಜ್ಞಾನಕಾಲೇಜು,easyocr,exact_supported
+kannada_certificate_086,kannada,certificate,tesseract,grade,A,False,0.0,,paddleocr,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,easyocr,name,ದಿವ್ಯಾ ಶರ್ಮಾ,False,0.7,ಿ:ದಿವ್ಯಾ್,tesseract,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,easyocr,date,27/03/2026,False,0.8,27|03|2026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_086,kannada,certificate,easyocr,document_id,CERT-0086,True,1.0,cert-0086,,exact_supported
+kannada_certificate_086,kannada,certificate,easyocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,True,1.0,ಸರ್ಕಾರಿವಿಜ್ಞಾನಕಾಲೇಜು,tesseract,exact_supported
+kannada_certificate_086,kannada,certificate,easyocr,grade,A,False,0.0,,paddleocr,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,paddleocr,name,ದಿವ್ಯಾ ಶರ್ಮಾ,False,0.6,ರುುದವಾಶಮಾ,tesseract,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,paddleocr,date,27/03/2026,False,0.8,2710312026,tesseract,cross_ocr_fuzzy_candidate
+kannada_certificate_086,kannada,certificate,paddleocr,document_id,CERT-0086,False,0.7778,cert-oo86,easyocr,unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,paddleocr,institution,ಸರ್ಕಾರಿ ವಿಜ್ಞಾನ ಕಾಲೇಜು,False,0.6667,ಃಸಕಾ೯ಹಏಜಾನಕಾಲೇಜು,"tesseract, easyocr",unavailable_or_uncertain
+kannada_certificate_086,kannada,certificate,paddleocr,grade,A,True,1.0,a,,exact_supported

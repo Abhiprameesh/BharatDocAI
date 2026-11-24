@@ -1,0 +1,15 @@
+{
+    "model": "Qwen/Qwen3-4B",
+    "experiment": "Experiment 2: Evidence-Aware Supervision",
+    "epochs": 5,
+    "batch_size": 2,
+    "gradient_accumulation_steps": 4,
+    "learning_rate": 0.0002,
+    "lora_rank": 8,
+    "lora_alpha": 16,
+    "max_length": 1024,
+    "training_examples": 162,
+    "validation_examples": 54,
+    "supported_training_fields": 621,
+    "masked_training_fields": 189
+}

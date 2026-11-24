@@ -1,0 +1,906 @@
+document_id,language,category,ocr_engine,field,expected,predicted,error_type,ocr_text
+english_certificate_027,english,certificate,tesseract,grade,A+,At,incorrect_nonempty,"CERTIFICATE
+
+Recipient Name > Vikram Nair
+
+Issue Date : 27/01/2026
+
+Certificate Number :  CERT-0027
+
+Institution : Karnataka Technical University
+
+Grade : At"
+english_certificate_028,english,certificate,tesseract,grade,B+,Bt,incorrect_nonempty,"CERTIFICATE
+
+Recipient Name : Arjun Verma
+
+Issue Date : 28/01/2026
+Certificate Number :  CERT-0028
+Institution : City Education Board
+
+Grade > Bt"
+hindi_invoice_037,hindi,invoice,tesseract,document_id,INV-0037,05-0037,incorrect_nonempty,"चालान
+
+ग्राहक का नाम : अर्जुन राव
+चालान दिनांक ४. 06/02/2026
+चालान संख्या :.. ]0५-0037
+पता :  तुमकुरु
+
+कुल राशि :.. 6569"
+hindi_invoice_038,hindi,invoice,tesseract,document_id,INV-0038,क्‍४-0038,incorrect_nonempty,"चालान
+
+ग्राहक का नाम
+
+चालान दिनांक
+
+चालान संख्या
+
+पता
+
+कुल राशि
+
+प्रिया सिंह
+
+07/02/2026
+
+क्‍४-0038
+
+उड्ड॒पी
+
+6706"
+hindi_invoice_038,hindi,invoice,tesseract,address,उडुपी,उड्ड॒पी,incorrect_nonempty,"चालान
+
+ग्राहक का नाम
+
+चालान दिनांक
+
+चालान संख्या
+
+पता
+
+कुल राशि
+
+प्रिया सिंह
+
+07/02/2026
+
+क्‍४-0038
+
+उड्ड॒पी
+
+6706"
+hindi_application_047,hindi,application,tesseract,date,16/02/2026,6/02/2026,incorrect_nonempty,"आवेदन पत्र
+
+आवेदक का नाम
+
+आवेदन दिनांक
+
+आवेदन संख्या
+
+पता
+
+फोन नंबर
+
+राहुल मेनन
+
+6/02/2026
+
+2077-0047
+
+तुमकुरु
+
+9000006439"
+hindi_application_047,hindi,application,tesseract,document_id,APP-0047,2077-0047,incorrect_nonempty,"आवेदन पत्र
+
+आवेदक का नाम
+
+आवेदन दिनांक
+
+आवेदन संख्या
+
+पता
+
+फोन नंबर
+
+राहुल मेनन
+
+6/02/2026
+
+2077-0047
+
+तुमकुरु
+
+9000006439"
+hindi_application_048,hindi,application,tesseract,date,17/02/2026,7/02/2026,incorrect_nonempty,"आवेदन पत्र
+
+आवेदक का नाम
+
+आवेदन दिनांक
+
+आवेदन संख्या
+
+पता
+
+फोन नंबर
+
+स्नेहा रेड्डी
+
+7/02/2026
+
+2077-0048
+
+उड्ड॒पी
+
+9000006576"
+hindi_application_048,hindi,application,tesseract,document_id,APP-0048,2077-0048,incorrect_nonempty,"आवेदन पत्र
+
+आवेदक का नाम
+
+आवेदन दिनांक
+
+आवेदन संख्या
+
+पता
+
+फोन नंबर
+
+स्नेहा रेड्डी
+
+7/02/2026
+
+2077-0048
+
+उड्ड॒पी
+
+9000006576"
+hindi_application_048,hindi,application,tesseract,address,उडुपी,उड्ड॒पी,incorrect_nonempty,"आवेदन पत्र
+
+आवेदक का नाम
+
+आवेदन दिनांक
+
+आवेदन संख्या
+
+पता
+
+फोन नंबर
+
+स्नेहा रेड्डी
+
+7/02/2026
+
+2077-0048
+
+उड्ड॒पी
+
+9000006576"
+hindi_certificate_057,hindi,certificate,tesseract,document_id,CERT-0057,४... (छारा-0057,incorrect_nonempty,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम : रवि नायर
+
+जारी करने की तारीख *.. 26/02/2026
+
+प्रमाण पत्र संख्या ४... (छारा-0057
+
+संस्थान : कर्नाटक तकनीकी विश्वविद्यालय
+
+श्रेणी :.. #त"
+hindi_certificate_057,hindi,certificate,tesseract,grade,A+,#त,incorrect_nonempty,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम : रवि नायर
+
+जारी करने की तारीख *.. 26/02/2026
+
+प्रमाण पत्र संख्या ४... (छारा-0057
+
+संस्थान : कर्नाटक तकनीकी विश्वविद्यालय
+
+श्रेणी :.. #त"
+hindi_certificate_058,hindi,certificate,tesseract,document_id,CERT-0058,४. (छारा-0058,incorrect_nonempty,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम : विक्रम वर्मा
+जारी करने की तारीख *.. 27/02/2026
+प्रमाण पत्र संख्या ४. (छारा-0058
+संस्थान : शहर शिक्षा बोर्ड
+
+श्रेणी :.. 8+"
+hindi_certificate_058,hindi,certificate,tesseract,grade,B+,8+,incorrect_nonempty,"प्रमाण पत्र
+
+प्राप्तकर्ता का नाम : विक्रम वर्मा
+जारी करने की तारीख *.. 27/02/2026
+प्रमाण पत्र संख्या ४. (छारा-0058
+संस्थान : शहर शिक्षा बोर्ड
+
+श्रेणी :.. 8+"
+kannada_invoice_067,kannada,invoice,tesseract,name,ವಿಕ್ರಮ್ ಮೆನನ್,ವಿಕ್ರಮ್‌ ಮೆನನ್‌,incorrect_nonempty,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು :. ವಿಕ್ರಮ್‌ ಮೆನನ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ :.. 08/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ : .1-0067
+ವಿಳಾಸ :. ತುಮಕೂರು
+
+ಒಟ್ಟು ಮೊತ್ತ :.. 10679"
+kannada_invoice_067,kannada,invoice,tesseract,document_id,INV-0067,1-0067,incorrect_nonempty,"ಸರಕುಪಟ್ಟಿ
+
+ಗ್ರಾಹಕರ ಹೆಸರು :. ವಿಕ್ರಮ್‌ ಮೆನನ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ :.. 08/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ : .1-0067
+ವಿಳಾಸ :. ತುಮಕೂರು
+
+ಒಟ್ಟು ಮೊತ್ತ :.. 10679"
+kannada_invoice_068,kannada,invoice,tesseract,name,ಅನನ್ಯಾ ಕುಮಾರ್,ಅನನ್ಯಾ ಕುಮಾರ್‌,incorrect_nonempty,"ಗ್ರಾಹಕರ ಹೆಸರು :. ಅನನ್ಯಾ ಕುಮಾರ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ :.. 09/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ ು.. 11/-0068
+ವಿಳಾಸ : . ಉಡುಪಿ
+
+ಒಟ್ಟು ಮೊತ್ತ :.. 10816"
+kannada_invoice_068,kannada,invoice,tesseract,document_id,INV-0068,11/-0068,incorrect_nonempty,"ಗ್ರಾಹಕರ ಹೆಸರು :. ಅನನ್ಯಾ ಕುಮಾರ್‌
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ :.. 09/03/2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ ು.. 11/-0068
+ವಿಳಾಸ : . ಉಡುಪಿ
+
+ಒಟ್ಟು ಮೊತ್ತ :.. 10816"
+kannada_application_077,kannada,application,tesseract,name,ವಿಕ್ರಮ್ ರೆಡ್ಡಿ,ವಿಕ್ರಮ್‌ ರೆಡ್ಡಿ,incorrect_nonempty,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು :. ವಿಕ್ರಮ್‌ ರೆಡ್ಡಿ
+ಅರ್ಜಿ ದಿನಾಂಕ :.. 18/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :.. ಓಾ೧-0077
+ವಿಳಾಸ ; . ತುಮಕೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ :.. 9000010549"
+kannada_application_077,kannada,application,tesseract,document_id,APP-0077,ಓಾ೧-0077,incorrect_nonempty,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು :. ವಿಕ್ರಮ್‌ ರೆಡ್ಡಿ
+ಅರ್ಜಿ ದಿನಾಂಕ :.. 18/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :.. ಓಾ೧-0077
+ವಿಳಾಸ ; . ತುಮಕೂರು
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ :.. 9000010549"
+kannada_application_078,kannada,application,tesseract,name,ಸ್ನೇಹಾ ನಾಯರ್,ಸ್ನೇಹಾ ನಾಯರ್‌,incorrect_nonempty,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು :.. ಸ್ನೇಹಾ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ :.. 19/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :.. ಓಾ೧-0078
+ವಿಳಾಸ : . ಉಡುಪಿ
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ :.. 9000010686"
+kannada_application_078,kannada,application,tesseract,document_id,APP-0078,ಓಾ೧-0078,incorrect_nonempty,"ಅರ್ಜಿ ನಮೂನೆ
+
+ಅರ್ಜಿದಾರರ ಹೆಸರು :.. ಸ್ನೇಹಾ ನಾಯರ್‌
+ಅರ್ಜಿ ದಿನಾಂಕ :.. 19/03/2026
+ಅರ್ಜಿ ಸಂಖ್ಯೆ :.. ಓಾ೧-0078
+ವಿಳಾಸ : . ಉಡುಪಿ
+
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ :.. 9000010686"
+kannada_certificate_087,kannada,certificate,tesseract,name,ವಿಕ್ರಮ್ ಜೋಶಿ,ವಿಕ್ರಮ್‌ ಜೋಶಿ,incorrect_nonempty,"ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು :. ವಿಕ್ರಮ್‌ ಜೋಶಿ
+
+ನೀಡಿದ ದಿನಾಂಕ :.. 28/03/2026
+
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೮೫0087
+
+ಸಂಸ್ಥೆ ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ"
+kannada_certificate_087,kannada,certificate,tesseract,document_id,CERT-0087,೮೫0087,incorrect_nonempty,"ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು :. ವಿಕ್ರಮ್‌ ಜೋಶಿ
+
+ನೀಡಿದ ದಿನಾಂಕ :.. 28/03/2026
+
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೮೫0087
+
+ಸಂಸ್ಥೆ ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ"
+kannada_certificate_087,kannada,certificate,tesseract,grade,A+,,missing,"ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು :. ವಿಕ್ರಮ್‌ ಜೋಶಿ
+
+ನೀಡಿದ ದಿನಾಂಕ :.. 28/03/2026
+
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೮೫0087
+
+ಸಂಸ್ಥೆ ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ"
+kannada_certificate_088,kannada,certificate,tesseract,name,ಮೀರಾ ಸಿಂಗ್,ಮೀರಾ ಸಿಂಗ್‌,incorrect_nonempty,"ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ; . ಮೀರಾ ಸಿಂಗ್‌
+ನೀಡಿದ ದಿನಾಂಕ :.. 29/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೮೫0088
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ"
+kannada_certificate_088,kannada,certificate,tesseract,document_id,CERT-0088,೮೫0088,incorrect_nonempty,"ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ; . ಮೀರಾ ಸಿಂಗ್‌
+ನೀಡಿದ ದಿನಾಂಕ :.. 29/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೮೫0088
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ"
+kannada_certificate_088,kannada,certificate,tesseract,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,incorrect_nonempty,"ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ; . ಮೀರಾ ಸಿಂಗ್‌
+ನೀಡಿದ ದಿನಾಂಕ :.. 29/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೮೫0088
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ"
+kannada_certificate_088,kannada,certificate,tesseract,grade,B+,,missing,"ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು ; . ಮೀರಾ ಸಿಂಗ್‌
+ನೀಡಿದ ದಿನಾಂಕ :.. 29/03/2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ ೮೫0088
+
+ಸಂಸ್ಥೆ ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ"
+hindi_application_048,hindi,application,easyocr,name,स्नेहा रेड्डी,सनेहा रेड्डी,incorrect_nonempty,"आवेदन पत्र
+आवेदक का नाम
+सनेहा रेड्डी
+आवेदन दिनांक
+17/02/2026
+आवेदन संख्या
+APP-0048
+उडप
+फोन नंबर
+9000006576"
+hindi_application_048,hindi,application,easyocr,address,उडुपी,उडप,incorrect_nonempty,"आवेदन पत्र
+आवेदक का नाम
+सनेहा रेड्डी
+आवेदन दिनांक
+17/02/2026
+आवेदन संख्या
+APP-0048
+उडप
+फोन नंबर
+9000006576"
+hindi_certificate_057,hindi,certificate,easyocr,document_id,CERT-0057,CERT 0057,incorrect_nonempty,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+रवि नायर
+जारी करने की तारीख
+26/02/2026
+प्रमाण पत्र संख्या
+CERT 0057
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+/+"
+hindi_certificate_057,hindi,certificate,easyocr,grade,A+,,missing,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+रवि नायर
+जारी करने की तारीख
+26/02/2026
+प्रमाण पत्र संख्या
+CERT 0057
+संस्थान
+कर्नाटक तकनीकी विश्वविद्यालय
+श्रेणी
+/+"
+hindi_certificate_058,hindi,certificate,easyocr,document_id,CERT-0058,CERT 0058,incorrect_nonempty,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+विक्रम वर्मा
+जारी करने की तारीख
+27/02/2026
+प्रमाण पत्र संख्या
+CERT 0058
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+8+"
+hindi_certificate_058,hindi,certificate,easyocr,grade,B+,8+,incorrect_nonempty,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+विक्रम वर्मा
+जारी करने की तारीख
+27/02/2026
+प्रमाण पत्र संख्या
+CERT 0058
+संस्थान
+शहर शिक्षा बोर्ड
+श्रेणी
+8+"
+hindi_invoice_037,hindi,invoice,easyocr,document_id,INV-0037,1N/`/-0037,incorrect_nonempty,"चालान
+ग्राहक का नाम
+अर्जुन राव
+चालान दिनांक
+06/02/2026
+चालान संख्या
+1N/`/-0037
+तुमकुरु
+कुल राशि
+6569"
+hindi_invoice_038,hindi,invoice,easyocr,document_id,INV-0038,1N/`/-0038,incorrect_nonempty,"चालान
+ग्राहक का नाम
+प्रिया सिंह
+चालान दिनांक
+07/02/2026
+चालान संख्या
+1N/`/-0038
+उडप
+कुल राशि
+6706"
+hindi_invoice_038,hindi,invoice,easyocr,address,उडुपी,उडप,incorrect_nonempty,"चालान
+ग्राहक का नाम
+प्रिया सिंह
+चालान दिनांक
+07/02/2026
+चालान संख्या
+1N/`/-0038
+उडप
+कुल राशि
+6706"
+kannada_application_077,kannada,application,easyocr,date,18/03/2026,18 |03 | 2026,incorrect_nonempty,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ವಿಕ್ರಮ್ ರೆಡ್ಡಿ
+ಅರ್ಜಿ ದಿನಾಂಕ
+18 |03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0077
+ಳಾಸ
+ತುಮಕೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0549"
+kannada_application_077,kannada,application,easyocr,phone,9000010549,900001 0549,incorrect_nonempty,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ವಿಕ್ರಮ್ ರೆಡ್ಡಿ
+ಅರ್ಜಿ ದಿನಾಂಕ
+18 |03 | 2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0077
+ಳಾಸ
+ತುಮಕೂರು
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0549"
+kannada_application_078,kannada,application,easyocr,date,19/03/2026,19 |03 |2026,incorrect_nonempty,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಸ್ನೇಹಾ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+19 |03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0078
+ಳಾಸ
+ಉಡುಪಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0686"
+kannada_application_078,kannada,application,easyocr,phone,9000010686,900001 0686,incorrect_nonempty,"ಅರ್ಜಿ ನಮೂನೆ
+ಅರ್ಜಿದಾರರ ಹೆಸರು
+ಸ್ನೇಹಾ ನಾಯರ್
+ಅರ್ಜಿ ದಿನಾಂಕ
+19 |03 |2026
+ಅರ್ಜಿ
+ಸಂಖ್ಯೆ
+APP-0078
+ಳಾಸ
+ಉಡುಪಿ
+ದೂರವಾಣಿ ಸಂಖ್ಯೆ
+900001 0686"
+kannada_certificate_087,kannada,certificate,easyocr,date,28/03/2026,28 |03 | 2026,incorrect_nonempty,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ವಿಕ್ರಮ್ ಜೋಶಿ
+ನೀಡಿದ ದಿನಾಂಕ
+28 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0087
+ಸಂಸ್ಥೆ
+ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ
+ಶ್ರೇಣಿ
+A+"
+kannada_certificate_088,kannada,certificate,easyocr,date,29/03/2026,29 |03 | 2026,incorrect_nonempty,"ಪ್ರಮಾಣಪತ್ರ
+ಸ್ವೀಕರಿಸುವವರ ಹೆಸರು
+ಮೀರಾ ಸಿಂಗ್
+ನೀಡಿದ ದಿನಾಂಕ
+29 |03 | 2026
+ಪ್ರಮಾಣಪತ್ರ ಸಂಖ್ಯೆ
+CERT-0088
+ಸಂಸ್ಥೆ
+ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ
+ಶ್ರೇಣಿ
+B+"
+kannada_invoice_067,kannada,invoice,easyocr,date,08/03/2026,08 |03 | 2026,incorrect_nonempty,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ವಿಕ್ರಮ್ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+08 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0067
+ವಿಳಾಸ
+ತುಮಕೂರು
+ಒಟ್ಟು ಮೂತ್ತ
+10679"
+kannada_invoice_067,kannada,invoice,easyocr,document_id,INV-0067,NV-0067,incorrect_nonempty,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ವಿಕ್ರಮ್ ಮೆನನ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+08 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0067
+ವಿಳಾಸ
+ತುಮಕೂರು
+ಒಟ್ಟು ಮೂತ್ತ
+10679"
+kannada_invoice_068,kannada,invoice,easyocr,name,ಅನನ್ಯಾ ಕುಮಾರ್,ಕುಮಾರ್,incorrect_nonempty,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕುಮಾರ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+09 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0068
+ವಿಳಾಸ
+ಉಡುಪಿ
+ಒಟ್ಟು ಮೂತ್ತ
+10816
+ಅನನ್ಯಾ"
+kannada_invoice_068,kannada,invoice,easyocr,date,09/03/2026,09 |03 | 2026,incorrect_nonempty,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕುಮಾರ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+09 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0068
+ವಿಳಾಸ
+ಉಡುಪಿ
+ಒಟ್ಟು ಮೂತ್ತ
+10816
+ಅನನ್ಯಾ"
+kannada_invoice_068,kannada,invoice,easyocr,document_id,INV-0068,NV-0068,incorrect_nonempty,"ಸರಕುಪಟ್ಟಿ
+ಗ್ರಾಹಕರ ಹೆಸರು
+ಕುಮಾರ್
+ಸರಕುಪಟ್ಟಿ ದಿನಾಂಕ
+09 |03 | 2026
+ಸರಕುಪಟ್ಟಿ ಸಂಖ್ಯೆ
+[NV-0068
+ವಿಳಾಸ
+ಉಡುಪಿ
+ಒಟ್ಟು ಮೂತ್ತ
+10816
+ಅನನ್ಯಾ"
+english_certificate_028,english,certificate,paddleocr,grade,B+,,missing,"CERTIFICATE
+Recipient Name
+: Arjun Verma
+Issue Date
+28/01/2026
+Certificate Number
+CERT-0028
+Institution
+City Education Board
+Grade"
+hindi_application_048,hindi,application,paddleocr,name,स्नेहा रेड्डी,स्ेहा रेड्डी,incorrect_nonempty,"आवेदन पत्र
+आवेदक का नाम
+:स्ेहा रेड्डी
+आवेदन दिनांक
+17/02/2026
+:
+आवेदन संख्या
+:
+APP-0048
+पता
+उडुपी
+फोन नंबर
+9000006576"
+hindi_certificate_057,hindi,certificate,paddleocr,institution,कर्नाटक तकनीकी विश्वविद्यालय,कर्नाटक तकनीकी विश्विद्यालय,incorrect_nonempty,"प्रमाण पत्र
+प्राप्तकर्ता का नाम
+रवि नायर
+:
+जारी करने की तारीख
+:
+26/02/2026
+प्रमाण पत्र संख्या
+:
+CERT-0057
+संस्थान
+कर्नाटक तकनीकी विश्विद्यालय
+श्रेणी
+: A+"
+hindi_invoice_038,hindi,invoice,paddleocr,name,प्रिया सिंह,प्रिया सिं,incorrect_nonempty,"चालान
+प्रिया सिं
+ग्राहक का नाम
+चालान दिनांक
+07/02/2026
+:
+चालान संख्या
+:
+INV-0038
+पता
+उडुपी
+कुल राशि
+6706"
+kannada_application_077,kannada,application,paddleocr,name,ವಿಕ್ರಮ್ ರೆಡ್ಡಿ,ಅಜಿ೯ನಮೂನ,incorrect_nonempty,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏಕೃಮ್ರೆಡೆ
+ಅಜಿ೯ಏನಾಂಕ
+1810312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OOTT
+ಎಳಾಸ
+ತುಮಕೂರು
+ದೂರವಾಣಿಸಂಖ
+GOOOO1O54G"
+kannada_application_077,kannada,application,paddleocr,date,18/03/2026,,missing,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏಕೃಮ್ರೆಡೆ
+ಅಜಿ೯ಏನಾಂಕ
+1810312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OOTT
+ಎಳಾಸ
+ತುಮಕೂರು
+ದೂರವಾಣಿಸಂಖ
+GOOOO1O54G"
+kannada_application_077,kannada,application,paddleocr,document_id,APP-0077,1810312026,incorrect_nonempty,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏಕೃಮ್ರೆಡೆ
+ಅಜಿ೯ಏನಾಂಕ
+1810312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OOTT
+ಎಳಾಸ
+ತುಮಕೂರು
+ದೂರವಾಣಿಸಂಖ
+GOOOO1O54G"
+kannada_application_077,kannada,application,paddleocr,phone,9000010549,GOOOO1O54G,incorrect_nonempty,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಏಕೃಮ್ರೆಡೆ
+ಅಜಿ೯ಏನಾಂಕ
+1810312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OOTT
+ಎಳಾಸ
+ತುಮಕೂರು
+ದೂರವಾಣಿಸಂಖ
+GOOOO1O54G"
+kannada_application_078,kannada,application,paddleocr,name,ಸ್ನೇಹಾ ನಾಯರ್,ಅಜಿ೯ನಮೂನ,incorrect_nonempty,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಸೀಹಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕ
+19 10312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OO78
+ಎಳಾಸ
+ಉಡುಏ
+ದೂರವಾಣಿಸಂಖ
+90000106ಢ6"
+kannada_application_078,kannada,application,paddleocr,date,19/03/2026,19 10312026,incorrect_nonempty,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಸೀಹಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕ
+19 10312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OO78
+ಎಳಾಸ
+ಉಡುಏ
+ದೂರವಾಣಿಸಂಖ
+90000106ಢ6"
+kannada_application_078,kannada,application,paddleocr,document_id,APP-0078,APP-OO78,incorrect_nonempty,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಸೀಹಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕ
+19 10312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OO78
+ಎಳಾಸ
+ಉಡುಏ
+ದೂರವಾಣಿಸಂಖ
+90000106ಢ6"
+kannada_application_078,kannada,application,paddleocr,address,ಉಡುಪಿ,ಅಜಿ೯ದಾರರಹೆಸರು,incorrect_nonempty,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಸೀಹಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕ
+19 10312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OO78
+ಎಳಾಸ
+ಉಡುಏ
+ದೂರವಾಣಿಸಂಖ
+90000106ಢ6"
+kannada_application_078,kannada,application,paddleocr,phone,9000010686,90000106ಢ6,incorrect_nonempty,"ಅಜಿ೯ನಮೂನ
+ಅಜಿ೯ದಾರರಹೆಸರು
+ಸೀಹಾನಾಯರ್
+ಅಜಿ೯ದನಾಂಕ
+19 10312026
+ಅಜಿ೯ಸಂಖೇ
+APP-OO78
+ಎಳಾಸ
+ಉಡುಏ
+ದೂರವಾಣಿಸಂಖ
+90000106ಢ6"
+kannada_certificate_087,kannada,certificate,paddleocr,name,ವಿಕ್ರಮ್ ಜೋಶಿ,ಪೃಮಾಣಪತ,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ಜೋಶ
+ನಡದಏನಾಂಕ
+2810312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃ7
+ಸಂಸೈ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾಲಯ
+ಧೌ
+ಶೀಣ
+At"
+kannada_certificate_087,kannada,certificate,paddleocr,date,28/03/2026,At,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ಜೋಶ
+ನಡದಏನಾಂಕ
+2810312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃ7
+ಸಂಸೈ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾಲಯ
+ಧೌ
+ಶೀಣ
+At"
+kannada_certificate_087,kannada,certificate,paddleocr,document_id,CERT-0087,2810312026,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ಜೋಶ
+ನಡದಏನಾಂಕ
+2810312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃ7
+ಸಂಸೈ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾಲಯ
+ಧೌ
+ಶೀಣ
+At"
+kannada_certificate_087,kannada,certificate,paddleocr,institution,ಕರ್ನಾಟಕ ತಾಂತ್ರಿಕ ವಿಶ್ವವಿದ್ಯಾಲಯ,ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾಲಯ,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ಜೋಶ
+ನಡದಏನಾಂಕ
+2810312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃ7
+ಸಂಸೈ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾಲಯ
+ಧೌ
+ಶೀಣ
+At"
+kannada_certificate_087,kannada,certificate,paddleocr,grade,A+,ಶೀಣ,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏಕೃಮ್ಜೋಶ
+ನಡದಏನಾಂಕ
+2810312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃ7
+ಸಂಸೈ
+ಕನಾ೯ಟಕತಾಂತೃಕಏಶೃಏದಾಲಯ
+ಧೌ
+ಶೀಣ
+At"
+kannada_certificate_088,kannada,certificate,paddleocr,name,ಮೀರಾ ಸಿಂಗ್,ಪೃಮಾಣಪತ,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏುರಾನಂಗ್
+ನಡದಏನಾಂಕ
+2910312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃಃ
+ಸಂಸೈ
+ನಗರ೩ಕಣಮಂಡಳ
+ಇ
+ಶೀಣ
+B+"
+kannada_certificate_088,kannada,certificate,paddleocr,date,29/03/2026,ನೀಕಂಸುವವರಹೆಸರು,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏುರಾನಂಗ್
+ನಡದಏನಾಂಕ
+2910312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃಃ
+ಸಂಸೈ
+ನಗರ೩ಕಣಮಂಡಳ
+ಇ
+ಶೀಣ
+B+"
+kannada_certificate_088,kannada,certificate,paddleocr,document_id,CERT-0088,2910312026,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏುರಾನಂಗ್
+ನಡದಏನಾಂಕ
+2910312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃಃ
+ಸಂಸೈ
+ನಗರ೩ಕಣಮಂಡಳ
+ಇ
+ಶೀಣ
+B+"
+kannada_certificate_088,kannada,certificate,paddleocr,institution,ನಗರ ಶಿಕ್ಷಣ ಮಂಡಳಿ,ನಗರ೩ಕಣಮಂಡಳ,incorrect_nonempty,"ಪೃಮಾಣಪತ
+ನೀಕಂಸುವವರಹೆಸರು
+ಏುರಾನಂಗ್
+ನಡದಏನಾಂಕ
+2910312026
+ಪೃಮಾಣಪತೃಸಂಖೈ
+CERT-OOಃಃ
+ಸಂಸೈ
+ನಗರ೩ಕಣಮಂಡಳ
+ಇ
+ಶೀಣ
+B+"
+kannada_invoice_067,kannada,invoice,paddleocr,name,ವಿಕ್ರಮ್ ಮೆನನ್,ಸರಕುಪಟಿ,incorrect_nonempty,"ಸರಕುಪಟಿ
+ವ
+ಗಾಹಕರಹೆಸರು
+ಏಕೃಮ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+0810312026
+ಸರಕುಪಟೃಸಂಖೈ
+INV-OO6T
+ಎಳಾಸ
+ತುಮಕೂರು
+ಒಟು.
+ವೊತ
+1067
+."
+kannada_invoice_067,kannada,invoice,paddleocr,date,08/03/2026,ವ,incorrect_nonempty,"ಸರಕುಪಟಿ
+ವ
+ಗಾಹಕರಹೆಸರು
+ಏಕೃಮ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+0810312026
+ಸರಕುಪಟೃಸಂಖೈ
+INV-OO6T
+ಎಳಾಸ
+ತುಮಕೂರು
+ಒಟು.
+ವೊತ
+1067
+."
+kannada_invoice_067,kannada,invoice,paddleocr,document_id,INV-0067,0810312026,incorrect_nonempty,"ಸರಕುಪಟಿ
+ವ
+ಗಾಹಕರಹೆಸರು
+ಏಕೃಮ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+0810312026
+ಸರಕುಪಟೃಸಂಖೈ
+INV-OO6T
+ಎಳಾಸ
+ತುಮಕೂರು
+ಒಟು.
+ವೊತ
+1067
+."
+kannada_invoice_067,kannada,invoice,paddleocr,amount,10679,1067,incorrect_nonempty,"ಸರಕುಪಟಿ
+ವ
+ಗಾಹಕರಹೆಸರು
+ಏಕೃಮ್ಮನನ್
+ಸರಕುಪಟಿದನಾಂಕ
+0810312026
+ಸರಕುಪಟೃಸಂಖೈ
+INV-OO6T
+ಎಳಾಸ
+ತುಮಕೂರು
+ಒಟು.
+ವೊತ
+1067
+."
+kannada_invoice_068,kannada,invoice,paddleocr,name,ಅನನ್ಯಾ ಕುಮಾರ್,ಅನನಾ-ಕುಮಾರ್,incorrect_nonempty,"ಸರಕುಪಟಿ
+ವ
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ-ಕುಮಾರ್
+ಸರಕುಪಟಿದನಾಂಕ
+09 10312026
+ಸರಕುಪಟೃಸಂಖೈ
+INV-OO6ಃ
+ಎಳಾಸ
+ಉಡುಏ
+ಒಟು.
+ವೊತ
+10816
+."
+kannada_invoice_068,kannada,invoice,paddleocr,date,09/03/2026,,missing,"ಸರಕುಪಟಿ
+ವ
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ-ಕುಮಾರ್
+ಸರಕುಪಟಿದನಾಂಕ
+09 10312026
+ಸರಕುಪಟೃಸಂಖೈ
+INV-OO6ಃ
+ಎಳಾಸ
+ಉಡುಏ
+ಒಟು.
+ವೊತ
+10816
+."
+kannada_invoice_068,kannada,invoice,paddleocr,document_id,INV-0068,INV-OO6ಃ,incorrect_nonempty,"ಸರಕುಪಟಿ
+ವ
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ-ಕುಮಾರ್
+ಸರಕುಪಟಿದನಾಂಕ
+09 10312026
+ಸರಕುಪಟೃಸಂಖೈ
+INV-OO6ಃ
+ಎಳಾಸ
+ಉಡುಏ
+ಒಟು.
+ವೊತ
+10816
+."
+kannada_invoice_068,kannada,invoice,paddleocr,address,ಉಡುಪಿ,ಗಾಹಕರಹೆಸರು,incorrect_nonempty,"ಸರಕುಪಟಿ
+ವ
+ಗಾಹಕರಹೆಸರು
+ಅನನಾ-ಕುಮಾರ್
+ಸರಕುಪಟಿದನಾಂಕ
+09 10312026
+ಸರಕುಪಟೃಸಂಖೈ
+INV-OO6ಃ
+ಎಳಾಸ
+ಉಡುಏ
+ಒಟು.
+ವೊತ
+10816
+."
